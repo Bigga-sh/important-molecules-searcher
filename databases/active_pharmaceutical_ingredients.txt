@@ -1,0 +1,652 @@
+WHO Essential Medicines 23rd Edition + common industrial APIs
+=============================================================
+
+-- Analgesics & Antipyretics --
+acetylsalicylic acid
+ibuprofen
+paracetamol
+ketoprofen
+diclofenac
+naproxen
+indomethacin
+meloxicam
+celecoxib
+morphine
+codeine
+tramadol
+fentanyl
+buprenorphine
+methadone
+oxycodone
+hydromorphone
+naloxone
+naltrexone
+tapentadol
+
+-- Anesthetics --
+ketamine
+propofol
+thiopental
+lidocaine
+bupivacaine
+ropivacaine
+prilocaine
+procaine
+mepivacaine
+isoflurane
+sevoflurane
+halothane
+nitrous oxide
+atropine
+neostigmine
+suxamethonium
+rocuronium
+vecuronium
+pancuronium
+ephedrine
+
+-- Antibiotics - Penicillins --
+benzylpenicillin
+phenoxymethylpenicillin
+amoxicillin
+ampicillin
+cloxacillin
+dicloxacillin
+flucloxacillin
+piperacillin
+ticarcillin
+amoxicillin-clavulanate
+
+-- Antibiotics - Cephalosporins --
+cefalexin
+cefazolin
+cefuroxime
+cefoxitin
+ceftriaxone
+cefotaxime
+ceftazidime
+cefepime
+cefixime
+cefpodoxime
+
+-- Antibiotics - Carbapenems & Others --
+imipenem
+meropenem
+ertapenem
+doripenem
+aztreonam
+vancomycin
+teicoplanin
+linezolid
+daptomycin
+chloramphenicol
+co-trimoxazole
+trimethoprim
+sulfamethoxazole
+
+-- Antibiotics - Aminoglycosides --
+gentamicin
+amikacin
+tobramycin
+streptomycin
+neomycin
+netilmicin
+
+-- Antibiotics - Macrolides --
+erythromycin
+azithromycin
+clarithromycin
+roxithromycin
+spiramycin
+
+-- Antibiotics - Tetracyclines --
+tetracycline
+doxycycline
+minocycline
+oxytetracycline
+
+-- Antibiotics - Fluoroquinolones --
+ciprofloxacin
+levofloxacin
+moxifloxacin
+norfloxacin
+ofloxacin
+nalidixic acid
+
+-- Antibiotics - Nitroimidazoles --
+metronidazole
+tinidazole
+ornidazole
+secnidazole
+
+-- Antituberculosis --
+isoniazid
+rifampicin
+rifabutin
+pyrazinamide
+ethambutol
+streptomycin
+capreomycin
+cycloserine
+ethionamide
+bedaquiline
+delamanid
+
+-- Antivirals - HIV --
+zidovudine
+lamivudine
+stavudine
+didanosine
+abacavir
+emtricitabine
+tenofovir
+efavirenz
+nevirapine
+lopinavir
+ritonavir
+atazanavir
+darunavir
+raltegravir
+dolutegravir
+
+-- Antivirals - Herpes --
+aciclovir
+valaciclovir
+famciclovir
+ganciclovir
+valganciclovir
+foscarnet
+
+-- Antivirals - Influenza --
+oseltamivir
+zanamivir
+ribavirin
+
+-- Antifungals --
+fluconazole
+itraconazole
+voriconazole
+posaconazole
+ketoconazole
+amphotericin B
+nystatin
+griseofulvin
+terbinafine
+clotrimazole
+miconazole
+econazole
+flucytosine
+
+-- Antimalarials --
+chloroquine
+hydroxychloroquine
+quinine
+mefloquine
+artemether
+artesunate
+lumefantrine
+atovaquone
+proguanil
+primaquine
+pyrimethamine
+sulfadoxine
+amodiaquine
+halofantrine
+
+-- Antiprotozoals --
+metronidazole
+tinidazole
+pentamidine
+suramin
+melarsoprol
+eflornithine
+miltefosine
+amphotericin B
+benznidazole
+nifurtimox
+
+-- Anthelmintics --
+albendazole
+mebendazole
+praziquantel
+ivermectin
+diethylcarbamazine
+niclosamide
+pyrantel
+levamisole
+thiabendazole
+oxamniquine
+
+-- Cardiovascular - Beta-blockers --
+atenolol
+metoprolol
+propranolol
+bisoprolol
+carvedilol
+nebivolol
+labetalol
+timolol
+nadolol
+esmolol
+
+-- Cardiovascular - Calcium channel blockers --
+amlodipine
+nifedipine
+felodipine
+lercanidipine
+diltiazem
+verapamil
+isradipine
+nitrendipine
+
+-- Cardiovascular - ACE inhibitors --
+captopril
+enalapril
+lisinopril
+ramipril
+perindopril
+fosinopril
+quinapril
+trandolapril
+benazepril
+
+-- Cardiovascular - Angiotensin receptor blockers --
+losartan
+valsartan
+irbesartan
+candesartan
+telmisartan
+olmesartan
+eprosartan
+
+-- Cardiovascular - Diuretics --
+furosemide
+hydrochlorothiazide
+chlorthalidone
+indapamide
+spironolactone
+amiloride
+triamterene
+eplerenone
+torsemide
+acetazolamide
+mannitol
+
+-- Cardiovascular - Statins --
+simvastatin
+atorvastatin
+rosuvastatin
+pravastatin
+fluvastatin
+lovastatin
+pitavastatin
+
+-- Cardiovascular - Others --
+digoxin
+warfarin
+heparin
+enoxaparin
+fondaparinux
+clopidogrel
+aspirin
+ticagrelor
+prasugrel
+apixaban
+rivaroxaban
+dabigatran
+glyceryl trinitrate
+isosorbide dinitrate
+isosorbide mononitrate
+amiodarone
+flecainide
+propafenone
+adenosine
+adrenaline
+noradrenaline
+dopamine
+dobutamine
+milrinone
+levosimendan
+ivabradine
+sacubitril
+valsartan
+hydralazine
+methyldopa
+clonidine
+moxonidine
+
+-- Diabetes --
+insulin
+metformin
+glibenclamide
+glimepiride
+glipizide
+gliclazide
+pioglitazone
+rosiglitazone
+sitagliptin
+vildagliptin
+saxagliptin
+linagliptin
+empagliflozin
+dapagliflozin
+canagliflozin
+exenatide
+liraglutide
+dulaglutide
+acarbose
+repaglinide
+nateglinide
+
+-- Gastrointestinal --
+omeprazole
+pantoprazole
+lansoprazole
+esomeprazole
+rabeprazole
+ranitidine
+cimetidine
+famotidine
+sucralfate
+misoprostol
+metoclopramide
+domperidone
+ondansetron
+granisetron
+tropisetron
+loperamide
+oral rehydration salts
+lactulose
+bisacodyl
+senna
+macrogol
+magnesium hydroxide
+aluminum hydroxide
+calcium carbonate
+mesalazine
+sulfasalazine
+infliximab
+azathioprine
+
+-- Respiratory --
+salbutamol
+albuterol
+terbutaline
+formoterol
+salmeterol
+ipratropium
+tiotropium
+beclomethasone
+budesonide
+fluticasone
+mometasone
+ciclesonide
+prednisolone
+methylprednisolone
+theophylline
+aminophylline
+montelukast
+zafirlukast
+cromoglicate
+acetylcysteine
+carbocisteine
+ambroxol
+bromhexine
+dornase alfa
+
+-- CNS - Antiepileptics --
+phenobarbital
+phenytoin
+valproic acid
+carbamazepine
+oxcarbazepine
+lamotrigine
+levetiracetam
+topiramate
+gabapentin
+pregabalin
+clonazepam
+ethosuximide
+vigabatrin
+lacosamide
+zonisamide
+rufinamide
+
+-- CNS - Antipsychotics --
+haloperidol
+chlorpromazine
+trifluoperazine
+fluphenazine
+risperidone
+olanzapine
+quetiapine
+aripiprazole
+clozapine
+ziprasidone
+paliperidone
+amisulpride
+sulpiride
+
+-- CNS - Antidepressants --
+amitriptyline
+imipramine
+clomipramine
+nortriptyline
+doxepin
+fluoxetine
+sertraline
+paroxetine
+escitalopram
+citalopram
+venlafaxine
+duloxetine
+mirtazapine
+bupropion
+trazodone
+lithium
+agomelatine
+
+-- CNS - Anxiolytics/Hypnotics --
+diazepam
+lorazepam
+alprazolam
+clonazepam
+oxazepam
+midazolam
+zolpidem
+zopiclone
+zaleplon
+buspirone
+hydroxyzine
+
+-- CNS - Parkinson's --
+levodopa
+carbidopa
+benserazide
+bromocriptine
+pramipexole
+ropinirole
+rotigotine
+amantadine
+entacapone
+tolcapone
+selegiline
+rasagiline
+apomorphine
+
+-- Hormones --
+levothyroxine
+propylthiouracil
+carbimazole
+thiamazole
+dexamethasone
+prednisolone
+hydrocortisone
+fludrocortisone
+cortisone
+triamcinolone
+betamethasone
+budesonide
+testosterone
+estradiol
+estriol
+progesterone
+medroxyprogesterone
+levonorgestrel
+norethisterone
+ethinylestradiol
+desogestrel
+gestodene
+
+-- Antineoplastics --
+cyclophosphamide
+ifosfamide
+melphalan
+busulfan
+chlorambucil
+carmustine
+lomustine
+dacarbazine
+cisplatin
+carboplatin
+oxaliplatin
+methotrexate
+fluorouracil
+capecitabine
+cytarabine
+gemcitabine
+mercaptopurine
+thioguanine
+azathioprine
+doxorubicin
+epirubicin
+daunorubicin
+bleomycin
+mitomycin
+vincristine
+vinblastine
+vinorelbine
+paclitaxel
+docetaxel
+etoposide
+irinotecan
+topotecan
+tamoxifen
+letrozole
+anastrozole
+exemestane
+imatinib
+gefitinib
+erlotinib
+sorafenib
+sunitinib
+rituximab
+trastuzumab
+bevacizumab
+cetuximab
+leucovorin
+hydroxycarbamide
+
+-- Immunosuppressants --
+cyclosporine
+tacrolimus
+sirolimus
+everolimus
+mycophenolate mofetil
+azathioprine
+methotrexate
+leflunomide
+hydroxychloroquine
+sulfasalazine
+
+-- Antihistamines --
+cetirizine
+levocetirizine
+loratadine
+desloratadine
+fexofenadine
+chlorphenamine
+promethazine
+diphenhydramine
+doxylamine
+cyproheptadine
+
+-- Vitamins & Minerals --
+ascorbic acid
+thiamine
+riboflavin
+pyridoxine
+folic acid
+cyanocobalamin
+retinol
+cholecalciferol
+ergocalciferol
+tocopherol
+phytomenadione
+calcium gluconate
+ferrous sulfate
+ferrous fumarate
+ferric carboxymaltose
+zinc sulfate
+potassium chloride
+magnesium sulfate
+sodium bicarbonate
+iodine
+
+-- Uterotonic & Reproductive --
+oxytocin
+ergometrine
+misoprostol
+mifepristone
+dinoprostone
+atosiban
+clomifene
+gonadotrophin
+
+-- Ophthalmological --
+pilocarpine
+timolol
+latanoprost
+bimatoprost
+brimonidine
+dorzolamide
+brinzolamide
+acetazolamide
+tetracaine
+tropicamide
+atropine
+
+-- Antidotes --
+acetylcysteine
+flumazenil
+dimercaprol
+sodium thiosulfate
+deferoxamine
+penicillamine
+pralidoxime
+calcium gluconate
+protamine
+physostigmine
+fomepizole
+
+-- Dermatological --
+hydrocortisone
+betamethasone
+clobetasol
+mometasone
+triamcinolone
+silver sulfadiazine
+mupirocin
+permethrin
+ivermectin
+benzyl benzoate
+salicylic acid
+benzoyl peroxide
+tretinoin
+isotretinoin
+coal tar
+selenium sulfide
+ketoconazole
+terbinafine
+podophyllum resin
+imiquimod

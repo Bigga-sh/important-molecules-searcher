@@ -1,0 +1,750 @@
+(E)-2-(2-(2-(2,3-dichlorophenylamino)-6-trifluoromethylpyrimidin-4-yloxymethyl)phenyl)-3-methoxyacrylate
+(E)-dec-5-enyl acetate
+(E)-dodec-8-enyl acetate
+(E)-dodec-9-enyl acetate
+(E)-methyl 2-[2-[[[(Z)[1-(3,5-bis(trifluoromethyl)phenyl)-1-methylthiomethylidene]amino]oxy]methyl]phenyl]-3-methoxyacrylate
+(E)-tetradec-11-enyl acetate
+(R)-flufiprole
+(Z)-11-tetradecenyl acetate
+(Z)-dodec-8-enyl acetate
+(Z)-dodec-9-enyl acetate
+(Z)-tetradec-9-enyl acetate
+1-(4-chlorophenyl)-3-(2,6-dichlorobenzoyl)urea
+1,2-dichlorobenzene
+1,2-dichloropropane
+1,2-octanediol
+1,3-dichloropropene
+1,4-dichlorobenzene
+11-tetradecenal
+11-tetradecenol
+1-dodecanol
+2-(octylthio)ethanol
+4-allylanisole
+8-dodecenol
+Acephate
+Acequinocyl
+Acetamiprid
+Acethion
+Acetophos
+Acetoprole
+Acibenzolar
+Acrep
+Acrinathrin
+Acrylonitrile
+Acynonapyr
+Afidopyropen
+Alanycarb
+Aldicarb
+Aldoxycarb
+Aldrin
+Allethrin
+Allyxycarb
+Alpha-cypermethrin
+Alpha-endosulfan
+Alpha-hexachlorocyclohexane
+Altretamine
+Aluminium phosphide
+Aluminium silicate
+Amidithion
+Amidoflumet
+Amidothioate
+Aminocarb
+Amiton
+Amiton oxalate
+Amitraz
+Ammonium acetate
+Anagrapha falcifera nucleopolyhedrovirus
+Anethole
+Anthracene oil
+Apholate
+Aramite
+Arctium lappa extract
+Arsenic acid
+Artemisia absinthium extract
+Artemisia vulgaris oil
+Aspon
+Athidathion
+Azamethiphos
+Azinphos-ethyl
+Azinphos-methyl
+Azothoate
+Azoxybenzene
+Bacillus sphaericus
+Bacillus thuringiensis Berliner subsp. japonensis
+Bacillus thuringiensis Berliner subsp. morrisoni
+Bacillus thuringiensis subsp. aizawai strain ABTS-1857
+Bacillus thuringiensis subsp. aizawai strain GC-91
+Bacillus thuringiensis subsp. israelensis strain AM65-52
+Bacillus thuringiensis subsp. kurstaki strain ABTS 351
+Bacillus thuringiensis subsp. kurstaki strain EG2348
+Bacillus thuringiensis subsp. kurstaki strain PB 54
+Bacillus thuringiensis subsp. kurstaki strain SA11
+Bacillus thuringiensis subsp. kurstaki strain SA12
+Bacillus thuringiensis subsp. tenebrionis NB 176
+Bacillus velezensis strain RTI301
+Beauveria bassiana strain ATCC 74040
+Beauveria bassiana strain GHA
+Benbianmanxianan
+Benclothiaz
+Bendiocarb
+Benfuracarb
+Benmanmizuo
+Benoxafos
+Bensultap
+Bentioflumin
+Benzoic acid
+Benzpyrimoxan
+Benzyl benzoate
+Berberine
+Beta-cyfluthrin
+Beta-cypermethrin
+Beta-dihydroheptachlor
+Beta-endosulfan
+Bifenazate
+Bifenthrin
+Binapacryl
+Bioallethrin
+Biopermethrin
+Bioresmethrin
+Bis(2-chloroethyl)ether
+Bistrifluron
+Bisulflufen
+Borax
+Boric acid
+Brofenvalerate
+Broflanilide
+Brofluthrinate
+Bromfenvinfos
+Bromocyclen
+Bromomethane
+Bromophos
+Bromophos-ethyl
+Bufencarb
+Buprofezin
+Busulfan
+Butathiofos
+Butocarboxim
+Butonate
+Butopyronoxyl
+Butoxycarboxim
+Cadusafos
+Caffeine
+Calcium acetate
+Calcium arsenate
+Calcium chloride
+Calcium cyanide
+Calcium hydroxide
+Calvinphos
+Camphechlor
+Camphene
+Camphor
+Canola oil
+Capric acid
+Caprylic acid
+Carbanolate
+Carbaryl
+Carbofuran
+Carbon dioxide
+Carbon disulphide
+Carbon tetrachloride
+Carbophenothion
+Carbosulfan
+Carboxide
+Carene
+Cartap
+Cartap hydrochloride
+Carvacrol
+Caulerpa sertularioides extract
+Cedarwood oil
+Ceralure
+Chinomethionat
+Chloramidophos
+Chlorantraniliprole
+Chlorbenside
+Chlorbicyclen
+Chlordane
+Chlordecone
+Chlordimeform
+Chlordimeform hydrochloride
+Chlorempenthrin
+Chlorethoxyfos
+Chlorfenapyr
+Chlorfenethol
+Chlorfenson
+Chlorfensulphide
+Chlorfenvinphos
+Chlorfluazuron
+Chlormephos
+Chlorobenzilate
+Chloropicrin
+Chloroprallethrin
+Chloropropylate
+Chlorphoxim
+Chlorprazophos
+Chlorpyrifos
+Chlorpyrifos-methyl
+Chlorthion
+Chlorthiophos
+Chromafenozide
+Cinnamaldehyde
+Cinnamon oil
+Cinnamyl acetate
+Cismethrin
+Cis-permethrin
+Citric acid anhydrous
+Citronella oil
+Citronellol
+Cloethocarb
+Clofentezine
+Clonostachys rosea f. catenulate
+Clonostachys rosea strain J1446
+Clothianidin
+Clove oil
+Colophonate
+Comfrey extract
+Copper acetoarsenite
+Copper naphthenate
+Cornmint oil
+Cottonseed oil
+Coumithoate
+Cresol
+Crotamiton
+Cuelure
+Cyanofenphos
+Cyanogen
+Cyanophos
+Cyanthoate
+Cyantraniliprole
+Cybenzoxasulfyl
+Cyclaniliprole
+Cyclethrin
+Cycloprate
+Cycloproflanilide
+Cycloprothrin
+Cycloxaprid
+Cyenopyrafen
+Cyetpyrafen
+Cyflumetofen
+Cyfluthrin
+Cyhalodiamide
+Cyhalothrin
+Cyhexatin
+Cymiazol
+Cypermethrin
+Cyphenothrin
+Cyproflanilide
+Cyromazine
+DAEP
+Dayoutong
+Dazomet
+Dazomet-sodium
+D-camphor
+DCIP
+D-D
+DDD
+DDT
+Decarbofuran
+Deltamethrin
+Demephion
+Demephion-O
+Demephion-S
+Demeton
+Demeton-O
+Demeton-O-methyl
+Demeton-O-methyl sulfone
+Demeton-S
+Demeton-S-methyl
+Demeton-S-methyl sulfone
+Desmethyl-broflanilid
+D-fanshiluquebingjuzhi
+DFDT
+D-fructose
+Diafenthiuron
+Dialifos
+Diallyl disulfide
+Diamidaphos
+Diammonium phosphate
+Diazinon
+Dibromochloropropane
+Dibutyl phthalate
+Dibutyl succinate
+Dicapthon
+Dichlofenthion
+Dichlofluanid
+Dichloromethane
+Dichlorvos
+Diclocymet
+Dicloromezotiaz
+Dicrotophos
+Dieldrin
+Dienochlor
+Diethyltoluamide
+Diflovidazin
+Diflubenzuron
+Dimefluthrin
+Dimefox
+Dimepyrolimet
+Dimetan
+Dimethacarb
+Dimethoate
+Dimethrin
+Dimethyl disulfide
+Dimethyl phthalate
+Dimethyl sulphide
+Dimethylvinphos
+Dimpropyridaz
+Dinex
+Dinex-diclexine
+Dinobuton
+Dinocap
+Dinocap 4
+Dinocap 6
+Dinopenton
+Dinosulfon
+Dinotefuran
+Dinoterbon
+Di-n-propyl isocinchomeronate
+Diofenolan
+Dioxabenzophos
+Dioxacarb
+Dioxathion
+Diphenylamine
+Disodium octaborate tetrahydrate
+Disulfoton
+Disulfoton sulfoxide
+Dithicrofos
+Dixanthogen
+D-limonene
+DNOC
+DNOC ammonium
+DNOC potassium
+DNOC sodium
+Dodecylphenol ethoxylate
+D-phenothrin
+Emamectin benzoate
+Empenthrin
+Endo-brevicomin
+Endosulfan
+Endothion
+Endrin
+EPBP
+EPN
+Epofenonane
+Epsilon-metofluthrin
+Epsilon-momfluorothrin
+Erwinia amylovora HrpN harpin protein
+Esfenvalerate
+Etaphos
+Ethanol
+Ethiofencarb
+Ethion
+Ethiprole
+Ethoate-methyl
+Ethohexadiol
+Ethoprophos
+Ethyl-DDD
+Ethylene dibromide
+Ethylene dichloride
+Ethylene urea
+Etofenprox
+Etrimfos
+Eugenol
+Exo-brevicomin
+Ezuofuchongan
+Farnesol
+Fatty acids (generic C7-C18)
+Fatty acids unsaturated potassium salts (generic C7-C18)
+Fenazaflor
+Fenazaquin
+Fenbutatin oxide
+Fenchlorphos
+Fenethacarb
+Fenfluthrin
+Fenitrothion
+Fenmezoditiaz
+Fenobucarb
+Fenothiocarb
+Fenoxycarb
+Fenpirithrin
+Fenpropathrin
+Fenpyroximate
+Fenson
+Fensulfothion
+Fenthion
+Fenthion oxon
+Fenthion sulfoxide
+Fenthion-ethyl
+Fenvalerate
+Fipronil
+Flometoquin
+Flonicamid
+Fluacrypyrim
+Fluazaindolizine
+Flubendiamide
+Flubenzimine
+Fluchlordiniliprole
+Flucofuron
+Flucycloxuron
+Flucythrinate
+Fluenetil
+Flufenerim
+Flufenoxuron
+Flufenprox
+Flufiprole
+Flumetnicam
+Fluorbenside
+Fluoroacetamide
+Flupentiofenox
+Flupyradifurone
+Flupyrimin
+Flupyroxystrobin
+Fluvalinate
+Fluxametamide
+Fonofos
+Formetanate
+Formetanate hydrochloride
+Formic acid
+Formothion
+Formparanate
+Fosmethilan
+Fospirate
+Fosthiazate
+Fosthietan
+Frontalin
+Fufenozide
+Fumanliumi
+Furathiocarb
+Furethrin
+Gamma-cyhalothrin
+Garlic oil
+Geraniol
+Geranium oil
+Ginger extract
+Guadipyr
+Halfenprox
+Halofenozide
+Heptachlor
+Heptafluthrin
+Heptenophos
+Heterophos
+Hexachlorocyclohexane
+Hexachlorophene
+Hexadecanoic acid
+Hexaflumuron
+Hexythiazox
+Hydramethylnon
+Hydroprene
+Hyquincarb
+Icaridin
+Imidacloprid
+Imidaclothiz
+Imiprothrin
+Indazapyroxamet
+Indoxacarb
+Iodofenphos
+Iodomethane
+IPSP
+Isamidofos
+Isazofos
+Isobenzan
+Isobornyl thiocyanoacetate
+Isocarbophos
+Isocycloseram
+Isodrin
+Isofenphos
+Isofenphos-methyl
+Isoflualanam
+Isolan
+Isomalathion
+Isoprocarb
+Isoprothiolane
+Isothioate
+Isoxathion
+Jasmone
+Kadethrin
+Kaolin
+Kaolin calcined
+Kappa-bifenthrin
+Kappa-tefluthrin
+Kelevan
+Kieselgur
+Kinoprene
+Lambda-cyhalothrin
+Lavandulyl senecioate
+Lead arsenate
+Leptophos
+Lime sulphur
+Linalool
+Lindane
+Linoleic acid
+Linseed oil
+Lithium perfluorooctane sulfonate
+Lufenuron
+Lythidathion
+Magnesium phosphide
+Malathion
+Malonoben
+Maltodextrin
+Mancozeb
+MaSAMP
+Matrine
+Mazidox
+M-cumenyl methylcarbamate
+Mecarbam
+Mecarphon
+Medlure
+Menazon
+Meperfluthrin
+Mephosfolan
+Mercurous chloride
+Metaflumizone
+Metam
+Metam-ammonium
+Metam-potassium
+Metam-sodium
+Metarhizium brunneun strain Cb15-III
+Metepa
+Methacrifos
+Methamidophos
+Methidathion
+Methiocarb
+Methiotepa
+Methocrotophos
+Methomyl
+Methoprene
+Methoxychlor
+Methoxyfenozide
+Methyl isothiocyanate
+Methyl jasmonate
+Methylacetophos
+Methyleugenol
+Metofluthrin
+Metolcarb
+Metoxadiazone
+Mevinphos
+Mexacarbate
+Mipafox
+Mirex
+Momfluorothrin
+Monocrotophos
+Moringa oleifera extract
+Morphothion
+Myristyl acetate
+Myristyl alcohol
+Naftalofos
+Naled
+Nanosilver-silica composite
+N-bromoacetamide
+Neodiprion lecontei nucleopolyhedrovirus
+Neodiprion sertifer nucleopolyhedrovirus
+Nepeta cataria oil
+Nerolidol
+Nicofluprole
+Nitenpyram
+Nithiazine
+Nitrilacarb
+N-methylneodecanamide
+N-nitrosodimethylamine
+Nornicotine
+Novaluron
+Noviflumuron
+O,O'-DDT
+O,P'-DDT
+Octachlorodipropyl ether
+Oleic acid
+Omethoate
+Orange oil
+Oregano oil
+Oxamyl
+Oxazosulfyl
+Oxydemeton-methyl
+Oxydeprofos
+P,P-bis(aziridin-1-yl)-N-methylphosphinothioic amide
+P,P'-DDT
+Paichongding
+Paraffin oil (CAS No. 64741-88-4)
+Paraffin oil (CAS No. 64741-89-5)
+Paraffin oil (CAS No. 64741-97-5)
+Paraffin oil (CAS No. 64742-54-7)
+Paraffin oil (CAS No. 64742-55-8)
+Paraffin oil (CAS No. 64742-65-0)
+Paraffin oil (CAS No. 72623-86-0)
+Paraffin oil (CAS No. 8012-95-1)
+Paraffin oil (CAS No: 64742-46-7)
+Paraffin oil (CAS No: 8042-47-5)
+Paraffin oil (CAS No: 97862-82-3)
+Parathion-ethyl
+Parathion-methyl
+Penfluron
+Pennyroyal oil
+Pentachlorophenol
+Peppermint oil
+Permethrin
+Phenkapton
+Phenthoate
+Phorate
+Phosalone
+Phosfolan
+Phosmet
+Phosnichlor
+Phosphamidon
+Phosphane
+Phoxim
+Pioxaniliprole
+Piperflanilide
+Pirimicarb
+Pirimiphos-ethyl
+Pirimiphos-methyl
+Plifenate
+Prallethrin
+Profenofos
+Profluthrin
+Promacyl
+Promecarb
+Propaphos
+Propargite
+Propetamphos
+Propoxur
+Propylene oxide
+Prothidathion
+Prothiofos
+Prothoate
+Protrifenbute
+Pyflubumide
+Pymetrozine
+Pyraclofos
+Pyrafluprole
+Pyramat
+Pyridaben
+Pyridafenthion
+Pyridalyl
+Pyrifluquinazon
+Pyrimidifen
+Pyriminostrobin
+Pyriproxyfen
+QRD-460 Terpenoid blend
+Quassia amara extract
+Quinalphos
+Quinaminoprole
+Quinothion
+Quintiofos
+Quwenzhi
+Rapeseed oil
+Renofluthrin
+Resmethrin
+Sainfoin dried
+Sanguinarine
+S-bioallethrin
+Schradan
+Semiamitraz hydrochloride
+Sesame oil
+S-hydroprene
+Silafluofen
+Silica
+S-methoprene
+Sodium cyanide
+Sodium ferric EDTA
+Sodium hexafluorosilicate
+Sodium lauryl sulphate
+Sodium tetraborate pentahydrate
+Sodium tetrathiocarbonate
+Soybean oil
+Spearmint oil
+Spidoxamat
+Spinetoram
+Spinetoram J
+Spirobudifen
+Spirodiclofen
+Spiromesifen
+Spiropidion
+Spirotetramat
+Star anise oil
+Strobane
+Sucrose
+Sucrose octanoate
+Sulcofuron
+Sulcofuron-sodium
+Sulfiflumin
+Sulfiram
+Sulfluramid
+Sulfotep
+Sulfoxaflor
+Sulfoxamyl
+Sulfuryl fluoride
+Sulphonated cod liver oil
+Sulprofos
+Sumithrin
+Talc E553B
+Tall oil, potassium salt
+Tartar emetic
+Tau-fluvalinate
+Tebufenozide
+Tebufenpyrad
+Tebupirimfos
+Teflubenzuron
+Tefluthrin
+Temephos
+Terallethrin
+Terbufos
+Terpinolene
+Tetrachlorvinphos
+Tetradifon
+Tetraethyl pyrophosphate
+Tetramethrin
+Tetramethylfluthrin
+Tetraniliprole
+Tetrasul
+Thallium sulphate
+Theta-cypermethrin
+Thiacloprid
+Thiamethoxam
+Thiapronil
+Thiocarboxime
+Thiocyclam
+Thiocyclam hydrochloride
+Thiocyclam oxalate
+Thiodicarb
+Thiofanox
+Thiometon
+Thionazin
+Thioquinox
+Thiosultap
+Thiosultap-disodium
+Thiosultap-monosodium
+Thiourea
+Thymol
+Tiapyrachlor
+Tiorantraniliprole
+Tirpate
+Tolfenpyrad
+Tralocythrin
+Tralomethrin
+Tralopyril
+Trans-citral
+Transfluthrin
+Transpermethrin
+Trans-verbenol
+Triarathene
+Triazamate
+Triazophos
+Trichlorfon
+Trichloronate
+Trifenmorph
+Trifenofos
+Trifluenfuronate
+Triflumezopyrim
+Triflumuron
+Trimedlure
+Trimethacarb
+Trioxyflanilide
+Triprene
+Tyclopyrazoflor
+Umifoxolaner
+Urea
+Vamidothion
+Verbenone
+Vinylfluthrin
+XMC
+Xylylcarb
+Ylang ylang oil
+Zeta-cypermethrin

@@ -1,0 +1,627 @@
+Name,CAS,SMILES,IUPAC_Name
+Isodrin,465-73-6,Cl[C@@]12[C@H]3[C@H]4C=C[C@@H]([C@H]3[C@@](C(=C1Cl)Cl)(C2(Cl)Cl)Cl)C4,"(1S,2S,3R,6S,7R,8R)-1,8,9,10,11,11-hexachlorotetracyclo[6.2.1.13,6.02,7]dodeca-4,9-diene"
+Chlorfensulphide,2274-74-0,ClC1=CC=C(C=C1)SN=NC1=C(C=C(C(=C1)Cl)Cl)Cl,"(4-chlorophenyl)sulfanyl-(2,4,5-trichlorophenyl)diazene"
+Dichlorvos,62-73-7,P(=O)(OC=C(Cl)Cl)(OC)OC,"2,2-dichloroethenyl dimethyl phosphate"
+Vinylfluthrin,3061364-30-2,Not found,"cis-(2,3,5,6-tetrafluorophenyl)methyl (1R,3R)-3-[(Z)-2-cyanoethenyl]-2,2-dimethylcyclopropane-1-carboxylate"
+Tebufenpyrad,119168-77-3,C(C)(C)(C)C1=CC=C(C=C1)CNC(=O)C1=C(C(=NN1C)CC)Cl,N-[(4-tert-butylphenyl)methyl]-4-chloro-3-ethyl-1-methylpyrazole-5-carboxamide
+Promecarb,2631-37-0,CNC(OC1=CC(=CC(=C1)C(C)C)C)=O,(3-methyl-5-propan-2-ylphenyl) N-methylcarbamate
+Bifenthrin,82657-04-3,Cc1c(COC(=O)C2C(\C=C(/Cl)C(F)(F)F)C2(C)C)cccc1c3ccccc3,"trans-(2-methyl-3-phenylphenyl)methyl (1R,3R)-3-[(Z)-2-chloro-3,3,3-trifluoroprop-1-enyl]-2,2-dimethylcyclopropane-1-carboxylate"
+Benzoic acid,65-85-0,C(C1=CC=CC=C1)(=O)O,benzoic acid
+Terpinolene,586-62-9,CC1=CCC(CC1)=C(C)C,1-methyl-4-propan-2-ylidenecyclohexene
+Thiocyclam hydrochloride,75655-75-3,Not found,"N,N-dimethyltrithian-5-amine;hydrochloride"
+Fonofos,944-22-9,C(C)OP(=S)(SC1=CC=CC=C1)CC,ethoxy-ethyl-phenylsulfanyl-sulfanylidene-lambda5-phosphane
+Aluminium phosphide,20859-73-8,[P-3].[Al+3],aluminum phosphorus(3-)
+Endosulfan,115-29-7,ClC12C3COS(OCC3C(C(=C1Cl)Cl)(C2(Cl)Cl)Cl)=O,"1,9,10,11,12,12-hexachloro-4,6-dioxa-5lambda4-thiatricyclo[7.2.1.02,8]dodec-10-ene 5-oxide"
+Chlorpyrifos-methyl,5598-13-0,COP(OC1=NC(=C(C=C1Cl)Cl)Cl)(=S)OC,"dimethoxy-sulfanylidene-[(3,5,6-trichloro-2-pyridinyl)oxy]-lambda5-phosphane"
+Tartar emetic,28300-74-5,O.[K+].[K+].[O-]C(=O)C1O[Sb]2OC(C(O[Sb]3OC1C(=O)O3)C([O-])=O)C(=O)O2,"dipotassium;bis(antimony(3+));bis((2R,3R)-2,3-dioxidobutanedioate);trihydrate"
+Tetramethylfluthrin,84937-88-2,CC1(C(C1(C)C)C(=O)OCC1=C(C(=C(C(=C1F)F)COC)F)F)C,"[2,3,5,6-tetrafluoro-4-(methoxymethyl)phenyl]methyl 2,2,3,3-tetramethylcyclopropane-1-carboxylate"
+Tiapyrachlor,1255091-74-7,ClC=1N=C(SC1N(C(CCS(=O)(=O)C)=O)CC)C=1C=NC=CC1,"N-(4-chloro-2-pyridin-3-yl-1,3-thiazol-5-yl)-N-ethyl-3-methylsulfonylpropanamide"
+Camphor,76-22-2,CC12C(CC(CC1)C2(C)C)=O,"1,7,7-trimethylbicyclo[2.2.1]heptan-2-one"
+Dimethoate,60-51-5,COP(=S)(OC)SCC(=O)NC,2-dimethoxyphosphinothioylsulfanyl-N-methylacetamide
+Endo-brevicomin,22625-19-0,C(C)[C@@H]1O[C@@]2(CCC[C@H]1O2)C,"(1R,5S,7S)-7-ethyl-5-methyl-6,8-dioxabicyclo[3.2.1]octane"
+Meperfluthrin,915288-13-0,Not found,"cis-[2,3,5,6-tetrafluoro-4-(methoxymethyl)phenyl]methyl (1R,3S)-3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate"
+Methacrifos,62610-77-9,COP(=S)(O/C=C(/C(=O)OC)\C)OC,methyl (E)-3-dimethoxyphosphinothioyloxy-2-methylprop-2-enoate
+Sodium cyanide,143-33-9,[C-]#N.[Na+],sodium cyanide
+Tralocythrin,66841-26-7,BrC(C(Cl)(Cl)Br)C1C(C1C(=O)OC(C1=CC(=CC=C1)OC1=CC=CC=C1)C#N)(C)C,"[cyano-(3-phenoxyphenyl)methyl] 3-(1,2-dibromo-2,2-dichloroethyl)-2,2-dimethylcyclopropane-1-carboxylate"
+Calcium cyanide,592-01-8,[C-]#N.[C-]#N.[Ca+2],calcium dicyanide
+Semiamitraz hydrochloride,51550-40-4,[H+].[Cl-].CN=CNc1ccc(C)cc1C,"N-(2,4-dimethylphenyl)-N'-methylmethanimidamide;hydrochloride"
+Indazapyroxamet,1689545-27-4,CC1(CC1)NC(=O)C=1C2=CN(N=C2C=CC1)C=1C=NC=CC1,N-(1-methylcyclopropyl)-2-pyridin-3-ylindazole-4-carboxamide
+N-methylneodecanamide,105726-67-8,C(C)C(C(=O)NC)(CCCCC)C,"2-ethyl-N,2-dimethylheptanamide"
+Aminocarb,2032-59-9,CNC(OC1=CC(=C(C=C1)N(C)C)C)=O,[4-(dimethylamino)-3-methylphenyl] N-methylcarbamate
+Theta-cypermethrin,71697-59-1,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2,"cis-[(S)-cyano-(3-phenoxyphenyl)methyl] (1R,3S)-3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate"
+Dioxabenzophos,3811-49-2,COP1(OC2=C(CO1)C=CC=C2)=S,"2-methoxy-2-sulfanylidene-4H-1,3,2lambda5-benzodioxaphosphinine"
+Methylacetophos,2088-72-4,COP(=O)(OC)SCC(=O)OCC,ethyl 2-dimethoxyphosphorylsulfanylacetate
+Acetamiprid,160430-64-8,ClC1=CC=C(C=N1)CN(C(C)=NC#N)C,N-[(6-chloro-3-pyridinyl)methyl]-N'-cyano-N-methylethanimidamide
+Matrine,519-02-8,[C@H]12[C@H]3CCCC(N3C[C@@H]3CCCN(CCC1)[C@H]23)=O,"(1R,2R,9S,17S)-7,13-diazatetracyclo[7.7.1.02,7.013,17]heptadecan-6-one"
+EPN,2104-64-5,C(C)OP(=S)(C1=CC=CC=C1)OC1=CC=C(C=C1)[N+](=O)[O-],ethoxy-(4-nitrophenoxy)-phenyl-sulfanylidene-lambda5-phosphane
+Endrin,72-20-8,Cl[C@]12[C@@H]3[C@@H]4[C@H]5O[C@H]5[C@H]([C@@H]3[C@](C(=C1Cl)Cl)(C2(Cl)Cl)Cl)C4,"(1R,2R,3R,6S,7S,8S,9S,11R)-3,4,5,6,13,13-hexachloro-10-oxapentacyclo[6.3.1.13,6.02,7.09,11]tridec-4-ene"
+Nicofluprole,1771741-86-6,ClC1=NC=C(C=C1C(=O)N(C)C1CC1)C=1C=NN(C1)C1=C(C=C(C=C1Cl)C(C(F)(F)F)(C(F)(F)F)F)Cl,"2-chloro-N-cyclopropyl-5-[1-[2,6-dichloro-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)phenyl]pyrazol-4-yl]-N-methylpyridine-3-carboxamide"
+Diofenolan,63837-33-2,C(C)C1OCC(O1)COC1=CC=C(C=C1)OC1=CC=CC=C1,"2-ethyl-4-[(4-phenoxyphenoxy)methyl]-1,3-dioxolane"
+Dialifos,10311-84-9,ClCC(SP(=S)(OCC)OCC)N1C(C2=CC=CC=C2C1=O)=O,"2-(2-chloro-1-diethoxyphosphinothioylsulfanylethyl)isoindole-1,3-dione"
+Triflumuron,64628-44-0,ClC1=C(C(=O)NC(NC2=CC=C(C=C2)OC(F)(F)F)=O)C=CC=C1,2-chloro-N-[[4-(trifluoromethoxy)phenyl]carbamoyl]benzamide
+Lythidathion,2669-32-1,COP(=S)(OC)SCN1C(SC(=N1)OCC)=O,"3-(dimethoxyphosphinothioylsulfanylmethyl)-5-ethoxy-1,3,4-thiadiazol-2-one"
+Isoprothiolane,50512-35-1,S1C(SCC1)=C(C(=O)OC(C)C)C(=O)OC(C)C,"dipropan-2-yl 2-(1,3-dithiolan-2-ylidene)propanedioate"
+Demeton-S,126-75-0,C(C)OP(=O)(OCC)SCCSCC,1-diethoxyphosphorylsulfanyl-2-ethylsulfanylethane
+Diallyl disulfide,2179-57-9,C(C=C)SSCC=C,3-(prop-2-enyldisulfanyl)prop-1-ene
+Ethylene dibromide,106-93-4,BrCCBr,"1,2-dibromoethane"
+Trimethacarb,2655-15-4,CNC(OC1=C(C(=CC(=C1)C)C)C)=O,"(2,3,5-trimethylphenyl) N-methylcarbamate"
+Bifenazate,149877-41-8,COC1=C(NNC(OC(C)C)=O)C=C(C=C1)C1=CC=CC=C1,propan-2-yl N-(2-methoxy-5-phenylanilino)carbamate
+Beta-dihydroheptachlor,14168-01-5,Cl[C@]12[C@@H]3CC(C[C@@H]3[C@](C(=C1Cl)Cl)(C2(Cl)Cl)Cl)Cl,"(1R,2R,6S,7S)-1,4,7,8,9,10,10-heptachlorotricyclo[5.2.1.02,6]dec-8-ene"
+Dichlofenthion,97-17-6,ClC1=C(OP(=S)(OCC)OCC)C=CC(=C1)Cl,"(2,4-dichlorophenoxy)-diethoxy-sulfanylidene-lambda5-phosphane"
+Monocrotophos,6923-22-4,P(=O)(OC)(OC)O\C(\C)=C\C(=O)NC,dimethyl [(E)-4-(methylamino)-4-oxobut-2-en-2-yl] phosphate
+Umifoxolaner,2021230-37-3,ClC=1C=C(C=C(C1F)C(F)(F)F)[C@@]1(CC(=NO1)C1=CC=C(C2=CC=CC=C12)C(=O)NCC(NCC(F)(F)F)=O)C(F)(F)F,"4-[(5S)-5-[3-chloro-4-fluoro-5-(trifluoromethyl)phenyl]-5-(trifluoromethyl)-4H-1,2-oxazol-3-yl]-N-[2-oxo-2-(2,2,2-trifluoroethylamino)ethyl]naphthalene-1-carboxamide"
+Amidoflumet,84466-05-7,ClC=1C=CC(=C(C(=O)OC)C1)NS(=O)(=O)C(F)(F)F,methyl 5-chloro-2-(trifluoromethylsulfonylamino)benzoate
+Pentachlorophenol,87-86-5,ClC1=C(C(=C(C(=C1Cl)Cl)Cl)Cl)O,"2,3,4,5,6-pentachlorophenol"
+Cyhexatin,13121-70-5,[OH-].C1(CCCCC1)[Sn+](C1CCCCC1)C1CCCCC1,tricyclohexylstannanylium hydroxide
+Cycloprate,54460-46-7,C1(CC1)C(=O)OCCCCCCCCCCCCCCCC,hexadecyl cyclopropanecarboxylate
+Sulfluramid,4151-50-2,C(C)NS(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F,"N-ethyl-1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctane-1-sulfonamide"
+Acynonapyr,1332838-17-1,C(CC)OC1=C(OC2C[C@@H]3CCC[C@H](C2)N3OC3=NC=C(C=C3)C(F)(F)F)C=CC(=C1)C(F)(F)F,"(1S,5R)-3-[2-propoxy-4-(trifluoromethyl)phenoxy]-9-[[5-(trifluoromethyl)-2-pyridinyl]oxy]-9-azabicyclo[3.3.1]nonane"
+Coumithoate,572-48-5,C(C)OP(=S)(OC1=CC=C2C3=C(C(OC2=C1)=O)CCCC3)OCC,"3-diethoxyphosphinothioyloxy-7,8,9,10-tetrahydrobenzo[c]chromen-6-one"
+Cyhalodiamide,1262605-53-7,ClC1=C(C(=CC=C1)C(=O)NC1=C(C=C(C=C1)C(C(F)(F)F)(C(F)(F)F)F)C)C(=O)NC(C)(C)C#N,"3-chloro-2-N-(2-cyanopropan-2-yl)-1-N-[4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2-methylphenyl]benzene-1,2-dicarboxamide"
+Lindane,27154-44-5,ClC1C(C(C(C(C1Cl)Cl)Cl)Cl)Cl,"1,2,3,4,5,6-hexachlorocyclohexane"
+Bufencarb,8065-36-9,CCCC(C)c1cccc(OC(=O)NC)c1.CCC(CC)c2cccc(OC(=O)NC)c2,tris((3-pentan-2-ylphenyl) N-methylcarbamate);(3-pentan-3-ylphenyl) N-methylcarbamate
+Carbaryl,63-25-2,CNC(OC1=CC=CC2=CC=CC=C12)=O,naphthalen-1-yl N-methylcarbamate
+Fenobucarb,3766-81-2,CNC(OC1=C(C=CC=C1)C(C)CC)=O,(2-butan-2-ylphenyl) N-methylcarbamate
+Phenkapton,2275-14-1,ClC1=C(C=C(C=C1)Cl)SCSP(=S)(OCC)OCC,"(2,5-dichlorophenyl)sulfanylmethylsulfanyl-diethoxy-sulfanylidene-lambda5-phosphane"
+Epsilon-metofluthrin,401620-60-8,Not found,"cis-[2,3,5,6-tetrafluoro-4-(methoxymethyl)phenyl]methyl (1R,3R)-2,2-dimethyl-3-[(Z)-prop-1-enyl]cyclopropane-1-carboxylate"
+Cartap,15263-53-3,C(N)(SCC(CSC(N)=O)N(C)C)=O,S-[3-carbamoylsulfanyl-2-(dimethylamino)propyl] carbamothioate
+Mexacarbate,315-18-4,CNC(OC1=CC(=C(C(=C1)C)N(C)C)C)=O,"[4-(dimethylamino)-3,5-dimethylphenyl] N-methylcarbamate"
+Halofenozide,112226-61-6,C(C1=CC=CC=C1)(=O)N(NC(C1=CC=C(C=C1)Cl)=O)C(C)(C)C,N'-benzoyl-N'-tert-butyl-4-chlorobenzohydrazide
+Thiamethoxam,153719-23-4,ClC=1SC(=CN1)CN\1COCN(/C1=N\[N+](=O)[O-])C,"(NE)-N-[3-[(2-chloro-1,3-thiazol-5-yl)methyl]-5-methyl-1,3,5-oxadiazinan-4-ylidene]nitramide"
+Dinotefuran,165252-70-0,CN=C(N[N+](=O)[O-])NCC1COCC1,2-methyl-1-nitro-3-(oxolan-3-ylmethyl)guanidine
+Flucofuron,370-50-3,ClC1=C(C=C(C=C1)NC(=O)NC1=CC(=C(C=C1)Cl)C(F)(F)F)C(F)(F)F,"1,3-bis[4-chloro-3-(trifluoromethyl)phenyl]urea"
+Camphene,79-92-5,CC1(C2CCC(C1=C)C2)C,"2,2-dimethyl-3-methylidenebicyclo[2.2.1]heptane"
+Chlorfenson,80-33-1,ClC1=CC=C(C=C1)S(=O)(=O)OC1=CC=C(C=C1)Cl,(4-chlorophenyl) 4-chlorobenzenesulfonate
+Xylylcarb,2425-10-7,CNC(OC1=CC(=C(C=C1)C)C)=O,"(3,4-dimethylphenyl) N-methylcarbamate"
+Flucycloxuron,113036-88-7,ClC1=CC=C(C=C1)C(C1CC1)=NOCC1=CC=C(C=C1)NC(=O)NC(C1=C(C=CC=C1F)F)=O,"N-[[4-[[[(4-chlorophenyl)-cyclopropylmethylidene]amino]oxymethyl]phenyl]carbamoyl]-2,6-difluorobenzamide"
+Fenoxycarb,72490-01-8,O(C1=CC=CC=C1)C1=CC=C(OCCNC(OCC)=O)C=C1,ethyl N-[2-(4-phenoxyphenoxy)ethyl]carbamate
+Metepa,57-39-6,CC1N(C1)P(=O)(N1C(C1)C)N1C(C1)C,1-bis(2-methylaziridin-1-yl)phosphoryl-2-methylaziridine
+Heptafluthrin,1130296-65-9,CC1(C(C1\C=C/C(F)(F)F)C(=O)OCC1=C(C(=C(C(=C1F)F)COC)F)F)C,"[2,3,5,6-tetrafluoro-4-(methoxymethyl)phenyl]methyl 2,2-dimethyl-3-[(Z)-3,3,3-trifluoroprop-1-enyl]cyclopropane-1-carboxylate"
+Phosphane,7803-51-2,Not found,phosphane
+Tetrasul,2227-13-6,ClC1=C(C=C(C(=C1)SC1=CC=C(C=C1)Cl)Cl)Cl,"1,2,4-trichloro-5-(4-chlorophenyl)sulfanylbenzene"
+Ethylene dichloride,107-06-2,ClCCCl,"1,2-dichloroethane"
+Fenpyroximate,134098-61-6,CN1N=C(C(=C1OC1=CC=CC=C1)\C=N\OCC1=CC=C(C(=O)OC(C)(C)C)C=C1)C,"tert-butyl 4-[[(E)-(1,3-dimethyl-5-phenoxypyrazol-4-yl)methylideneamino]oxymethyl]benzoate"
+Dithicrofos,41219-31-2,ClC=1C=C2C(CCSC2=CC1)SP(=S)(OCC)OCC,"(6-chloro-3,4-dihydro-2H-thiochromen-4-yl)sulfanyl-diethoxy-sulfanylidene-lambda5-phosphane"
+Fenazaflor,14255-88-0,ClC1=CC2=C(N(C(=N2)C(F)(F)F)C(=O)OC2=CC=CC=C2)C=C1Cl,"phenyl 5,6-dichloro-2-(trifluoromethyl)benzimidazole-1-carboxylate"
+Prothiofos,34643-46-4,ClC1=C(OP(=S)(SCCC)OCC)C=CC(=C1)Cl,"(2,4-dichlorophenoxy)-ethoxy-propylsulfanyl-sulfanylidene-lambda5-phosphane"
+Metam,144-54-7,CNC(=S)S,methylcarbamodithioic acid
+Cadusafos,95465-99-9,CC(CC)SP(=O)(OCC)SC(C)CC,2-[butan-2-ylsulfanyl(ethoxy)phosphoryl]sulfanylbutane
+Pymetrozine,123312-89-0,CC=1CN(C(NN1)=O)/N=C/C=1C=NC=CC1,"6-methyl-4-[(E)-pyridin-3-ylmethylideneamino]-2,5-dihydro-1,2,4-triazin-3-one"
+Temephos,3383-96-8,COP(=S)(OC1=CC=C(C=C1)SC1=CC=C(OP(=S)(OC)OC)C=C1)OC,[4-(4-dimethoxyphosphinothioyloxyphenyl)sulfanylphenoxy]-dimethoxy-sulfanylidene-lambda5-phosphane
+Allethrin,584-79-2,CC1(C(C1C=C(C)C)C(=O)OC1C(=C(C(C1)=O)CC=C)C)C,"(2-methyl-4-oxo-3-prop-2-enylcyclopent-2-en-1-yl) 2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate"
+Ethion,563-12-2,C(C)OP(=S)(OCC)SCSP(=S)(OCC)OCC,diethoxyphosphinothioylsulfanylmethylsulfanyl-diethoxy-sulfanylidene-lambda5-phosphane
+Methidathion,950-37-8,COP(=S)(OC)SCN1C(SC(=N1)OC)=O,"3-(dimethoxyphosphinothioylsulfanylmethyl)-5-methoxy-1,3,4-thiadiazol-2-one"
+Menazon,78-57-9,COP(=S)(OC)SCC1=NC(=NC(=N1)N)N,"6-(dimethoxyphosphinothioylsulfanylmethyl)-1,3,5-triazine-2,4-diamine"
+Clofentezine,74115-24-5,ClC1=C(C=CC=C1)C=1N=NC(=NN1)C1=C(C=CC=C1)Cl,"3,6-bis(2-chlorophenyl)-1,2,4,5-tetrazine"
+D-fructose,57-48-7,OCC1(OC[C@H]([C@H]([C@@H]1O)O)O)O,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol"
+Allyxycarb,6392-46-7,CNC(OC1=CC(=C(C(=C1)C)N(CC=C)CC=C)C)=O,"[4-[bis(prop-2-enyl)amino]-3,5-dimethylphenyl] N-methylcarbamate"
+Ethohexadiol,94-96-2,C(C)C(CO)C(CCC)O,"2-ethylhexane-1,3-diol"
+Bromophos,2104-96-3,BrC1=CC(=C(OP(=S)(OC)OC)C=C1Cl)Cl,"(4-bromo-2,5-dichlorophenoxy)-dimethoxy-sulfanylidene-lambda5-phosphane"
+Lithium perfluorooctane sulfonate,29457-72-5,FC(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(S(=O)(=O)[O-])F.[Li+],"lithium 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctane-1-sulfonate"
+Pyflubumide,926914-55-8,FC(C(C(F)(F)F)(OC)C1=C(C=C(C=C1)N(C(=O)C=1C(=NN(C1C)C)C)C(C(C)C)=O)CC(C)C)(F)F,"N-[4-(1,1,1,3,3,3-hexafluoro-2-methoxypropan-2-yl)-3-(2-methylpropyl)phenyl]-1,3,5-trimethyl-N-(2-methylpropanoyl)pyrazole-4-carboxamide"
+Ethiofencarb,29973-13-5,CNC(OC1=C(C=CC=C1)CSCC)=O,[2-(ethylsulfanylmethyl)phenyl] N-methylcarbamate
+Mirex,2385-85-5,ClC12C3(C4(C5(C(C3(C2(C5(C4(C1(Cl)Cl)Cl)Cl)Cl)Cl)(Cl)Cl)Cl)Cl)Cl,"1,2,3,4,5,5,6,7,8,9,10,10-dodecachloropentacyclo[5.3.0.02,6.03,9.04,8]decane"
+Chlorobenzilate,510-15-6,ClC1=CC=C(C=C1)C(C(=O)OCC)(O)C1=CC=C(C=C1)Cl,"ethyl 2,2-bis(4-chlorophenyl)-2-hydroxyacetate"
+Farnesol,4602-84-0,C\C(=C/CO)\CC\C=C(\CCC=C(C)C)/C,"(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trien-1-ol"
+Mecarphon,29173-31-7,COP(=S)(C)SCC(=O)N(C(OC)=O)C,methyl N-[2-[methoxy(methyl)phosphinothioyl]sulfanylacetyl]-N-methylcarbamate
+Cinnamyl acetate,103-54-8,C(C)(=O)OC\C=C\C1=CC=CC=C1,[(E)-3-phenylprop-2-enyl] acetate
+Cymiazol,61676-87-7,CC1=C(C=CC(=C1)C)N=C1SC=CN1C,"N-(2,4-dimethylphenyl)-3-methyl-1,3-thiazol-2-imine"
+Flupyradifurone,951659-40-8,ClC1=CC=C(C=N1)CN(C=1COC(C1)=O)CC(F)F,"3-[(6-chloro-3-pyridinyl)methyl-(2,2-difluoroethyl)amino]-2H-furan-5-one"
+Azothoate,5834-96-8,ClC1=CC=C(C=C1)N=NC1=CC=C(C=C1)OP(=S)(OC)OC,(4-chlorophenyl)-(4-dimethoxyphosphinothioyloxyphenyl)diazene
+Medlure,13929-18-5,Not found,butan-2-yl 4-chloro-2-methylcyclohexane-1-carboxylate;butan-2-yl 5-chloro-2-methylcyclohexane-1-carboxylate
+Thioquinox,93-75-4,S1C(SC=2C1=NC1=CC=CC=C1N2)=S,"[1,3]dithiolo[4,5-b]quinoxaline-2-thione"
+Thiofanox,39196-18-4,CNC(ON=C(CSC)C(C)(C)C)=O,"[(3,3-dimethyl-1-methylsulfanylbutan-2-ylidene)amino] N-methylcarbamate"
+Myristyl acetate,638-59-5,C(C)(=O)OCCCCCCCCCCCCCC,tetradecyl acetate
+Thallium sulphate,7446-18-6,[Tl++].[O-][S]([O-])(=O)=O,bis(thallium(1+));sulfate
+Oxazosulfyl,1616678-32-0,C(C)S(=O)(=O)C=1C(=NC=CC1)C=1OC2=C(N1)C=C(C=C2)S(=O)(=O)C(F)(F)F,"2-(3-ethylsulfonyl-2-pyridinyl)-5-(trifluoromethylsulfonyl)-1,3-benzoxazole"
+Trichlorfon,52-68-6,ClC(C(O)P(=O)(OC)OC)(Cl)Cl,"2,2,2-trichloro-1-dimethoxyphosphorylethanol"
+Bensultap,17606-31-4,C1(=CC=CC=C1)S(=O)(=O)SCC(CSS(=O)(=O)C1=CC=CC=C1)N(C)C,"1,3-bis(benzenesulfonylsulfanyl)-N,N-dimethylpropan-2-amine"
+Benzyl benzoate,120-51-4,C(C1=CC=CC=C1)(=O)OCC1=CC=CC=C1,benzyl benzoate
+Cis-permethrin,61949-76-6,CC1(C)[C@@H](C=C(Cl)Cl)[C@H]1C(=O)OCc2cccc(Oc3ccccc3)c2,"trans-(3-phenoxyphenyl)methyl (1R,3R)-3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate"
+Spirodiclofen,148477-71-8,CC(C(=O)OC1=C(C(OC12CCCCC2)=O)C2=C(C=C(C=C2)Cl)Cl)(CC)C,"[3-(2,4-dichlorophenyl)-2-oxo-1-oxaspiro[4.5]dec-3-en-4-yl] 2,2-dimethylbutanoate"
+Endothion,2778-04-3,COP(=O)(OC)SCC=1OC=C(C(C1)=O)OC,2-(dimethoxyphosphorylsulfanylmethyl)-5-methoxypyran-4-one
+Hexachlorocyclohexane,27154-44-5,ClC1C(C(C(C(C1Cl)Cl)Cl)Cl)Cl,"1,2,3,4,5,6-hexachlorocyclohexane"
+DCIP,956-48-9,ClC=1C=C(C=C(C1O)Cl)N=C1C=CC(C=C1)=O,"4-(3,5-dichloro-4-hydroxyphenyl)iminocyclohexa-2,5-dien-1-one"
+Propoxur,114-26-1,CNC(OC1=C(C=CC=C1)OC(C)C)=O,(2-propan-2-yloxyphenyl) N-methylcarbamate
+Cyflumetofen,400882-07-7,C(C)(C)(C)C1=CC=C(C=C1)C(C(=O)OCCOC)(C(C1=C(C=CC=C1)C(F)(F)F)=O)C#N,2-methoxyethyl 2-(4-tert-butylphenyl)-2-cyano-3-oxo-3-[2-(trifluoromethyl)phenyl]propanoate
+Kadethrin,58769-20-3,CC1(C)[C@H](\C=C2/CCSC2=O)C1C(=O)OCc3coc(Cc4ccccc4)c3,"trans-(5-benzylfuran-3-yl)methyl (1R,3S)-2,2-dimethyl-3-[(E)-(2-oxothiolan-3-ylidene)methyl]cyclopropane-1-carboxylate"
+Spidoxamat,907187-07-9,ClC1=CC(=C(C(=C1)C)C1=C(C2(NC1=O)CCC1(OCCO1)CC2)O)C,"2-(4-chloro-2,6-dimethylphenyl)-1-hydroxy-9,12-dioxa-4-azadispiro[4.2.48.25]tetradec-1-en-3-one"
+Sodium tetraborate pentahydrate,12179-04-3,O.O.O.O.O.[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-].[O-]B([O-])[O-],disodium;[oxido(oxoboranyloxy)boranyl]oxy-oxoboranyloxyborinate;pentahydrate
+Heterophos,40626-35-5,C(C)OP(=O)(SCCC)OC1=CC=CC=C1,[ethoxy(propylsulfanyl)phosphoryl]oxybenzene
+Carbosulfan,55285-14-8,C(CCC)N(CCCC)SN(C(OC1=CC=CC=2CC(OC21)(C)C)=O)C,"(2,2-dimethyl-3H-1-benzofuran-7-yl) N-(dibutylamino)sulfanyl-N-methylcarbamate"
+Frontalin,28401-39-0,C[C@]12CCC[C@](OC1)(O2)C,"(1S,5R)-1,5-dimethyl-6,8-dioxabicyclo[3.2.1]octane"
+Clothianidin,210880-92-5,ClC=1SC(=CN1)CNC(=N[N+](=O)[O-])NC,"1-[(2-chloro-1,3-thiazol-5-yl)methyl]-3-methyl-2-nitroguanidine"
+Bendiocarb,22781-23-3,CNC(OC1=CC=CC=2OC(OC21)(C)C)=O,"(2,2-dimethyl-1,3-benzodioxol-4-yl) N-methylcarbamate"
+Ethoate-methyl,116-01-8,COP(=S)(OC)SCC(=O)NCC,2-dimethoxyphosphinothioylsulfanyl-N-ethylacetamide
+Lime sulphur,1344-81-6,S.[Ca++],
+Methoxychlor,72-43-5,COC1=CC=C(C=C1)C(C(Cl)(Cl)Cl)C1=CC=C(C=C1)OC,"1-methoxy-4-[2,2,2-trichloro-1-(4-methoxyphenyl)ethyl]benzene"
+Tetradifon,116-29-0,ClC1=C(C=C(C(=C1)S(=O)(=O)C1=CC=C(C=C1)Cl)Cl)Cl,"1,2,4-trichloro-5-(4-chlorophenyl)sulfonylbenzene"
+Chlorprazophos,36145-08-1,ClC=1C(=NN2C1N=CC=C2C)OP(=S)(OCC)OCC,"(3-chloro-7-methylpyrazolo[1,5-a]pyrimidin-2-yl)oxy-diethoxy-sulfanylidene-lambda5-phosphane"
+Alpha-hexachlorocyclohexane,27154-44-5,ClC1C(C(C(C(C1Cl)Cl)Cl)Cl)Cl,"1,2,3,4,5,6-hexachlorocyclohexane"
+Azoxybenzene,495-48-7,[O-][N+](=NC1=CC=CC=C1)C1=CC=CC=C1,oxido-phenyl-phenyliminoazanium
+Nitrilacarb,29672-19-3,CNC(O/N=C/C(CCC#N)(C)C)=O,"[(E)-(4-cyano-2,2-dimethylbutylidene)amino] N-methylcarbamate"
+Novaluron,116714-46-6,ClC=1C=C(C=CC1OC(C(OC(F)(F)F)F)(F)F)NC(=O)NC(C1=C(C=CC=C1F)F)=O,"N-[[3-chloro-4-[1,1,2-trifluoro-2-(trifluoromethoxy)ethoxy]phenyl]carbamoyl]-2,6-difluorobenzamide"
+Hexythiazox,78587-05-0,ClC1=CC=C(C=C1)[C@H]1[C@@H](N(C(S1)=O)C(=O)NC1CCCCC1)C,"(4S,5S)-5-(4-chlorophenyl)-N-cyclohexyl-4-methyl-2-oxo-1,3-thiazolidine-3-carboxamide"
+Calvinphos,6465-92-5,[Ca++].CO[P]([O-])(=O)OC=C(Cl)Cl.CO[P]([O-])(=O)OC=C(Cl)Cl.CO[P](=O)(OC)OC=C(Cl)Cl,"calcium;2,2-dichloroethenyl dimethyl phosphate;bis(2,2-dichloroethenyl methyl phosphate)"
+Bromophos-ethyl,4824-78-6,BrC1=CC(=C(OP(=S)(OCC)OCC)C=C1Cl)Cl,"(4-bromo-2,5-dichlorophenoxy)-diethoxy-sulfanylidene-lambda5-phosphane"
+Mecarbam,2595-54-2,C(C)OP(=S)(OCC)SCC(=O)N(C(OCC)=O)C,ethyl N-(2-diethoxyphosphinothioylsulfanylacetyl)-N-methylcarbamate
+Cyenopyrafen,560121-52-0,CC(C(=O)O\C(=C(\C#N)/C1=CC=C(C=C1)C(C)(C)C)\C=1N(N=C(C1C)C)C)(C)C,"[(E)-2-(4-tert-butylphenyl)-2-cyano-1-(2,4,5-trimethylpyrazol-3-yl)ethenyl] 2,2-dimethylpropanoate"
+Alpha-endosulfan,959-98-8,Cl[C@]12[C@@H]3COS(OC[C@@H]3[C@](C(=C1Cl)Cl)(C2(Cl)Cl)Cl)=O,"(1R,2S,8R,9S)-1,9,10,11,12,12-hexachloro-4,6-dioxa-5lambda4-thiatricyclo[7.2.1.02,8]dodec-10-ene 5-oxide"
+Propaphos,7292-16-2,P(=O)(OC1=CC=C(C=C1)SC)(OCCC)OCCC,(4-methylsulfanylphenyl) dipropyl phosphate
+Citronellol,106-22-9,CC(CCO)CCC=C(C)C,"3,7-dimethyloct-6-en-1-ol"
+Mercurous chloride,7546-30-7,Cl[Hg],chloromercury
+Crotamiton,483-63-6,C(C)N(C(C=CC)=O)C1=C(C=CC=C1)C,N-ethyl-N-(2-methylphenyl)but-2-enamide
+Cuelure,3572-06-3,C(C)(=O)OC1=CC=C(C=C1)CCC(C)=O,[4-(3-oxobutyl)phenyl] acetate
+Isothioate,36614-38-7,COP(=S)(SCCSC(C)C)OC,dimethoxy-(2-propan-2-ylsulfanylethylsulfanyl)-sulfanylidene-lambda5-phosphane
+Noviflumuron,121451-02-3,ClC=1C(=C(C=C(C1OC(C(C(F)(F)F)F)(F)F)Cl)NC(=O)NC(C1=C(C=CC=C1F)F)=O)F,"N-[[3,5-dichloro-2-fluoro-4-(1,1,2,3,3,3-hexafluoropropoxy)phenyl]carbamoyl]-2,6-difluorobenzamide"
+Cycloprothrin,63935-38-6,ClC1(C(C1)(C(=O)OC(C1=CC(=CC=C1)OC1=CC=CC=C1)C#N)C1=CC=C(C=C1)OCC)Cl,"[cyano-(3-phenoxyphenyl)methyl] 2,2-dichloro-1-(4-ethoxyphenyl)cyclopropane-1-carboxylate"
+Momfluorothrin,609346-29-4,C(#N)C(=CC1C(C1C(=O)OCC1=C(C(=C(C(=C1F)F)COC)F)F)(C)C)C,"[2,3,5,6-tetrafluoro-4-(methoxymethyl)phenyl]methyl 3-(2-cyanoprop-1-enyl)-2,2-dimethylcyclopropane-1-carboxylate"
+Tetraniliprole,1229654-66-3,ClC=1C(=NC=CC1)N1N=C(C=C1C(=O)NC1=C(C=C(C=C1C(NC)=O)C#N)C)CN1N=C(N=N1)C(F)(F)F,1-(3-chloro-2-pyridinyl)-N-[4-cyano-2-methyl-6-(methylcarbamoyl)phenyl]-3-[[5-(trifluoromethyl)tetrazol-2-yl]methyl]pyrazole-5-carboxamide
+Permethrin,52645-53-1,ClC(=CC1C(C1C(=O)OCC1=CC(=CC=C1)OC1=CC=CC=C1)(C)C)Cl,"(3-phenoxyphenyl)methyl 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate"
+Dinosulfon,5386-77-6,CSC(=O)OC1=C(C=C(C=C1C(C)CCCCCC)[N+](=O)[O-])[N+](=O)[O-],"(2,4-dinitro-6-octan-2-ylphenyl) methylsulfanylformate"
+Metam-potassium,137-41-7,CNC(=S)[S-].[K+],potassium N-methylcarbamodithioate
+Phoxim,14816-18-3,C(C)OP(=S)(ON=C(C1=CC=CC=C1)C#N)OCC,N-diethoxyphosphinothioyloxybenzenecarboximidoyl cyanide
+Dibromochloropropane,96-12-8,BrCC(CCl)Br,"1,2-dibromo-3-chloropropane"
+Triarathene,65691-00-1,ClC1=CC=C(C=C1)C1=CC(=C(S1)C1=CC=CC=C1)C1=CC=CC=C1,"5-(4-chlorophenyl)-2,3-diphenylthiophene"
+Prothidathion,20276-83-9,C(C)OP(=S)(OCC)SCN1C(SC(=N1)OC(C)C)=O,"3-(diethoxyphosphinothioylsulfanylmethyl)-5-propan-2-yloxy-1,3,4-thiadiazol-2-one"
+Fosmethilan,83733-82-8,ClC1=C(C=CC=C1)N(C(CCC)=O)CSP(=S)(OC)OC,N-(2-chlorophenyl)-N-(dimethoxyphosphinothioylsulfanylmethyl)butanamide
+Flupyrimin,1689566-03-7,ClC1=CC=C(C=N1)CN1C(C=CC=C1)=NC(C(F)(F)F)=O,"N-[1-[(6-chloro-3-pyridinyl)methyl]-2-pyridinylidene]-2,2,2-trifluoroacetamide"
+D-limonene,5989-27-5,CC1=CC[C@@H](CC1)C(=C)C,(4R)-1-methyl-4-prop-1-en-2-ylcyclohexene
+Empenthrin,54406-48-3,CC1(C(C1C=C(C)C)C(=O)OC(C#C)C(=CCC)C)C,"4-methylhept-4-en-1-yn-3-yl 2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate"
+Silafluofen,105024-66-6,C(C)OC1=CC=C(C=C1)[Si](C)(C)CCCC1=CC(=C(C=C1)F)OC1=CC=CC=C1,(4-ethoxyphenyl)-[3-(4-fluoro-3-phenoxyphenyl)propyl]-dimethylsilane
+Azamethiphos,35575-96-3,ClC=1C=C2C(=NC1)N(C(O2)=O)CSP(=O)(OC)OC,"6-chloro-3-(dimethoxyphosphorylsulfanylmethyl)-[1,3]oxazolo[4,5-b]pyridin-2-one"
+Piperflanilide,2615135-05-0,BrC1=C(C(=CC(=C1)C(C(F)(F)F)(C(F)(F)F)F)OC(F)F)NC(=O)C=1C(=C(C=CC1)N(C(=O)C1=CC2=C(OC(O2)(F)F)C=C1)C)F,"N-[3-[[2-bromo-6-(difluoromethoxy)-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)phenyl]carbamoyl]-2-fluorophenyl]-2,2-difluoro-N-methyl-1,3-benzodioxole-5-carboxamide"
+Trans-citral,5392-40-5,C\C(=C/C=O)\CCC=C(C)C,"(2E)-3,7-dimethylocta-2,6-dienal"
+Demeton-S-methyl sulfone,17040-19-6,COP(=O)(OC)SCCS(=O)(=O)CC,1-dimethoxyphosphorylsulfanyl-2-ethylsulfonylethane
+Pyramat,2532-49-2,CN(C(OC1=NC(=NC(=C1)C)CCC)=O)C,"(6-methyl-2-propylpyrimidin-4-yl) N,N-dimethylcarbamate"
+Dazomet,533-74-4,CN1C(SCN(C1)C)=S,"3,5-dimethyl-1,3,5-thiadiazinane-2-thione"
+8-dodecenol,42513-42-8,C(CCCCCC\C=C\CCC)O,(E)-dodec-8-en-1-ol
+Pyrifluquinazon,337458-27-2,C(C)(=O)N1C(N(CC2=CC(=CC=C12)C(C(F)(F)F)(C(F)(F)F)F)NCC=1C=NC=CC1)=O,"1-acetyl-6-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-3-(pyridin-3-ylmethylamino)-4H-quinazolin-2-one"
+Fluxametamide,928783-29-3,ClC=1C=C(C=C(C1)Cl)C1(CC(=NO1)C1=CC(=C(C(=O)NC=NOC)C=C1)C)C(F)(F)F,"4-[5-(3,5-dichlorophenyl)-5-(trifluoromethyl)-4H-1,2-oxazol-3-yl]-N-(methoxyiminomethyl)-2-methylbenzamide"
+Trioxyflanilide,2922115-20-4,BrC1=C(C(=CC(=C1)C(C(F)(F)F)(C(F)(F)F)F)C(F)(F)F)NC(C1=C(C(=CC=C1)N(CCOC)C(C1=CC=C(C=C1)F)=O)F)=O,"N-[2-bromo-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-6-(trifluoromethyl)phenyl]-2-fluoro-3-[(4-fluorobenzoyl)-(2-methoxyethyl)amino]benzamide"
+Etrimfos,38260-54-7,C(C)OC1=CC(=NC(=N1)CC)OP(=S)(OC)OC,(6-ethoxy-2-ethylpyrimidin-4-yl)oxy-dimethoxy-sulfanylidene-lambda5-phosphane
+Thymol,89-83-8,CC=1C=CC(=C(C1)O)C(C)C,5-methyl-2-propan-2-ylphenol
+1-dodecanol,112-53-8,C(CCCCCCCCCCC)O,dodecan-1-ol
+Profenofos,41198-08-7,BrC1=CC(=C(C=C1)OP(=O)(SCCC)OCC)Cl,4-bromo-2-chloro-1-[ethoxy(propylsulfanyl)phosphoryl]oxybenzene
+Tirpate,26419-73-8,CNC(O/N=C/C1(SCC(S1)C)C)=O,"[(E)-(2,4-dimethyl-1,3-dithiolan-2-yl)methylideneamino] N-methylcarbamate"
+Alanycarb,83130-01-2,C(C1=CC=CC=C1)N(CCC(=O)OCC)SN(C(=O)O\N=C(\C)/SC)C,ethyl 3-[benzyl-[methyl-[(Z)-1-methylsulfanylethylideneamino]oxycarbonylamino]sulfanylamino]propanoate
+N-bromoacetamide,79-15-2,BrNC(C)=O,N-bromoacetamide
+Afidopyropen,915972-17-7,C1(CC1)C(=O)OC[C@@]1([C@H](CC[C@@]2([C@H]3[C@H](C=4C(OC(=CC4O[C@@]3([C@H](C[C@@H]12)O)C)C=1C=NC=CC1)=O)O)C)OC(=O)C1CC1)C,"[(1S,2S,5S,6R,7R,9S,10S,18R)-5-(cyclopropanecarbonyloxy)-9,18-dihydroxy-2,6,10-trimethyl-16-oxo-14-pyridin-3-yl-11,15-dioxatetracyclo[8.8.0.02,7.012,17]octadeca-12(17),13-dien-6-yl]methyl cyclopropanecarboxylate"
+Acequinocyl,57960-19-7,C(C)(=O)OC=1C(C2=CC=CC=C2C(C1CCCCCCCCCCCC)=O)=O,"(3-dodecyl-1,4-dioxonaphthalen-2-yl) acetate"
+Disodium octaborate tetrahydrate,12280-03-4,O.O.O.O.[Na+].[Na+].OB(O)O.OB(O)O.OB(O)O.OB(O)O.OB(O)O.OB(O)O.OB(O)O.OB([O-])[O-],"disodium;(9,11-dioxido-5-oxoboranyloxy-2,4,6,8,10,12,13-heptaoxa-1,3,5,7,9,11-hexaborabicyclo[5.5.1]tridecan-3-yl)oxy-oxoborane;tetrahydrate"
+Acibenzolar,126448-41-7,S1N=NC2=C1C(=CC=C2)C(S)=O,"1,2,3-benzothiadiazole-7-carbothioic S-acid"
+Chloroprallethrin,250346-55-5,Not found,"cis-[(1S)-2-methyl-4-oxo-3-prop-2-ynylcyclopent-2-en-1-yl] (1R,3S)-3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate"
+Carbon dioxide,124-38-9,C(=O)=O,carbon dioxide
+DNOC potassium,5787-96-2,CC1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])[O-].[K+],"potassium 2-methyl-4,6-dinitrophenolate"
+Chlorbicyclen,2550-75-6,Cl[C@@]12C(=C([C@@](C(C1CCl)CCl)(C2(Cl)Cl)Cl)Cl)Cl,"(1R,4S)-1,2,3,4,7,7-hexachloro-5,6-bis(chloromethyl)bicyclo[2.2.1]hept-2-ene"
+Buprofezin,69327-76-0,C(C)(C)(C)N=C1SCN(C(N1C(C)C)=O)C1=CC=CC=C1,"2-tert-butylimino-5-phenyl-3-propan-2-yl-1,3,5-thiadiazinan-4-one"
+Fospirate,5598-52-7,P(=O)(OC)(OC)OC1=NC(=C(C=C1Cl)Cl)Cl,"dimethyl (3,5,6-trichloro-2-pyridinyl) phosphate"
+Flubenzimine,37893-02-0,C1(=CC=CC=C1)N=C1SC(C(N1C1=CC=CC=C1)=NC(F)(F)F)=NC(F)(F)F,"2-N,3-diphenyl-4-N,5-N-bis(trifluoromethyl)-1,3-thiazolidine-2,4,5-triimine"
+Chlorfenethol,80-06-8,ClC1=CC=C(C=C1)C(C)(O)C1=CC=C(C=C1)Cl,"1,1-bis(4-chlorophenyl)ethanol"
+Carbon tetrachloride,56-23-5,ClC(Cl)(Cl)Cl,tetrachloromethane
+Bioallethrin,260359-57-7,CC(C)=CC1C(C(=O)OC2CC(=O)C(=C2C)CC=C)C1(C)C,"cis-(2-methyl-4-oxo-3-prop-2-enylcyclopent-2-en-1-yl) (1R,3R)-2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate"
+Diflovidazin,162320-67-4,ClC1=C(C=CC=C1)C=1N=NC(=NN1)C1=C(C=CC=C1F)F,"3-(2-chlorophenyl)-6-(2,6-difluorophenyl)-1,2,4,5-tetrazine"
+Isobenzan,297-78-9,ClC12C3C(OC(C3C(C(=C1Cl)Cl)(C2(Cl)Cl)Cl)Cl)Cl,"1,3,5,7,8,9,10,10-octachloro-4-oxatricyclo[5.2.1.02,6]dec-8-ene"
+Octachlorodipropyl ether,127-90-2,ClC(C(COCC(C(Cl)(Cl)Cl)Cl)Cl)(Cl)Cl,"1,1,1,2-tetrachloro-3-(2,3,3,3-tetrachloropropoxy)propane"
+Plifenate,21757-82-4,C(C)(=O)OC(C(Cl)(Cl)Cl)C1=CC(=C(C=C1)Cl)Cl,"[2,2,2-trichloro-1-(3,4-dichlorophenyl)ethyl] acetate"
+Cyclaniliprole,1031756-98-5,BrC1=NN(C(=C1)C(=O)NC1=C(C=C(C=C1C(NC(C)C1CC1)=O)Cl)Br)C1=NC=CC=C1Cl,3-bromo-N-[2-bromo-4-chloro-6-(1-cyclopropylethylcarbamoyl)phenyl]-1-(3-chloro-2-pyridinyl)pyrazole-5-carboxamide
+Sodium lauryl sulphate,151-21-3,S(=O)(=O)(OCCCCCCCCCCCC)[O-].[Na+],sodium dodecyl sulfate
+Thiacloprid,111988-49-9,ClC1=CC=C(C=N1)CN1C(SCC1)=NC#N,"[3-[(6-chloro-3-pyridinyl)methyl]-1,3-thiazolidin-2-ylidene]cyanamide"
+Butonate,126-22-7,C(CCC)(=O)OC(C(Cl)(Cl)Cl)P(=O)(OC)OC,"(2,2,2-trichloro-1-dimethoxyphosphorylethyl) butanoate"
+Caffeine,58-08-2,CN1C(N(C=2N=CN(C2C1=O)C)C)=O,"1,3,7-trimethylpurine-2,6-dione"
+Hydroprene,41096-46-2,C\C(=C/C(=O)OCC)\C=C\CC(CCCC(C)C)C,"ethyl (2E,4E)-3,7,11-trimethyldodeca-2,4-dienoate"
+Propylene oxide,75-56-9,CC1OC1,2-methyloxirane
+Diflubenzuron,35367-38-5,ClC1=CC=C(C=C1)NC(=O)NC(C1=C(C=CC=C1F)F)=O,"N-[(4-chlorophenyl)carbamoyl]-2,6-difluorobenzamide"
+Kinoprene,42588-37-4,C\C(=C/C(=O)OCC#C)\C=C\CC(CCCC(C)C)C,"prop-2-ynyl (2E,4E)-3,7,11-trimethyldodeca-2,4-dienoate"
+Flucythrinate,70124-77-5,FC(OC1=CC=C(C=C1)C(C(=O)OC(C1=CC(=CC=C1)OC1=CC=CC=C1)C#N)C(C)C)F,[cyano-(3-phenoxyphenyl)methyl] 2-[4-(difluoromethoxy)phenyl]-3-methylbutanoate
+Nornicotine,494-97-3,N1[C@@H](CCC1)C=1C=NC=CC1,3-[(2S)-pyrrolidin-2-yl]pyridine
+Dibutyl phthalate,84-74-2,C=1(C(=CC=CC1)C(=O)OCCCC)C(=O)OCCCC,"dibutyl benzene-1,2-dicarboxylate"
+Dinopenton,5386-57-2,C(OC1=C(C=C(C=C1C(C)CCC)[N+](=O)[O-])[N+](=O)[O-])(OC(C)C)=O,"(2,4-dinitro-6-pentan-2-ylphenyl) propan-2-yl carbonate"
+Cyhalothrin,68085-85-8,Cl\C(=C/C1C(C1C(=O)OC(C1=CC(=CC=C1)OC1=CC=CC=C1)C#N)(C)C)\C(F)(F)F,"[cyano-(3-phenoxyphenyl)methyl] 3-[(Z)-2-chloro-3,3,3-trifluoroprop-1-enyl]-2,2-dimethylcyclopropane-1-carboxylate"
+Calcium chloride,10043-52-4,[Cl-].[Cl-].[Ca+2],calcium dichloride
+Chlorthiophos,60238-56-4,ClC1=C(OP(=S)(OCC)OCC)C=C(C(=C1)SC)Cl,"(2,5-dichloro-4-methylsulfanylphenoxy)-diethoxy-sulfanylidene-lambda5-phosphane"
+Methoxyfenozide,161050-58-4,C(C)(C)(C)N(NC(C1=C(C(=CC=C1)OC)C)=O)C(C1=CC(=CC(=C1)C)C)=O,"N'-tert-butyl-N'-(3,5-dimethylbenzoyl)-3-methoxy-2-methylbenzohydrazide"
+Triflumezopyrim,1263133-33-0,O=C1C(=C([N+](=C2N1C=CC=C2)CC=2C=NC=NC2)[O-])C2=CC(=CC=C2)C(F)(F)F,"4-oxo-1-(pyrimidin-5-ylmethyl)-3-[3-(trifluoromethyl)phenyl]pyrido[1,2-a]pyrimidin-1-ium-2-olate"
+Butopyronoxyl,532-34-3,CC1(OC(=CC(C1)=O)C(=O)OCCCC)C,"butyl 2,2-dimethyl-4-oxo-3H-pyran-6-carboxylate"
+Cismethrin,35764-59-1,CC(C)=C[C@@H]1[C@H](C(=O)OCc2oc(Cc3ccccc3)cc2)C1(C)C,"trans-(5-benzylfuran-3-yl)methyl (1R,3S)-2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate"
+Dazomet-sodium,53404-60-7,[Na+].CN1CN(C)C(=S)S[CH-]1,
+Geraniol,106-24-1,C\C(=C/CO)\CCC=C(C)C,"(2E)-3,7-dimethylocta-2,6-dien-1-ol"
+Oxamyl,23135-22-0,CN(C(C(=NOC(NC)=O)SC)=O)C,methyl 2-(dimethylamino)-N-(methylcarbamoyloxy)-2-oxoethanimidothioate
+Fenbutatin oxide,13356-08-6,CC(C[Sn](O[Sn](CC(C)(C)C1=CC=CC=C1)(CC(C)(C)C1=CC=CC=C1)CC(C)(C1=CC=CC=C1)C)(CC(C)(C)C1=CC=CC=C1)CC(C)(C)C1=CC=CC=C1)(C)C1=CC=CC=C1,tris(2-methyl-2-phenylpropyl)-tris(2-methyl-2-phenylpropyl)stannyloxystannane
+Silica,7631-86-9,O=[Si]=O,dioxosilane
+Indoxacarb,173584-44-6,ClC=1C=C2C[C@]3(C(=NN(CO3)C(N(C3=CC=C(C=C3)OC(F)(F)F)C(=O)OC)=O)C2=CC1)C(=O)OC,"methyl (4aS)-7-chloro-2-[methoxycarbonyl-[4-(trifluoromethoxy)phenyl]carbamoyl]-3,5-dihydroindeno[1,2-e][1,3,4]oxadiazine-4a-carboxylate"
+Nerolidol,7212-44-4,CC(C=C)(CC\C=C(\CCC=C(C)C)/C)O,"(6E)-3,7,11-trimethyldodeca-1,6,10-trien-3-ol"
+Kappa-tefluthrin,391634-71-2,Not found,"trans-(2,3,5,6-tetrafluoro-4-methylphenyl)methyl (1R,3R)-3-[(Z)-2-chloro-3,3,3-trifluoroprop-1-enyl]-2,2-dimethylcyclopropane-1-carboxylate"
+Imidacloprid,138261-41-3,ClC1=CC=C(C=N1)CN1\C(\NCC1)=N\[N+](=O)[O-],(NE)-N-[1-[(6-chloro-3-pyridinyl)methyl]imidazolidin-2-ylidene]nitramide
+Metam-ammonium,39680-90-5,CNC(=S)[S-].[NH4+],azanium N-methylcarbamodithioate
+Parathion-methyl,298-00-0,COP(=S)(OC1=CC=C(C=C1)[N+](=O)[O-])OC,dimethoxy-(4-nitrophenoxy)-sulfanylidene-lambda5-phosphane
+Dimetan,122-15-6,CN(C(OC1=CC(CC(C1)(C)C)=O)=O)C,"(5,5-dimethyl-3-oxocyclohexen-1-yl) N,N-dimethylcarbamate"
+Methyl jasmonate,1211-29-6,O=C1[C@@H]([C@H](CC1)CC(=O)OC)C\C=C/CC,"methyl 2-[(1R,2R)-3-oxo-2-[(Z)-pent-2-enyl]cyclopentyl]acetate"
+N-nitrosodimethylamine,62-75-9,CN(N=O)C,"N,N-dimethylnitrous amide"
+Spirotetramat,203313-25-1,C(OC1=C(C(NC12CCC(CC2)OC)=O)C2=C(C=CC(=C2)C)C)(OCC)=O,"[3-(2,5-dimethylphenyl)-8-methoxy-2-oxo-1-azaspiro[4.5]dec-3-en-4-yl] ethyl carbonate"
+Teflubenzuron,83121-18-0,ClC=1C(=C(C=C(C1F)Cl)NC(=O)NC(C1=C(C=CC=C1F)F)=O)F,"N-[(3,5-dichloro-2,4-difluorophenyl)carbamoyl]-2,6-difluorobenzamide"
+Terbufos,13071-79-9,C(C)(C)(C)SCSP(=S)(OCC)OCC,tert-butylsulfanylmethylsulfanyl-diethoxy-sulfanylidene-lambda5-phosphane
+Isocycloseram,2061933-85-3,ClC=1C=C(C=C(C1F)Cl)C1(CC(=NO1)C1=CC(=C(C(=O)NC2C(N(OC2)CC)=O)C=C1)C)C(F)(F)F,"4-[5-(3,5-dichloro-4-fluorophenyl)-5-(trifluoromethyl)-4H-1,2-oxazol-3-yl]-N-(2-ethyl-3-oxo-1,2-oxazolidin-4-yl)-2-methylbenzamide"
+Diphenylamine,122-39-4,C1(=CC=CC=C1)NC1=CC=CC=C1,N-phenylaniline
+Emamectin benzoate,155569-91-8,CC[C@H](C)[C@H]1O[C@@]2(C[C@@H]3C[C@@H](C\C=C(C)\[C@@H](O[C@H]4C[C@H](OC)[C@@H](O[C@H]5C[C@H](OC)[C@@H]([NH2+]C)[C@H](C)O5)[C@H](C)O4)[C@@H](C)/C=C/C=C/6CO[C@@H]7[C@H](O)C(=C[C@@H](C(=O)O3)[C@]67O)C)O2)C=C[C@@H]1C.[O-]C(=O)c8ccccc8,"benzoic acid;(1'R,2R,3S,4'S,6S,8'R,10'E,12'S,13'S,14'E,16'E,20'R,21'R,24'S)-2-[(2S)-butan-2-yl]-21',24'-dihydroxy-12'-[(2R,4S,5S,6S)-4-methoxy-5-[(2S,4S,5S,6S)-4-methoxy-6-methyl-5-(methylamino)oxan-2-yl]oxy-6-methyloxan-2-yl]oxy-3,11',13',22'-tetramethylspiro[2,3-dihydropyran-6,6'-3,7,19-trioxatetracyclo[15.6.1.14,8.020,24]pentacosa-10,14,16,22-tetraene]-2'-one"
+Formparanate,17702-57-7,CNC(OC1=CC(=C(C=C1)N=CN(C)C)C)=O,[4-(dimethylaminomethylideneamino)-3-methylphenyl] N-methylcarbamate
+D-phenothrin,26002-80-2,CC1(C(C1C=C(C)C)C(=O)OCC1=CC(=CC=C1)OC1=CC=CC=C1)C,"(3-phenoxyphenyl)methyl 2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate"
+Isobornyl thiocyanoacetate,115-31-1,S(C#N)CC(=O)O[C@H]1[C@@]2(CC[C@H](C1)C2(C)C)C,"[(1R,2R,4R)-1,7,7-trimethyl-2-bicyclo[2.2.1]heptanyl] 2-thiocyanatoacetate"
+Fufenozide,467427-80-1,C(C)(C)(C)N(NC(=O)C1=C(C2=C(CC(O2)C)C=C1)C)C(C1=CC(=CC(=C1)C)C)=O,"N'-tert-butyl-N'-(3,5-dimethylbenzoyl)-2,7-dimethyl-2,3-dihydro-1-benzofuran-6-carbohydrazide"
+Diclocymet,139920-32-4,C(#N)C(C(=O)N[C@H](C)C1=C(C=C(C=C1)Cl)Cl)C(C)(C)C,"2-cyano-N-[(1R)-1-(2,4-dichlorophenyl)ethyl]-3,3-dimethylbutanamide"
+Thiocyclam,31895-21-3,CN(C1CSSSC1)C,"N,N-dimethyltrithian-5-amine"
+Fluvalinate,69409-94-5,ClC1=C(NC(C(=O)OC(C2=CC(=CC=C2)OC2=CC=CC=C2)C#N)C(C)C)C=CC(=C1)C(F)(F)F,[cyano-(3-phenoxyphenyl)methyl] 2-[2-chloro-4-(trifluoromethyl)anilino]-3-methylbutanoate
+Benoxafos,16759-59-4,ClC=1C=C(C2=C(N=C(O2)CSP(=S)(OCC)OCC)C1)Cl,"(5,7-dichloro-1,3-benzoxazol-2-yl)methylsulfanyl-diethoxy-sulfanylidene-lambda5-phosphane"
+Triazophos,24017-47-8,C(C)OP(=S)(OC1=NN(C=N1)C1=CC=CC=C1)OCC,"diethoxy-[(1-phenyl-1,2,4-triazol-3-yl)oxy]-sulfanylidene-lambda5-phosphane"
+Thiosultap-disodium,52207-48-4,[Na+].[Na+].CN(C)C(CS[S]([O-])(=O)=O)CS[S]([O-])(=O)=O,"disodium;2-(dimethylamino)-1,3-bis(sulfonatosulfanyl)propane"
+Fenthion sulfoxide,3761-41-9,COP(=S)(OC1=CC(=C(C=C1)S(=O)C)C)OC,dimethoxy-(3-methyl-4-methylsulfinylphenoxy)-sulfanylidene-lambda5-phosphane
+Icaridin,119515-38-7,OCCC1N(CCCC1)C(=O)OC(C)CC,butan-2-yl 2-(2-hydroxyethyl)piperidine-1-carboxylate
+Propetamphos,31218-83-4,C(C)NP(=S)(O/C(=C/C(=O)OC(C)C)/C)OC,propan-2-yl (E)-3-[ethylamino(methoxy)phosphinothioyl]oxybut-2-enoate
+Flonicamid,158062-67-0,C(#N)CNC(=O)C=1C=NC=CC1C(F)(F)F,N-(cyanomethyl)-4-(trifluoromethyl)pyridine-3-carboxamide
+DDT,50-29-3,ClC1=CC=C(C=C1)C(C(Cl)(Cl)Cl)C1=CC=C(C=C1)Cl,"1-chloro-4-[2,2,2-trichloro-1-(4-chlorophenyl)ethyl]benzene"
+Calcium acetate,62-54-4,C(C)(=O)[O-].C(C)(=O)[O-].[Ca+2],calcium diacetate
+Cyanofenphos,13067-93-1,C(C)OP(=S)(OC1=CC=C(C#N)C=C1)C1=CC=CC=C1,4-[ethoxy(phenyl)phosphinothioyl]oxybenzonitrile
+Azinphos-ethyl,2642-71-9,C(C)OP(=S)(OCC)SCN1N=NC2=C(C1=O)C=CC=C2,"3-(diethoxyphosphinothioylsulfanylmethyl)-1,2,3-benzotriazin-4-one"
+DNOC ammonium,2980-64-5,CC1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])[O-].[NH4+],"azanium 2-methyl-4,6-dinitrophenolate"
+Ammonium acetate,631-61-8,C(C)(=O)[O-].[NH4+],azanium acetate
+EPBP,3792-59-4,ClC1=C(OP(=S)(C2=CC=CC=C2)OCC)C=CC(=C1)Cl,"(2,4-dichlorophenoxy)-ethoxy-phenyl-sulfanylidene-lambda5-phosphane"
+Spirobudifen,1305319-70-3,C(OCCCC)(OC1=C(C(OC12CCCCC2)=O)C2=C(C=C(C=C2)Cl)Cl)=O,"butyl [3-(2,4-dichlorophenyl)-2-oxo-1-oxaspiro[4.5]dec-3-en-4-yl] carbonate"
+Penfluron,35367-31-8,FC1=C(C(=O)NC(NC2=CC=C(C=C2)C(F)(F)F)=O)C(=CC=C1)F,"2,6-difluoro-N-[[4-(trifluoromethyl)phenyl]carbamoyl]benzamide"
+Isoxathion,18854-01-8,C(C)OP(=S)(OC1=NOC(=C1)C1=CC=CC=C1)OCC,"diethoxy-[(5-phenyl-1,2-oxazol-3-yl)oxy]-sulfanylidene-lambda5-phosphane"
+Formic acid,64-18-6,C(=O)O,formic acid
+Lufenuron,103055-07-8,ClC1=C(C=C(C(=C1)OC(C(C(F)(F)F)F)(F)F)Cl)NC(=O)NC(C1=C(C=CC=C1F)F)=O,"N-[[2,5-dichloro-4-(1,1,2,3,3,3-hexafluoropropoxy)phenyl]carbamoyl]-2,6-difluorobenzamide"
+Dimpropyridaz,1403615-77-9,C(C)N(C(=O)C=1C=NN(C1C)C(C)C(C)C)C1=CN=NC=C1,N-ethyl-5-methyl-1-(3-methylbutan-2-yl)-N-pyridazin-4-ylpyrazole-4-carboxamide
+Tiorantraniliprole,1442448-92-1,BrC1=NN(C(=C1)C(=O)NC1=C(C=C(C=C1C(NC(C)C)=S)Cl)Cl)C1=NC=CC=C1Cl,"3-bromo-1-(3-chloro-2-pyridinyl)-N-[2,4-dichloro-6-(propan-2-ylcarbamothioyl)phenyl]pyrazole-5-carboxamide"
+Chlorbenside,103-17-3,ClC1=CC=C(C=C1)SCC1=CC=C(C=C1)Cl,1-chloro-4-[(4-chlorophenyl)methylsulfanyl]benzene
+Oxydeprofos,2674-91-1,COP(=O)(OC)SC(CS(=O)CC)C,2-dimethoxyphosphorylsulfanyl-1-ethylsulfinylpropane
+Fosthiazate,98886-44-3,CC(CC)SP(=O)(OCC)N1C(SCC1)=O,"3-[butan-2-ylsulfanyl(ethoxy)phosphoryl]-1,3-thiazolidin-2-one"
+Fenitrothion,122-14-5,COP(=S)(OC1=CC(=C(C=C1)[N+](=O)[O-])C)OC,dimethoxy-(3-methyl-4-nitrophenoxy)-sulfanylidene-lambda5-phosphane
+Arsenic acid,7778-39-4,[As](O)(O)(O)=O,arsoric acid
+Pyridalyl,179101-81-6,ClC1=C(OCCCOC2=NC=C(C=C2)C(F)(F)F)C(=CC(=C1)OCC=C(Cl)Cl)Cl,"2-[3-[2,6-dichloro-4-(3,3-dichloroprop-2-enoxy)phenoxy]propoxy]-5-(trifluoromethyl)pyridine"
+Flometoquin,875775-74-9,C(OC1=C(C(=NC2=CC(=C(C=C12)OC1=CC=C(C=C1)OC(F)(F)F)C)CC)C)(OC)=O,"[2-ethyl-3,7-dimethyl-6-[4-(trifluoromethoxy)phenoxy]quinolin-4-yl] methyl carbonate"
+Thiodicarb,59669-26-0,CN(C(=O)ON=C(C)SC)SN(C(=O)ON=C(C)SC)C,methyl N-[methyl-[methyl-(1-methylsulfanylethylideneamino)oxycarbonylamino]sulfanylcarbamoyl]oxyethanimidothioate
+S-methoprene,65733-16-6,COC(CCC[C@@H](C/C=C/C(=C/C(=O)OC(C)C)/C)C)(C)C,"propan-2-yl (2E,4E,7S)-11-methoxy-3,7,11-trimethyldodeca-2,4-dienoate"
+Methomyl,16752-77-5,CNC(=O)ON=C(C)SC,methyl N-(methylcarbamoyloxy)ethanimidothioate
+Sulfotep,3689-24-5,C(C)OP(=S)(OP(=S)(OCC)OCC)OCC,diethoxyphosphinothioyloxy-diethoxy-sulfanylidene-lambda5-phosphane
+Linoleic acid,60-33-3,C(CCCCCCC\C=C/C\C=C/CCCCC)(=O)O,"(9Z,12Z)-octadeca-9,12-dienoic acid"
+Zeta-cypermethrin,1315501-18-8,ClC(=CC1C(C1C(=O)O[C@@H](C1=CC(=CC=C1)OC1=CC=CC=C1)C#N)(C)C)Cl,"[(S)-cyano-(3-phenoxyphenyl)methyl] 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate"
+Malathion,121-75-5,COP(=S)(OC)SC(C(=O)OCC)CC(=O)OCC,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate
+Boric acid,10043-35-3,B(O)(O)O,boric acid
+Dichloromethane,75-09-2,ClCCl,dichloromethane
+Isolan,119-38-0,CN(C(OC=1N(N=C(C1)C)C(C)C)=O)C,"(5-methyl-2-propan-2-ylpyrazol-3-yl) N,N-dimethylcarbamate"
+Spinetoram,935545-74-7,CN([C@H]1CC[C@@H](O[C@@H]1C)O[C@@H]1[C@H](C(C2=C[C@H]3[C@@H]4CC(C[C@H]4CC[C@H]3C2CC(O[C@H](CCC1)CC)=O)O[C@@H]1O[C@H]([C@@H]([C@H]([C@H]1OC)OCC)OC)C)=O)C)C,"(2R,5R,9R,10S,14R,15S,19S)-15-[(2R,5S,6R)-5-(dimethylamino)-6-methyloxan-2-yl]oxy-7-[(2R,3R,4R,5S,6S)-4-ethoxy-3,5-dimethoxy-6-methyloxan-2-yl]oxy-19-ethyl-14-methyl-20-oxatetracyclo[10.10.0.02,10.05,9]docos-11-ene-13,21-dione"
+Chlordimeform,6164-98-3,ClC1=CC(=C(C=C1)N=CN(C)C)C,"N'-(4-chloro-2-methylphenyl)-N,N-dimethylmethanimidamide"
+Altretamine,645-05-6,CN(C1=NC(=NC(=N1)N(C)C)N(C)C)C,"2-N,2-N,4-N,4-N,6-N,6-N-hexamethyl-1,3,5-triazine-2,4,6-triamine"
+Transpermethrin,61949-77-7,CC1(C)[C@H](C=C(Cl)Cl)[C@H]1C(=O)OCc2cccc(Oc3ccccc3)c2,"cis-(3-phenoxyphenyl)methyl (1R,3S)-3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate"
+Trans-verbenol,22339-08-8,CC1=C[C@@H]([C@H]2C([C@@H]1C2)(C)C)O,"(1R,2S,5R)-4,6,6-trimethylbicyclo[3.1.1]hept-3-en-2-ol"
+Aramite,140-57-8,S(=O)(OC(COC1=CC=C(C=C1)C(C)(C)C)C)OCCCl,1-(4-tert-butylphenoxy)propan-2-yl 2-chloroethyl sulfite
+Fipronil,120068-37-3,NC1=C(C(=NN1C1=C(C=C(C=C1Cl)C(F)(F)F)Cl)C#N)S(=O)C(F)(F)F,"5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfinyl)pyrazole-3-carbonitrile"
+Chlorfluazuron,71422-67-8,ClC=1C=C(C=C(C1OC1=NC=C(C=C1Cl)C(F)(F)F)Cl)NC(=O)NC(C1=C(C=CC=C1F)F)=O,"N-[[3,5-dichloro-4-[[3-chloro-5-(trifluoromethyl)-2-pyridinyl]oxy]phenyl]carbamoyl]-2,6-difluorobenzamide"
+Cyromazine,66215-27-8,C1(CC1)NC1=NC(=NC(=N1)N)N,"2-N-cyclopropyl-1,3,5-triazine-2,4,6-triamine"
+Fenthion-ethyl,1716-09-2,C(C)OP(=S)(OC1=CC(=C(C=C1)SC)C)OCC,diethoxy-(3-methyl-4-methylsulfanylphenoxy)-sulfanylidene-lambda5-phosphane
+Quinalphos,13593-03-8,C(C)OP(=S)(OC1=NC2=CC=CC=C2N=C1)OCC,diethoxy-quinoxalin-2-yloxy-sulfanylidene-lambda5-phosphane
+Dimethyl sulphide,75-18-3,CSC,methylsulfanylmethane
+Camphechlor,8001-35-2,ClC12C(C(C(C(C1Cl)Cl)(C2(Cl)Cl)Cl)=C)(CCl)CCl,"1,4,5,6,7,7-hexachloro-2,2-bis(chloromethyl)-3-methylidenebicyclo[2.2.1]heptane"
+Fenthion,55-38-9,COP(=S)(OC1=CC(=C(C=C1)SC)C)OC,dimethoxy-(3-methyl-4-methylsulfanylphenoxy)-sulfanylidene-lambda5-phosphane
+Lavandulyl senecioate,337465-11-9,CC(=CC(=O)OC[C@@H](CC=C(C)C)C(=C)C)C,[(2S)-5-methyl-2-prop-1-en-2-ylhex-4-enyl] 3-methylbut-2-enoate
+Bromomethane,74-83-9,BrC,bromomethane
+Aldicarb,116-06-3,CNC(O/N=C/C(C)(SC)C)=O,[(E)-(2-methyl-2-methylsulfanylpropylidene)amino] N-methylcarbamate
+Butathiofos,90338-20-8,C(C)(C)(C)C1=NC=C(C=N1)OP(=S)(OCC)OCC,(2-tert-butylpyrimidin-5-yl)oxy-diethoxy-sulfanylidene-lambda5-phosphane
+Cartap hydrochloride,15263-52-2,[Cl-].C[NH+](C)C(CSC(N)=O)CSC(N)=O,S-[3-carbamoylsulfanyl-2-(dimethylamino)propyl] carbamothioate;hydrochloride
+Binapacryl,485-31-4,CC(=CC(=O)OC1=C(C=C(C=C1[N+](=O)[O-])[N+](=O)[O-])C(C)CC)C,"(2-butan-2-yl-4,6-dinitrophenyl) 3-methylbut-2-enoate"
+Chlorthion,500-28-7,ClC=1C=C(OP(=S)(OC)OC)C=CC1[N+](=O)[O-],(3-chloro-4-nitrophenoxy)-dimethoxy-sulfanylidene-lambda5-phosphane
+Cloethocarb,51487-69-5,CNC(OC1=C(C=CC=C1)OC(CCl)OC)=O,[2-(2-chloro-1-methoxyethoxy)phenyl] N-methylcarbamate
+Demephion-S,2587-90-8,COP(=O)(OC)SCCSC,1-dimethoxyphosphorylsulfanyl-2-methylsulfanylethane
+Dinex,131-89-5,C1(CCCCC1)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])O,"2-cyclohexyl-4,6-dinitrophenol"
+Kelevan,4234-79-1,ClC12C3(C4(C5(C(C3(C2(C5(C4(C1(Cl)Cl)Cl)Cl)Cl)Cl)(O)CC(CCC(=O)OCC)=O)Cl)Cl)Cl,"ethyl 5-(1,2,3,4,6,7,8,9,10,10-decachloro-5-hydroxy-5-pentacyclo[5.3.0.02,6.03,9.04,8]decanyl)-4-oxopentanoate"
+D-camphor,464-49-3,C[C@@]12C(C[C@@H](CC1)C2(C)C)=O,"(1R,4R)-1,7,7-trimethylbicyclo[2.2.1]heptan-2-one"
+Spiropidion,1229023-00-0,C(OC1=C(C(N(C12CCN(CC2)OC)C)=O)C2=C(C=C(C=C2C)Cl)C)(OCC)=O,"[3-(4-chloro-2,6-dimethylphenyl)-8-methoxy-1-methyl-2-oxo-1,8-diazaspiro[4.5]dec-3-en-4-yl] ethyl carbonate"
+Trifenmorph,1420-06-0,C(C1=CC=CC=C1)(C1=CC=CC=C1)(C1=CC=CC=C1)N1CCOCC1,4-tritylmorpholine
+Iodomethane,74-88-4,Not found,iodomethane
+Pyriproxyfen,95737-68-1,O(C1=CC=CC=C1)C1=CC=C(OCC(C)OC2=NC=CC=C2)C=C1,2-[1-(4-phenoxyphenoxy)propan-2-yloxy]pyridine
+Formothion,2540-82-1,COP(=S)(OC)SCC(=O)N(C)C=O,2-dimethoxyphosphinothioylsulfanyl-N-formyl-N-methylacetamide
+Hexaflumuron,86479-06-3,ClC=1C=C(C=C(C1OC(C(F)F)(F)F)Cl)NC(=O)NC(C1=C(C=CC=C1F)F)=O,"N-[[3,5-dichloro-4-(1,1,2,2-tetrafluoroethoxy)phenyl]carbamoyl]-2,6-difluorobenzamide"
+Butocarboxim,34681-10-2,CNC(ON=C(C)C(C)SC)=O,(3-methylsulfanylbutan-2-ylideneamino) N-methylcarbamate
+11-tetradecenal,35746-21-5,C(CCCCCCCCC\C=C\CC)=O,(E)-tetradec-11-enal
+Thiocyclam oxalate,31895-22-4,CN(C)C1CSSSC1.OC(=O)C(O)=O,"N,N-dimethyltrithian-5-amine;oxalic acid"
+Citric acid anhydrous,77-92-9,OC(CC(=O)O)(CC(=O)O)C(=O)O,"2-hydroxypropane-1,2,3-tricarboxylic acid"
+Chinomethionat,2439-01-2,CC=1C=C2N=C3C(=NC2=CC1)SC(S3)=O,"6-methyl-[1,3]dithiolo[4,5-b]quinoxalin-2-one"
+Chlorpyrifos,2921-88-2,C(C)OP(OC1=NC(=C(C=C1Cl)Cl)Cl)(=S)OCC,"diethoxy-sulfanylidene-[(3,5,6-trichloro-2-pyridinyl)oxy]-lambda5-phosphane"
+Cyantraniliprole,736994-63-1,BrC1=NN(C(=C1)C(=O)NC1=C(C=C(C=C1C(NC)=O)C#N)C)C1=NC=CC=C1Cl,3-bromo-1-(3-chloro-2-pyridinyl)-N-[4-cyano-2-methyl-6-(methylcarbamoyl)phenyl]pyrazole-5-carboxamide
+Pyraclofos,89784-60-1,ClC1=CC=C(C=C1)N1N=CC(=C1)OP(=O)(SCCC)OCC,1-(4-chlorophenyl)-4-[ethoxy(propylsulfanyl)phosphoryl]oxypyrazole
+Tralomethrin,1375081-91-6,CC1(C)[C@@H](C(Br)C(Br)(Br)Br)[C@H]1C(=O)O[C@H](C#N)c2cccc(Oc3ccccc3)c2,"cis-[(S)-cyano-(3-phenoxyphenyl)methyl] (1R,3S)-2,2-dimethyl-3-(1,2,2,2-tetrabromoethyl)cyclopropane-1-carboxylate"
+Bistrifluron,201593-84-2,ClC1=C(C=C(C=C1C(F)(F)F)C(F)(F)F)NC(=O)NC(C1=C(C=CC=C1F)F)=O,"N-[[2-chloro-3,5-bis(trifluoromethyl)phenyl]carbamoyl]-2,6-difluorobenzamide"
+DAEP,13265-60-6,COP(=S)(OC)SCCNC(C)=O,N-(2-dimethoxyphosphinothioylsulfanylethyl)acetamide
+Isomalathion,3344-12-5,COP(=O)(SC)SC(C(=O)OCC)CC(=O)OCC,diethyl 2-[methoxy(methylsulfanyl)phosphoryl]sulfanylbutanedioate
+Sodium hexafluorosilicate,16893-85-9,[Na+].[Na+].F[Si--](F)(F)(F)(F)F,disodium;hexafluorosilicon(2-)
+Ethoprophos,13194-48-4,C(C)OP(=O)(SCCC)SCCC,1-[ethoxy(propylsulfanyl)phosphoryl]sulfanylpropane
+Fenethacarb,30087-47-9,CNC(OC1=CC(=CC(=C1)CC)CC)=O,"(3,5-diethylphenyl) N-methylcarbamate"
+Heptenophos,23560-59-0,P(=O)(OC=1C2CC=CC2C1Cl)(OC)OC,"(7-chloro-6-bicyclo[3.2.0]hepta-2,6-dienyl) dimethyl phosphate"
+Chromafenozide,143807-66-3,C(C)(C)(C)N(NC(=O)C=1C(=C2CCCOC2=CC1)C)C(C1=CC(=CC(=C1)C)C)=O,"N'-tert-butyl-N'-(3,5-dimethylbenzoyl)-5-methyl-3,4-dihydro-2H-chromene-6-carbohydrazide"
+Demeton-O-methyl,867-27-6,C(C)SCCOP(=S)(OC)OC,2-ethylsulfanylethoxy-dimethoxy-sulfanylidene-lambda5-phosphane
+Hyquincarb,56716-21-3,CN(C(OC1=CC(=NC=2CCCCC12)C)=O)C,"(2-methyl-5,6,7,8-tetrahydroquinolin-4-yl) N,N-dimethylcarbamate"
+Leptophos,21609-90-5,BrC1=CC(=C(OP(=S)(C2=CC=CC=C2)OC)C=C1Cl)Cl,"(4-bromo-2,5-dichlorophenoxy)-methoxy-phenyl-sulfanylidene-lambda5-phosphane"
+Mephosfolan,950-10-7,C(C)OP(=O)(OCC)/N=C/1\SCC(S1)C,"(E)-N-diethoxyphosphoryl-4-methyl-1,3-dithiolan-2-imine"
+Paichongding,948994-16-9,ClC1=CC=C(C=N1)CN1CCN2C1=C(C(CC2OCCC)C)[N+](=O)[O-],"1-[(6-chloro-3-pyridinyl)methyl]-7-methyl-8-nitro-5-propoxy-3,5,6,7-tetrahydro-2H-imidazo[1,2-a]pyridine"
+Methiotepa,76-96-0,CC1N(C1)P(=S)(N1C(C1)C)N1C(C1)C,tris(2-methylaziridin-1-yl)-sulfanylidene-lambda5-phosphane
+Mancozeb,8018-01-7,[Mn++].[Zn++].[S-]C(=S)NCCNC([S-])=S.[S-]C(=S)NCCNC([S-])=S,zinc;manganese(2+);bis(N-[2-(sulfidocarbothioylamino)ethyl]carbamodithioate)
+Naftalofos,1491-41-4,P(=O)(ON1C(C2=CC=CC=3C2=C(C1=O)C=CC3)=O)(OCC)OCC,"(1,3-dioxobenzo[de]isoquinolin-2-yl) diethyl phosphate"
+Trifluenfuronate,2074661-82-6,COC1=C(C=CC=C1)C1OC(CC1C(=O)OCCC(=C(F)F)F)=O,"3,4,4-trifluorobut-3-enyl 2-(2-methoxyphenyl)-5-oxooxolane-3-carboxylate"
+Chlordane,57-74-9,Cl[C@]12C3C(C(CC3[C@](C(=C1Cl)Cl)(C2(Cl)Cl)Cl)Cl)Cl,"(1R,7S)-1,3,4,7,8,9,10,10-octachlorotricyclo[5.2.1.02,6]dec-8-ene"
+Demephion,8065-62-1,CO[P](=O)(OC)SCCSC,dimethoxy-(2-methylsulfanylethoxy)-sulfanylidene-lambda5-phosphane;1-dimethoxyphosphorylsulfanyl-2-methylsulfanylethane
+Trimedlure,12002-53-8,ClC1CC(C(CC1)C(=O)OC(C)(C)C)C,tert-butyl 4-chloro-2-methylcyclohexane-1-carboxylate
+Cyfluthrin,68359-37-5,ClC(=CC1C(C1C(=O)OC(C1=CC(=C(C=C1)F)OC1=CC=CC=C1)C#N)(C)C)Cl,"[cyano-(4-fluoro-3-phenoxyphenyl)methyl] 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate"
+Iodofenphos,18181-70-9,ClC1=C(OP(=S)(OC)OC)C=C(C(=C1)I)Cl,"(2,5-dichloro-4-iodophenoxy)-dimethoxy-sulfanylidene-lambda5-phosphane"
+Phenthoate,2597-03-7,COP(=S)(OC)SC(C(=O)OCC)C1=CC=CC=C1,ethyl 2-dimethoxyphosphinothioylsulfanyl-2-phenylacetate
+Esfenvalerate,66230-04-4,ClC1=CC=C(C=C1)[C@@H](C(=O)O[C@@H](C1=CC(=CC=C1)OC1=CC=CC=C1)C#N)C(C)C,[(S)-cyano-(3-phenoxyphenyl)methyl] (2S)-2-(4-chlorophenyl)-3-methylbutanoate
+Demeton,8065-48-3,CCO[P](=O)(OCC)SCCSCC.CCO[P](=S)(OCC)OCCSCC,diethoxy-(2-ethylsulfanylethoxy)-sulfanylidene-lambda5-phosphane;1-diethoxyphosphorylsulfanyl-2-ethylsulfanylethane
+DNOC,534-52-1,CC1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])O,"2-methyl-4,6-dinitrophenol"
+Thiourea,62-56-6,NC(=S)N,thiourea
+Isamidofos,66602-87-7,C(C)OP(=O)(NC(C)C)SCC(=O)N(C1=CC=CC=C1)C,2-[ethoxy-(propan-2-ylamino)phosphoryl]sulfanyl-N-methyl-N-phenylacetamide
+Metam-sodium,137-42-8,CNC(=S)[S-].[Na+],sodium N-methylcarbamodithioate
+Ethanol,64-17-5,C(C)O,ethanol
+Fluoroacetamide,640-19-7,FCC(=O)N,2-fluoroacetamide
+Amidothioate,14202-66-5,C(C)N(P1(OCC(CO1)(C)C)=S)CC,"N,N-diethyl-5,5-dimethyl-2-sulfanylidene-1,3,2lambda5-dioxaphosphinan-2-amine"
+Ethylene urea,120-93-4,N1C(NCC1)=O,imidazolidin-2-one
+DDD,72-54-8,ClC1=CC=C(C=C1)C(C(Cl)Cl)C1=CC=C(C=C1)Cl,"1-chloro-4-[2,2-dichloro-1-(4-chlorophenyl)ethyl]benzene"
+Omethoate,1113-02-6,COP(=O)(OC)SCC(=O)NC,2-dimethoxyphosphorylsulfanyl-N-methylacetamide
+Bisulflufen,1922957-45-6,FC1=C(C=C(C(=C1)C)SCC(F)(F)F)C1=C(C=C(C(=C1)SCC(F)(F)F)C)F,"1-fluoro-2-[2-fluoro-4-methyl-5-(2,2,2-trifluoroethylsulfanyl)phenyl]-5-methyl-4-(2,2,2-trifluoroethylsulfanyl)benzene"
+Acetophos,2425-25-4,C(C)OP(=O)(OCC)SCC(=O)OCC,ethyl 2-diethoxyphosphorylsulfanylacetate
+Isoprocarb,2631-40-5,CNC(OC1=C(C=CC=C1)C(C)C)=O,(2-propan-2-ylphenyl) N-methylcarbamate
+Vamidothion,2275-23-2,COP(=O)(OC)SCCSC(C(=O)NC)C,2-(2-dimethoxyphosphorylsulfanylethylsulfanyl)-N-methylpropanamide
+Colophonate,50398-69-1,ClC1=CN=C(S1)CSP(=S)(OC)OC,"(5-chloro-1,3-thiazol-2-yl)methylsulfanyl-dimethoxy-sulfanylidene-lambda5-phosphane"
+Deltamethrin,52918-63-5,CC1(C)[C@@H](C=C(Br)Br)[C@H]1C(=O)O[C@H](C#N)c2cccc(Oc3ccccc3)c2,"trans-[(S)-cyano-(3-phenoxyphenyl)methyl] (1R,3R)-3-(2,2-dibromoethenyl)-2,2-dimethylcyclopropane-1-carboxylate"
+Pioxaniliprole,2368920-61-8,C(C)(C)(C)NC(=O)C1=C(C(=CC(=C1)Cl)C)NC(=O)C1=CC(=NN1C1=NC=CC=C1Cl)OC1CS(C1)(=O)=O,"N-[2-(tert-butylcarbamoyl)-4-chloro-6-methylphenyl]-1-(3-chloro-2-pyridinyl)-3-(1,1-dioxothietan-3-yl)oxypyrazole-5-carboxamide"
+Cyanogen,460-19-5,C(C#N)#N,oxalonitrile
+Formetanate hydrochloride,23422-53-9,[H+].[Cl-].CNC(=O)Oc1cccc(c1)N=CN(C)C,[3-(dimethylaminomethylideneamino)phenyl] N-methylcarbamate;hydrochloride
+Phosalone,2310-17-0,ClC1=CC2=C(N(C(O2)=O)CSP(=S)(OCC)OCC)C=C1,"6-chloro-3-(diethoxyphosphinothioylsulfanylmethyl)-1,3-benzoxazol-2-one"
+Strobane,8001-50-1,ClC12C(C(C(C(C1(C)C)(C2Cl)Cl)Cl)Cl)(C(Cl)Cl)Cl,"1,2,3,4,5,7-hexachloro-2-(dichloromethyl)-6,6-dimethylbicyclo[3.1.1]heptane"
+Demeton-S-methyl,919-86-8,COP(=O)(OC)SCCSCC,1-dimethoxyphosphorylsulfanyl-2-ethylsulfanylethane
+Bromfenvinfos,33399-00-7,P(=O)(OC(=CBr)C1=C(C=C(C=C1)Cl)Cl)(OCC)OCC,"[2-bromo-1-(2,4-dichlorophenyl)ethenyl] diethyl phosphate"
+Furethrin,17080-02-3,CC1(C(C1C=C(C)C)C(=O)OC1C(=C(C(C1)=O)CC=1OC=CC1)C)C,"[3-(furan-2-ylmethyl)-2-methyl-4-oxocyclopent-2-en-1-yl] 2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate"
+Dimethyl phthalate,131-11-3,C=1(C(=CC=CC1)C(=O)OC)C(=O)OC,"dimethyl benzene-1,2-dicarboxylate"
+Triprene,40596-80-3,COC(CCCC(C/C=C/C(=C/C(SCC)=O)/C)C)(C)C,"S-ethyl (2E,4E)-11-methoxy-3,7,11-trimethyldodeca-2,4-dienethioate"
+Brofluthrinate,160791-64-0,FC(OC1=CC=C(C=C1)C(C(=O)OC(C#N)C1=CC(=CC=C1)OC1=CC=C(C=C1)Br)C(C)C)F,[[3-(4-bromophenoxy)phenyl]-cyanomethyl] 2-[4-(difluoromethoxy)phenyl]-3-methylbutanoate
+Dienochlor,2227-17-0,ClC1=C(C(=C(C1(C1(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)Cl)Cl)Cl)Cl,"1,2,3,4,5-pentachloro-5-(1,2,3,4,5-pentachlorocyclopenta-2,4-dien-1-yl)cyclopenta-1,3-diene"
+Epsilon-momfluorothrin,1065124-65-3,Not found,"cis-[2,3,5,6-tetrafluoro-4-(methoxymethyl)phenyl]methyl (1R,3R)-3-[(Z)-2-cyanoprop-1-enyl]-2,2-dimethylcyclopropane-1-carboxylate"
+Fensulfothion,115-90-2,C(C)OP(=S)(OC1=CC=C(C=C1)S(=O)C)OCC,diethoxy-(4-methylsulfinylphenoxy)-sulfanylidene-lambda5-phosphane
+Bentioflumin,2566451-67-8,ClC1=CC(=C(NCC2=C(C(=O)OC)C=CC=C2)C=C1SCC(F)(F)F)F,"methyl 2-[[4-chloro-2-fluoro-5-(2,2,2-trifluoroethylsulfanyl)anilino]methyl]benzoate"
+Carbon disulphide,75-15-0,C(=S)=S,methanedithione
+Beta-cypermethrin,52315-07-8,ClC(=CC1C(C1C(=O)OC(C1=CC(=CC=C1)OC1=CC=CC=C1)C#N)(C)C)Cl,"[cyano-(3-phenoxyphenyl)methyl] 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate"
+Jasmone,488-10-8,CC1=C(C(CC1)=O)C\C=C/CC,3-methyl-2-[(Z)-pent-2-enyl]cyclopent-2-en-1-one
+Triazamate,112143-82-5,C(C)(C)(C)C=1N=C(N(N1)C(N(C)C)=O)SCC(=O)OCC,"ethyl 2-[[5-tert-butyl-2-(dimethylcarbamoyl)-1,2,4-triazol-3-yl]sulfanyl]acetate"
+Chlorfenvinphos,470-90-6,P(=O)(OC(=CCl)C1=C(C=C(C=C1)Cl)Cl)(OCC)OCC,"[2-chloro-1-(2,4-dichlorophenyl)ethenyl] diethyl phosphate"
+Fenazaquin,120928-09-8,C(C)(C)(C)C1=CC=C(C=C1)CCOC1=NC=NC2=CC=CC=C12,4-[2-(4-tert-butylphenyl)ethoxy]quinazoline
+Dimethyl disulfide,624-92-0,CSSC,(methyldisulfanyl)methane
+Thiometon,640-15-3,C(C)SCCSP(=S)(OC)OC,2-ethylsulfanylethylsulfanyl-dimethoxy-sulfanylidene-lambda5-phosphane
+Eugenol,97-53-0,COC1=C(C=CC(=C1)CC=C)O,2-methoxy-4-prop-2-enylphenol
+Sulfiram,95-05-6,C(C)N(C(=S)SC(N(CC)CC)=S)CC,"diethylcarbamothioyl N,N-diethylcarbamodithioate"
+Cypermethrin,52315-07-8,ClC(=CC1C(C1C(=O)OC(C1=CC(=CC=C1)OC1=CC=CC=C1)C#N)(C)C)Cl,"[cyano-(3-phenoxyphenyl)methyl] 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate"
+Caprylic acid,124-07-2,C(CCCCCCC)(=O)O,octanoic acid
+Chlorfenapyr,122453-73-0,BrC=1C(=C(N(C1C(F)(F)F)COCC)C1=CC=C(C=C1)Cl)C#N,4-bromo-2-(4-chlorophenyl)-1-(ethoxymethyl)-5-(trifluoromethyl)pyrrole-3-carbonitrile
+Chloropropylate,5836-10-2,ClC1=CC=C(C=C1)C(C(=O)OC(C)C)(O)C1=CC=C(C=C1)Cl,"propan-2-yl 2,2-bis(4-chlorophenyl)-2-hydroxyacetate"
+Promacyl,34264-24-9,O=C(CNC(OC1=CC(=CC(=C1)C(C)C)C)=O)CCC,(3-methyl-5-propan-2-ylphenyl) N-(2-oxopentyl)carbamate
+Chlorempenthrin,54407-47-5,ClC(=CC1C(C1C(=O)OC(C#C)\C(=C\CC)\C)(C)C)Cl,"[(E)-4-methylhept-4-en-1-yn-3-yl] 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate"
+Nitenpyram,150824-47-8,CCN(Cc1ccc(Cl)nc1)\C(NC)=C\[N+]([O-])=O,"(E)-1-N'-[(6-chloro-3-pyridinyl)methyl]-1-N'-ethyl-1-N-methyl-2-nitroethene-1,1-diamine"
+Phosnichlor,5826-76-6,ClC1=C(C=C(OP(=S)(OC)OC)C=C1)[N+](=O)[O-],(4-chloro-3-nitrophenoxy)-dimethoxy-sulfanylidene-lambda5-phosphane
+Carbophenothion,786-19-6,ClC1=CC=C(C=C1)SCSP(=S)(OCC)OCC,(4-chlorophenyl)sulfanylmethylsulfanyl-diethoxy-sulfanylidene-lambda5-phosphane
+Flufenprox,107713-58-6,ClC1=CC=C(C=C1)OC1=CC(=CC=C1)COCC(C(F)(F)F)C1=CC=C(C=C1)OCC,"1-chloro-4-[3-[[2-(4-ethoxyphenyl)-3,3,3-trifluoropropoxy]methyl]phenoxy]benzene"
+Thiosultap,98968-92-4,CN(C(CSS(=O)(=O)O)CSS(=O)(=O)O)C,"2-(dimethylamino)-1,3-bis(sulfosulfanyl)propane"
+Acethion,919-54-0,C(C)OP(=S)(OCC)SCC(=O)OCC,ethyl 2-diethoxyphosphinothioylsulfanylacetate
+Dimepyrolimet,3056779-02-0,ClC1=C(C=NN1C)NC(=O)[C@H]1C(N(C[C@@H]1C1=CC(=CC(=C1)C)C)C)=O,"(3S,4S)-N-(5-chloro-1-methylpyrazol-4-yl)-4-(3,5-dimethylphenyl)-1-methyl-2-oxopyrrolidine-3-carboxamide"
+Cyetpyrafen,1253429-01-4,CC(C(=O)O\C(=C(/C#N)\C1=CC=C(C=C1)C(C)(C)C)\C=1N(N=C(C1)C)CC)(C)C,"[(Z)-2-(4-tert-butylphenyl)-2-cyano-1-(2-ethyl-5-methylpyrazol-3-yl)ethenyl] 2,2-dimethylpropanoate"
+Trichloronate,327-98-0,C(C)OP(OC1=C(C=C(C(=C1)Cl)Cl)Cl)(=S)CC,"ethoxy-ethyl-sulfanylidene-(2,4,5-trichlorophenoxy)-lambda5-phosphane"
+Beta-endosulfan,959-98-8,Cl[C@]12[C@@H]3COS(OC[C@@H]3[C@](C(=C1Cl)Cl)(C2(Cl)Cl)Cl)=O,"(1R,2S,8R,9S)-1,9,10,11,12,12-hexachloro-4,6-dioxa-5lambda4-thiatricyclo[7.2.1.02,8]dodec-10-ene 5-oxide"
+Fenothiocarb,62850-32-2,CN(C(SCCCCOC1=CC=CC=C1)=O)C,"S-(4-phenoxybutyl) N,N-dimethylcarbamothioate"
+Fluenetil,4301-50-2,C1(=CC=CC=C1)C1=CC=C(C=C1)CC(=O)OCCF,2-fluoroethyl 2-(4-phenylphenyl)acetate
+Azinphos-methyl,86-50-0,COP(=S)(OC)SCN1N=NC2=C(C1=O)C=CC=C2,"3-(dimethoxyphosphinothioylsulfanylmethyl)-1,2,3-benzotriazin-4-one"
+Hexadecanoic acid,57-10-3,C(CCCCCCCCCCCCCCC)(=O)O,hexadecanoic acid
+Imidaclothiz,105843-36-5,ClC=1SC(=CN1)CN1C(=NCC1)N[N+](=O)[O-],"N-[1-[(2-chloro-1,3-thiazol-5-yl)methyl]-4,5-dihydroimidazol-2-yl]nitramide"
+Cyproflanilide,2375110-88-4,BrC1=C(C(=CC(=C1)C(C(F)(F)F)(C(F)(F)F)F)C(F)(F)F)NC(C1=C(C(=CC=C1)N(C(C1=CC=C(C=C1)F)=O)CC1CC1)F)=O,"N-[2-bromo-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-6-(trifluoromethyl)phenyl]-3-[cyclopropylmethyl-(4-fluorobenzoyl)amino]-2-fluorobenzamide"
+Exo-brevicomin,20290-99-7,C(C)[C@H]1O[C@@]2(CCC[C@H]1O2)C,"(1R,5S,7R)-7-ethyl-5-methyl-6,8-dioxabicyclo[3.2.1]octane"
+Mazidox,7219-78-5,N(=[N+]=[N-])P(=O)(N(C)C)N(C)C,N-[azido(dimethylamino)phosphoryl]-N-methylmethanamine
+M-cumenyl methylcarbamate,64-00-6,CNC(OC1=CC(=CC=C1)C(C)C)=O,(3-propan-2-ylphenyl) N-methylcarbamate
+Fosthietan,21548-32-3,C(C)OP(=O)(OCC)N=C1SCS1,"N-diethoxyphosphoryl-1,3-dithietan-2-imine"
+Spiromesifen,283594-90-1,CC(CC(=O)OC1=C(C(OC12CCCC2)=O)C2=C(C=C(C=C2C)C)C)(C)C,"[2-oxo-3-(2,4,6-trimethylphenyl)-1-oxaspiro[4.4]non-3-en-4-yl] 3,3-dimethylbutanoate"
+Fenmezoditiaz,2413390-32-4,ClC=1SC(=CN1)[C@H]1CSC=2N1C(C(=C([N+]2C)[O-])C2=CC=CC=C2)=O,"(3R)-3-(2-chloro-1,3-thiazol-5-yl)-8-methyl-5-oxo-6-phenyl-2,3-dihydro-[1,3]thiazolo[3,2-a]pyrimidin-8-ium-7-olate"
+Alpha-cypermethrin,67375-30-8,CC1(C)[C@@H](C=C(Cl)Cl)[C@H]1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2,"trans-[(S)-cyano-(3-phenoxyphenyl)methyl] (1R,3R)-3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate"
+Tebufenozide,112410-23-8,C(C)(C)(C)N(NC(C1=CC=C(C=C1)CC)=O)C(C1=CC(=CC(=C1)C)C)=O,"N-tert-butyl-N'-(4-ethylbenzoyl)-3,5-dimethylbenzohydrazide"
+Ethiprole,181587-01-9,NC1=C(C(=NN1C1=C(C=C(C=C1Cl)C(F)(F)F)Cl)C#N)S(=O)CC,"5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-ethylsulfinylpyrazole-3-carbonitrile"
+Fenpirithrin,68523-18-2,ClC(=CC1C(C1C(=O)OC(C1=NC(=CC=C1)OC1=CC=CC=C1)C#N)(C)C)Cl,"[cyano-(6-phenoxy-2-pyridinyl)methyl] 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate"
+Cybenzoxasulfyl,2128706-04-5,C1(CC1)C=1C=C(C(=NC1)C=1OC2=C(N1)C=C(C=C2)S(=O)C(F)(F)F)S(=O)(=O)CC,"2-(5-cyclopropyl-3-ethylsulfonyl-2-pyridinyl)-5-(trifluoromethylsulfinyl)-1,3-benzoxazole"
+Oxydemeton-methyl,301-12-2,COP(=O)(OC)SCCS(=O)CC,1-dimethoxyphosphorylsulfanyl-2-ethylsulfinylethane
+Flufenoxuron,101463-69-8,ClC1=C(OC2=CC(=C(C=C2)NC(=O)NC(C2=C(C=CC=C2F)F)=O)F)C=CC(=C1)C(F)(F)F,"N-[[4-[2-chloro-4-(trifluoromethyl)phenoxy]-2-fluorophenyl]carbamoyl]-2,6-difluorobenzamide"
+Linalool,78-70-6,CC(C=C)(CCC=C(C)C)O,"3,7-dimethylocta-1,6-dien-3-ol"
+Metaflumizone,139968-49-3,C(#N)C1=CC=C(C=C1)C/C(/C1=CC(=CC=C1)C(F)(F)F)=N\NC(=O)NC1=CC=C(C=C1)OC(F)(F)F,1-[(E)-[2-(4-cyanophenyl)-1-[3-(trifluoromethyl)phenyl]ethylidene]amino]-3-[4-(trifluoromethoxy)phenyl]urea
+Pyriminostrobin,1257598-43-8,ClC1=C(NC2=NC(=CC(=N2)OCC2=C(C=CC=C2)/C(/C(=O)OC)=C\OC)C(F)(F)F)C=CC(=C1)Cl,"methyl (E)-2-[2-[[2-(2,4-dichloroanilino)-6-(trifluoromethyl)pyrimidin-4-yl]oxymethyl]phenyl]-3-methoxyprop-2-enoate"
+Fluorbenside,405-30-1,ClC1=CC=C(C=C1)CSC1=CC=C(C=C1)F,1-chloro-4-[(4-fluorophenyl)sulfanylmethyl]benzene
+Cinnamaldehyde,104-55-2,C1(=CC=CC=C1)/C=C/C=O,(E)-3-phenylprop-2-enal
+Demeton-O-methyl sulfone,25476-48-6,C(C)S(=O)(=O)CCOP(=S)(OC)OC,2-ethylsulfonylethoxy-dimethoxy-sulfanylidene-lambda5-phosphane
+Amidithion,919-76-6,COP(=S)(OC)SCC(=O)NCCOC,2-dimethoxyphosphinothioylsulfanyl-N-(2-methoxyethyl)acetamide
+Mipafox,371-86-8,FP(=O)(NC(C)C)NC(C)C,N-[fluoro-(propan-2-ylamino)phosphoryl]propan-2-amine
+Fenpropathrin,39515-41-8,CC1(C(C1(C)C)C(=O)OC(C1=CC(=CC=C1)OC1=CC=CC=C1)C#N)C,"[cyano-(3-phenoxyphenyl)methyl] 2,2,3,3-tetramethylcyclopropane-1-carboxylate"
+Schradan,152-16-9,CN(P(=O)(N(C)C)OP(=O)(N(C)C)N(C)C)C,N-[bis(dimethylamino)phosphoryloxy-(dimethylamino)phosphoryl]-N-methylmethanamine
+Methocrotophos,25601-84-7,P(=O)(O\C(\C)=C\C(=O)N(C)OC)(OC)OC,[(E)-4-[methoxy(methyl)amino]-4-oxobut-2-en-2-yl] dimethyl phosphate
+Spinetoram J,187166-40-1,CN([C@H]1CC[C@@H](O[C@@H]1C)O[C@@H]1[C@H](C(C2=C[C@H]3[C@@H]4C[C@@H](C[C@H]4CC[C@H]3[C@@H]2CC(O[C@H](CCC1)CC)=O)O[C@@H]1O[C@H]([C@@H]([C@H]([C@H]1OC)OCC)OC)C)=O)C)C,"(1S,2R,5R,7R,9R,10S,14R,15S,19S)-15-[(2R,5S,6R)-5-(dimethylamino)-6-methyloxan-2-yl]oxy-7-[(2R,3R,4R,5S,6S)-4-ethoxy-3,5-dimethoxy-6-methyloxan-2-yl]oxy-19-ethyl-14-methyl-20-oxatetracyclo[10.10.0.02,10.05,9]docos-11-ene-13,21-dione"
+Metofluthrin,240494-70-6,CC1(C(C1\C=C\C)C(=O)OCC1=C(C(=C(C(=C1F)F)COC)F)F)C,"[2,3,5,6-tetrafluoro-4-(methoxymethyl)phenyl]methyl 2,2-dimethyl-3-[(E)-prop-1-enyl]cyclopropane-1-carboxylate"
+Phosfolan,947-02-4,C(C)OP(=O)(OCC)N=C1SCCS1,"N-diethoxyphosphoryl-1,3-dithiolan-2-imine"
+Amitraz,33089-61-1,CC1=C(C=CC(=C1)C)N=CN(C)C=NC1=C(C=C(C=C1)C)C,"N'-(2,4-dimethylphenyl)-N-[(2,4-dimethylphenyl)iminomethyl]-N-methylmethanimidamide"
+Thiocarboxime,25171-63-5,CNC(=O)ON=C(C)SCCC#N,2-cyanoethyl N-(methylcarbamoyloxy)ethanimidothioate
+Tetramethrin,7696-12-0,CC1(C(C1C=C(C)C)C(=O)OCN1C(C=2CCCCC2C1=O)=O)C,"(1,3-dioxo-4,5,6,7-tetrahydroisoindol-2-yl)methyl 2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate"
+Protrifenbute,119544-94-4,ClC1=CC=C(C=C1)C(CCCC1=CC(=C(C=C1)F)OC1=CC=CC=C1)C1CC1,4-[4-(4-chlorophenyl)-4-cyclopropylbutyl]-1-fluoro-2-phenoxybenzene
+Pyrafluprole,315208-17-4,ClC1=C(C(=CC(=C1)C(F)(F)F)Cl)N1N=C(C(=C1NCC1=NC=CN=C1)SCF)C#N,"1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(fluoromethylsulfanyl)-5-(pyrazin-2-ylmethylamino)pyrazole-3-carbonitrile"
+Decarbofuran,1563-67-3,CNC(OC1=CC=CC=2CC(OC21)C)=O,"(2-methyl-2,3-dihydro-1-benzofuran-7-yl) N-methylcarbamate"
+Sodium tetrathiocarbonate,7345-69-9,[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[O-]C([O-])=S.[O-]C([O-])=S.[O-]C([O-])=S.[O-]C([O-])=S,disodium;sulfidosulfanylmethanedithioate
+Halfenprox,111872-58-3,BrC(OC1=CC=C(C=C1)C(COCC1=CC(=CC=C1)OC1=CC=CC=C1)(C)C)(F)F,1-[bromo(difluoro)methoxy]-4-[2-methyl-1-[(3-phenoxyphenyl)methoxy]propan-2-yl]benzene
+Carene,13466-78-9,CC=1CC2C(C2CC1)(C)C,"3,7,7-trimethylbicyclo[4.1.0]hept-3-ene"
+Aspon,3244-90-4,C(CC)OP(=S)(OP(=S)(OCCC)OCCC)OCCC,dipropoxyphosphinothioyloxy-dipropoxy-sulfanylidene-lambda5-phosphane
+Morphothion,144-41-2,COP(=S)(OC)SCC(=O)N1CCOCC1,2-dimethoxyphosphinothioylsulfanyl-1-morpholin-4-ylethanone
+Pirimiphos-methyl,29232-93-7,COP(=S)(OC1=NC(=NC(=C1)C)N(CC)CC)OC,"4-dimethoxyphosphinothioyloxy-N,N-diethyl-6-methylpyrimidin-2-amine"
+Acrylonitrile,107-13-1,C(C=C)#N,prop-2-enenitrile
+Benfuracarb,82560-54-1,CC1(OC2=C(C1)C=CC=C2OC(=O)N(C)SN(CCC(=O)OCC)C(C)C)C,"ethyl 3-[[(2,2-dimethyl-3H-1-benzofuran-7-yl)oxycarbonyl-methylamino]sulfanyl-propan-2-ylamino]propanoate"
+Calcium hydroxide,1305-62-0,[OH-].[OH-].[Ca+2],calcium dihydroxide
+Chlormephos,24934-91-6,ClCSP(=S)(OCC)OCC,chloromethylsulfanyl-diethoxy-sulfanylidene-lambda5-phosphane
+Profluthrin,223419-20-3,CC1(C(C1C=CC)C(=O)OCC1=C(C(=C(C(=C1F)F)C)F)F)C,"(2,3,5,6-tetrafluoro-4-methylphenyl)methyl 2,2-dimethyl-3-prop-1-enylcyclopropane-1-carboxylate"
+Benzpyrimoxan,1449021-97-9,O1C(OCCC1)C=1C(=NC=NC1)OCC1=CC=C(C=C1)C(F)(F)F,"5-(1,3-dioxan-2-yl)-4-[[4-(trifluoromethyl)phenyl]methoxy]pyrimidine"
+Sumithrin,26002-80-2,CC1(C(C1C=C(C)C)C(=O)OCC1=CC(=CC=C1)OC1=CC=CC=C1)C,"(3-phenoxyphenyl)methyl 2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate"
+Tetraethyl pyrophosphate,107-49-3,P(=O)(OP(=O)(OCC)OCC)(OCC)OCC,diethoxyphosphoryl diethyl phosphate
+Apholate,52-46-0,N1(CC1)P1(=NP(=NP(=N1)(N1CC1)N1CC1)(N1CC1)N1CC1)N1CC1,"2,2,4,4,6,6-hexakis(aziridin-1-yl)-1,3,5-triaza-2lambda5,4lambda5,6lambda5-triphosphacyclohexa-1,3,5-triene"
+Phosphamidon,13171-21-6,P(=O)(OC(C)=C(C(=O)N(CC)CC)Cl)(OC)OC,[3-chloro-4-(diethylamino)-4-oxobut-2-en-2-yl] dimethyl phosphate
+Thiosultap-monosodium,29547-00-0,CN(C(CSS(=O)(=O)[O-])CSS(=O)(=O)O)C.[Na+],sodium 2-(dimethylamino)-1-sulfonatosulfanyl-3-sulfosulfanylpropane
+"P,P'-DDT",12185-10-3,Clc1ccc(cc1)C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl,phosphane
+Diafenthiuron,80060-09-9,C(C)(C)(C)NC(=S)NC1=C(C=C(C=C1C(C)C)OC1=CC=CC=C1)C(C)C,"1-tert-butyl-3-[4-phenoxy-2,6-di(propan-2-yl)phenyl]thiourea"
+Benclothiaz,89583-90-4,ClC1=CC=CC=2C=NSC21,"7-chloro-1,2-benzothiazole"
+Methyleugenol,93-15-2,COC1=C(C=C(C=C1)CC=C)OC,"1,2-dimethoxy-4-prop-2-enylbenzene"
+Dieldrin,60-57-1,Cl[C@@]12[C@H]3[C@@H]4[C@H]5O[C@H]5[C@H]([C@H]3[C@@](C(=C1Cl)Cl)(C2(Cl)Cl)Cl)C4,"(1R,2S,3S,6R,7R,8S,9S,11R)-3,4,5,6,13,13-hexachloro-10-oxapentacyclo[6.3.1.13,6.02,7.09,11]tridec-4-ene"
+Epofenonane,57342-02-6,C(C)C1(OC1CCC(CCOC1=CC=C(C=C1)CC)CC)C,2-ethyl-3-[3-ethyl-5-(4-ethylphenoxy)pentyl]-2-methyloxirane
+Chlorantraniliprole,500008-45-7,BrC1=NN(C(=C1)C(=O)NC1=C(C=C(C=C1C(NC)=O)Cl)C)C1=NC=CC=C1Cl,3-bromo-N-[4-chloro-2-methyl-6-(methylcarbamoyl)phenyl]-1-(3-chloro-2-pyridinyl)pyrazole-5-carboxamide
+XMC,2655-14-3,CNC(OC1=CC(=CC(=C1)C)C)=O,"(3,5-dimethylphenyl) N-methylcarbamate"
+Kappa-bifenthrin,82657-04-3,Cc1c(COC(=O)C2C(\C=C(/Cl)C(F)(F)F)C2(C)C)cccc1c3ccccc3,"trans-(2-methyl-3-phenylphenyl)methyl (1R,3R)-3-[(Z)-2-chloro-3,3,3-trifluoroprop-1-enyl]-2,2-dimethylcyclopropane-1-carboxylate"
+Ethyl-DDD,72-56-0,ClC(C(C1=CC=C(C=C1)CC)C1=CC=C(C=C1)CC)Cl,"1-[2,2-dichloro-1-(4-ethylphenyl)ethyl]-4-ethylbenzene"
+Methoprene,40596-69-8,COC(CCCC(C/C=C/C(=C/C(=O)OC(C)C)/C)C)(C)C,"propan-2-yl (2E,4E)-11-methoxy-3,7,11-trimethyldodeca-2,4-dienoate"
+Dixanthogen,502-55-6,C(C)OC(=S)SSC(OCC)=S,O-ethyl (ethoxycarbothioyldisulfanyl)methanethioate
+Dimethrin,70-38-2,CC1(C(C1C=C(C)C)C(=O)OCC1=C(C=C(C=C1)C)C)C,"(2,4-dimethylphenyl)methyl 2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate"
+Dimethylvinphos,2274-67-1,P(=O)(OC(=CCl)C1=C(C=C(C=C1)Cl)Cl)(OC)OC,"[2-chloro-1-(2,4-dichlorophenyl)ethenyl] dimethyl phosphate"
+Berberine,2086-83-1,COC=1C2=C[N+]=3CCC4=CC=5OCOC5C=C4C3C=C2C=CC1OC,"16,17-dimethoxy-5,7-dioxa-13-azoniapentacyclo[11.8.0.02,10.04,8.015,20]henicosa-1(13),2,4(8),9,14,16,18,20-octaene"
+Propargite,2312-35-8,S(=O)(OC1C(CCCC1)OC1=CC=C(C=C1)C(C)(C)C)OCC#C,[2-(4-tert-butylphenoxy)cyclohexyl] prop-2-ynyl sulfite
+Sodium ferric EDTA,15708-41-5,[Na+].[Fe+3].[O-]C(=O)CN(CCN(CC([O-])=O)CC([O-])=O)CC([O-])=O,sodium;2-[2-[bis(carboxylatomethyl)amino]ethyl-(carboxylatomethyl)amino]acetate;iron(3+)
+Fenchlorphos,299-84-3,COP(OC1=C(C=C(C(=C1)Cl)Cl)Cl)(=S)OC,"dimethoxy-sulfanylidene-(2,4,5-trichlorophenoxy)-lambda5-phosphane"
+Dinoterbon,6073-72-9,C(OC1=C(C=C(C=C1[N+](=O)[O-])[N+](=O)[O-])C(C)(C)C)(OCC)=O,"(2-tert-butyl-4,6-dinitrophenyl) ethyl carbonate"
+Malonoben,10537-47-0,C(C)(C)(C)C=1C=C(C=C(C1O)C(C)(C)C)C=C(C#N)C#N,"2-[(3,5-ditert-butyl-4-hydroxyphenyl)methylidene]propanedinitrile"
+Tau-fluvalinate,102851-06-9,ClC1=C(N[C@@H](C(=O)OC(C2=CC(=CC=C2)OC2=CC=CC=C2)C#N)C(C)C)C=CC(=C1)C(F)(F)F,[cyano-(3-phenoxyphenyl)methyl] (2R)-2-[2-chloro-4-(trifluoromethyl)anilino]-3-methylbutanoate
+Quintiofos,1776-83-6,C(C)OP(=S)(OC=1C=CC=C2C=CC=NC12)C1=CC=CC=C1,ethoxy-phenyl-quinolin-8-yloxy-sulfanylidene-lambda5-phosphane
+Disulfoton sulfoxide,2497-07-6,C(C)OP(=S)(SCCS(=O)CC)OCC,diethoxy-(2-ethylsulfinylethylsulfanyl)-sulfanylidene-lambda5-phosphane
+Dioxathion,78-34-2,C(C)OP(=S)(OCC)SC1C(OCCO1)SP(=S)(OCC)OCC,"(3-diethoxyphosphinothioylsulfanyl-1,4-dioxan-2-yl)sulfanyl-diethoxy-sulfanylidene-lambda5-phosphane"
+"O,P'-DDT",7782-44-7,O=O,molecular oxygen
+Diazinon,333-41-5,C(C)OP(=S)(OC1=NC(=NC(=C1)C)C(C)C)OCC,diethoxy-(6-methyl-2-propan-2-ylpyrimidin-4-yl)oxy-sulfanylidene-lambda5-phosphane
+Tolfenpyrad,129558-76-5,ClC=1C(=NN(C1C(=O)NCC1=CC=C(C=C1)OC1=CC=C(C=C1)C)C)CC,4-chloro-3-ethyl-1-methyl-N-[[4-(4-methylphenoxy)phenyl]methyl]pyrazole-5-carboxamide
+Sanguinarine,2447-54-3,C[N+]=1C=C2C=3OCOC3C=CC2=C2C=CC3=CC=4OCOC4C=C3C12,"24-methyl-5,7,18,20-tetraoxa-24-azoniahexacyclo[11.11.0.02,10.04,8.014,22.017,21]tetracosa-1(24),2,4(8),9,11,13,15,17(21),22-nonaene"
+Amiton,78-53-5,C(C)OP(=O)(OCC)SCCN(CC)CC,"2-diethoxyphosphorylsulfanyl-N,N-diethylethanamine"
+Aldrin,309-00-2,Cl[C@@]12[C@H]3[C@@H]4C=C[C@H]([C@H]3[C@@](C(=C1Cl)Cl)(C2(Cl)Cl)Cl)C4,"(1S,2S,3S,6R,7R,8R)-1,8,9,10,11,11-hexachlorotetracyclo[6.2.1.13,6.02,7]dodeca-4,9-diene"
+4-allylanisole,140-67-0,COC1=CC=C(C=C1)CC=C,1-methoxy-4-prop-2-enylbenzene
+Pirimiphos-ethyl,23505-41-1,C(C)OP(=S)(OC1=NC(=NC(=C1)C)N(CC)CC)OCC,"4-diethoxyphosphinothioyloxy-N,N-diethyl-6-methylpyrimidin-2-amine"
+Gamma-cyhalothrin,76703-62-3,CC1(C)[C@@H](\C=C(/Cl)C(F)(F)F)[C@H]1C(=O)O[C@H](C#N)c2cccc(Oc3ccccc3)c2,"trans-[(S)-cyano-(3-phenoxyphenyl)methyl] (1R,3R)-3-[(Z)-2-chloro-3,3,3-trifluoroprop-1-enyl]-2,2-dimethylcyclopropane-1-carboxylate"
+Methiocarb,2032-65-7,CNC(OC1=CC(=C(C(=C1)C)SC)C)=O,"(3,5-dimethyl-4-methylsulfanylphenyl) N-methylcarbamate"
+Sulprofos,35400-43-2,C(C)OP(=S)(SCCC)OC1=CC=C(C=C1)SC,ethoxy-(4-methylsulfanylphenoxy)-propylsulfanyl-sulfanylidene-lambda5-phosphane
+Broflanilide,1207727-04-5,C(C1=CC=CC=C1)(=O)N(C=1C(=C(C(=O)NC2=C(C=C(C=C2C(F)(F)F)C(C(F)(F)F)(C(F)(F)F)F)Br)C=CC1)F)C,"3-[benzoyl(methyl)amino]-N-[2-bromo-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-6-(trifluoromethyl)phenyl]-2-fluorobenzamide"
+"O,O'-DDT",7782-44-7,O=O,molecular oxygen
+Carbofuran,1563-66-2,CNC(OC1=CC=CC=2CC(OC21)(C)C)=O,"(2,2-dimethyl-3H-1-benzofuran-7-yl) N-methylcarbamate"
+Cycloxaprid,1203791-41-6,ClC1=CC=C(C=N1)CN1CCN2[C@H]3CC[C@@H](C(=C12)[N+](=O)[O-])O3,"(1R,8S)-5-[(6-chloro-3-pyridinyl)methyl]-7-nitro-11-oxa-2,5-diazatricyclo[6.2.1.02,6]undec-6-ene"
+Calcium arsenate,7778-44-1,[As](=O)([O-])([O-])O[As](=O)([O-])[O-].[Ca+2].[Ca+2].[Ca+2],tricalcium diarsorate
+Copper acetoarsenite,12002-03-8,[Cu++].[Cu++].[Cu++].[Cu++].CC([O-])=O.CC([O-])=O.[O-][As]=O.[O-][As]=O.[O-][As]=O.[O-][As]=O.[O-][As]=O.[O-][As]=O,tetracopper;oxoarsinite;diacetate
+Fluchlordiniliprole,2129147-03-9,BrC1=NN(C(=C1)C(=O)NC1=C(C(=C(C=C1Cl)Cl)F)C(NC)=O)C1=NC=CC=C1Cl,"3-bromo-1-(3-chloro-2-pyridinyl)-N-[4,6-dichloro-3-fluoro-2-(methylcarbamoyl)phenyl]pyrazole-5-carboxamide"
+Resmethrin,10453-86-8,CC1(C(C1C=C(C)C)C(=O)OCC1=COC(=C1)CC1=CC=CC=C1)C,"(5-benzylfuran-3-yl)methyl 2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate"
+Demephion-O,682-80-4,COP(=S)(OCCSC)OC,dimethoxy-(2-methylsulfanylethoxy)-sulfanylidene-lambda5-phosphane
+Prallethrin,23031-36-9,CC1(C(C1C=C(C)C)C(=O)OC1C(=C(C(C1)=O)CC#C)C)C,"(2-methyl-4-oxo-3-prop-2-ynylcyclopent-2-en-1-yl) 2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate"
+Flumetnicam,158062-71-6,FC(C1=C(C=NC=C1)C(=O)N)(F)F,4-(trifluoromethyl)pyridine-3-carboxamide
+Furathiocarb,65907-30-4,C(CCC)OC(=O)N(C)SN(C(OC1=CC=CC=2CC(OC21)(C)C)=O)C,"(2,2-dimethyl-3H-1-benzofuran-7-yl) N-[butoxycarbonyl(methyl)amino]sulfanyl-N-methylcarbamate"
+Sucrose,57-50-1,O[C@@H]1[C@](O[C@@H]([C@H]1O)CO)(CO)O[C@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO,"(2R,3R,4S,5S,6R)-2-[(2S,3S,4S,5R)-3,4-dihydroxy-2,5-bis(hydroxymethyl)oxolan-2-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol"
+Butoxycarboxim,34681-23-7,CNC(ON=C(C)C(C)S(=O)(=O)C)=O,(3-methylsulfonylbutan-2-ylideneamino) N-methylcarbamate
+Dioxacarb,6988-21-2,CNC(OC1=C(C=CC=C1)C1OCCO1)=O,"[2-(1,3-dioxolan-2-yl)phenyl] N-methylcarbamate"
+Metolcarb,1129-41-5,CNC(OC1=CC(=CC=C1)C)=O,(3-methylphenyl) N-methylcarbamate
+Borax,1303-96-4,O.O.O.O.O.O.O.O.[Na+].[Na+].OB1O[B-]2(O)OB(O)O[B-](O)(O1)O2,"disodium;3,7-dioxido-2,4,6,8,9-pentaoxa-1,3,5,7-tetraborabicyclo[3.3.1]nonane;decahydrate"
+Quinothion,22439-40-3,C(C)OP(=S)(OC1=CC(=NC2=CC=CC=C12)C)OCC,diethoxy-(2-methylquinolin-4-yl)oxy-sulfanylidene-lambda5-phosphane
+Quwenzhi,52304-36-6,C(C)(=O)N(CCC(=O)OCC)CCCC,ethyl 3-[acetyl(butyl)amino]propanoate
+Pyrimidifen,105779-78-0,ClC=1C(=NC=NC1CC)NCCOC1=C(C(=C(C=C1)CCOCC)C)C,"5-chloro-N-[2-[4-(2-ethoxyethyl)-2,3-dimethylphenoxy]ethyl]-6-ethylpyrimidin-4-amine"
+Flupentiofenox,1472050-04-6,FC=1C(=CC(=C(C1)O)S(=O)CC(F)(F)F)OCCCCCSC(F)(F)F,"5-fluoro-2-(2,2,2-trifluoroethylsulfinyl)-4-[5-(trifluoromethylsulfanyl)pentoxy]phenol"
+Etofenprox,80844-07-1,C(C)OC1=CC=C(C=C1)C(COCC1=CC(=CC=C1)OC1=CC=CC=C1)(C)C,1-ethoxy-4-[2-methyl-1-[(3-phenoxyphenyl)methoxy]propan-2-yl]benzene
+Isofenphos-methyl,99675-03-3,COP(=S)(OC1=C(C(=O)OC(C)C)C=CC=C1)NC(C)C,propan-2-yl 2-[methoxy-(propan-2-ylamino)phosphinothioyl]oxybenzoate
+Flupyroxystrobin,114077-75-7,CO/C=C(/C(=O)OC)\C1=C(C=CC=C1)OC1=NC=CC(=C1)C(F)(F)F,methyl (E)-3-methoxy-2-[2-[[4-(trifluoromethyl)-2-pyridinyl]oxy]phenyl]prop-2-enoate
+Beta-cyfluthrin,1820573-27-0,ClC(=CC1C([C@H]1C(=O)O[C@H](C1=CC(=C(C=C1)F)OC1=CC=CC=C1)C#N)(C)C)Cl,"[(R)-cyano-(4-fluoro-3-phenoxyphenyl)methyl] (1S)-3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate"
+Pyridafenthion,119-12-0,C(C)OP(=S)(OC=1C=CC(N(N1)C1=CC=CC=C1)=O)OCC,6-diethoxyphosphinothioyloxy-2-phenylpyridazin-3-one
+Trifenofos,38524-82-2,ClC1=C(C(=CC(=C1)Cl)Cl)OP(=O)(SCCC)OCC,"1,3,5-trichloro-2-[ethoxy(propylsulfanyl)phosphoryl]oxybenzene"
+Athidathion,19691-80-6,C(C)OP(=S)(OCC)SCN1C(SC(=N1)OC)=O,"3-(diethoxyphosphinothioylsulfanylmethyl)-5-methoxy-1,3,4-thiadiazol-2-one"
+Dimefox,115-26-4,CN(P(=O)(F)N(C)C)C,N-[dimethylamino(fluoro)phosphoryl]-N-methylmethanamine
+Sulfoxaflor,946578-00-3,CS(C(C)C=1C=NC(=CC1)C(F)(F)F)(=O)=NC#N,[methyl-oxo-[1-[6-(trifluoromethyl)-3-pyridinyl]ethyl]-lambda6-sulfanylidene]cyanamide
+Dinobuton,973-21-7,C(OC1=C(C=C(C=C1[N+](=O)[O-])[N+](=O)[O-])C(C)CC)(OC(C)C)=O,"(2-butan-2-yl-4,6-dinitrophenyl) propan-2-yl carbonate"
+Isocarbophos,24353-61-5,NP(=S)(OC1=C(C(=O)OC(C)C)C=CC=C1)OC,propan-2-yl 2-[amino(methoxy)phosphinothioyl]oxybenzoate
+Sulcofuron,24019-05-4,ClC=1C=CC(=C(C1)S(=O)(=O)O)OC1=C(C=C(C=C1)Cl)NC(NC1=CC(=C(C=C1)Cl)Cl)=O,"5-chloro-2-[4-chloro-2-[(3,4-dichlorophenyl)carbamoylamino]phenoxy]benzenesulfonic acid"
+Tralopyril,122454-29-9,BrC=1C(=C(NC1C(F)(F)F)C1=CC=C(C=C1)Cl)C#N,4-bromo-2-(4-chlorophenyl)-5-(trifluoromethyl)-1H-pyrrole-3-carbonitrile
+Lambda-cyhalothrin,91465-08-6,CC1(C)[C@@H](\C=C(/Cl)C(F)(F)F)[C@H]1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2,"trans-[(R)-cyano-(3-phenoxyphenyl)methyl] (1S,3S)-3-[(Z)-2-chloro-3,3,3-trifluoroprop-1-enyl]-2,2-dimethylcyclopropane-1-carboxylate"
+Chlordecone,143-50-0,ClC12C3(C4(C5(C(C3(C2(C5(C4(C1(Cl)Cl)Cl)Cl)Cl)Cl)=O)Cl)Cl)Cl,"1,2,3,4,6,7,8,9,10,10-decachloropentacyclo[5.3.0.02,6.03,9.04,8]decan-5-one"
+Dicloromezotiaz,1263629-39-5,ClC=1SC(=CN1)C[N+]1=C2N(C(C(=C1[O-])C1=CC(=CC(=C1)Cl)Cl)=O)C=CC=C2C,"1-[(2-chloro-1,3-thiazol-5-yl)methyl]-3-(3,5-dichlorophenyl)-9-methyl-4-oxopyrido[1,2-a]pyrimidin-1-ium-2-olate"
+Biopermethrin,61949-77-7,CC1(C)[C@@H](C=C(Cl)Cl)[C@@H]1C(=O)OCc2cccc(Oc3ccccc3)c2,"cis-(3-phenoxyphenyl)methyl (1R,3S)-3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate"
+Urea,57-13-6,NC(=O)N,urea
+Diethyltoluamide,134-62-3,C(C)N(C(C1=CC(=CC=C1)C)=O)CC,"N,N-diethyl-3-methylbenzamide"
+Mevinphos,7786-34-7,COP(=O)(OC)OC(=CC(=O)OC)C,methyl 3-dimethoxyphosphoryloxybut-2-enoate
+Myristyl alcohol,112-72-1,C(CCCCCCCCCCCCC)O,tetradecan-1-ol
+Naled,300-76-5,P(=O)(OC(C(Cl)(Cl)Br)Br)(OC)OC,"(1,2-dibromo-2,2-dichloroethyl) dimethyl phosphate"
+Isofenphos,25311-71-1,C(C)OP(=S)(OC1=C(C(=O)OC(C)C)C=CC=C1)NC(C)C,propan-2-yl 2-[ethoxy-(propan-2-ylamino)phosphinothioyl]oxybenzoate
+Phosmet,732-11-6,COP(=S)(OC)SCN1C(C2=CC=CC=C2C1=O)=O,"2-(dimethoxyphosphinothioylsulfanylmethyl)isoindole-1,3-dione"
+Cyanthoate,3734-95-0,C(#N)C(C)(C)NC(CSP(=O)(OCC)OCC)=O,N-(2-cyanopropan-2-yl)-2-diethoxyphosphorylsulfanylacetamide
+Dimefluthrin,271241-14-6,CC1(C(C1C=C(C)C)C(=O)OCC1=C(C(=C(C(=C1F)F)COC)F)F)C,"[2,3,5,6-tetrafluoro-4-(methoxymethyl)phenyl]methyl 2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate"
+Verbenone,18309-32-5,CC1=CC([C@H]2C([C@@H]1C2)(C)C)=O,"(1R,5R)-4,6,6-trimethylbicyclo[3.1.1]hept-3-en-2-one"
+S-hydroprene,65733-18-8,C\C(=C/C(=O)OCC)\C=C\C[C@H](CCCC(C)C)C,"ethyl (2E,4E,7S)-3,7,11-trimethyldodeca-2,4-dienoate"
+Metoxadiazone,60589-06-2,COC1=NN(C(O1)=O)C1=C(C=CC=C1)OC,"5-methoxy-3-(2-methoxyphenyl)-1,3,4-oxadiazol-2-one"
+Quinaminoprole,2049581-78-2,ClC1=CC=C(C=C1)N1N=C(C=C1)OCCNC1=NC=NC2=CC=CC=C12,N-[2-[1-(4-chlorophenyl)pyrazol-3-yl]oxyethyl]quinazolin-4-amine
+Demeton-O,298-03-3,C(C)OP(=S)(OCCSCC)OCC,diethoxy-(2-ethylsulfanylethoxy)-sulfanylidene-lambda5-phosphane
+Sulfuryl fluoride,2699-79-8,S(=O)(=O)(F)F,sulfuryl difluoride
+Sulcofuron-sodium,3567-25-7,ClC=1C=CC(=C(C1)S(=O)(=O)[O-])OC1=C(C=C(C=C1)Cl)NC(NC1=CC(=C(C=C1)Cl)Cl)=O.[Na+],"sodium 5-chloro-2-[4-chloro-2-[(3,4-dichlorophenyl)carbamoylamino]phenoxy]benzenesulfonate"
+Amiton oxalate,3734-97-2,CCO[P](=O)(OCC)SCCN(CC)CC.OC(=O)C(O)=O,"2-diethoxyphosphorylsulfanyl-N,N-diethylethanamine;oxalic acid"
+Dinocap,39300-45-3,C/C=C/C(=O)Oc1c(cc(cc1C(C)(C)CC(C)(C)C)[N+]([O-])=O)[N+]([O-])=O,(2-nitrophenyl) (E)-but-2-enoate;nitrous acid;octane
+Thionazin,297-97-2,C(C)OP(=S)(OC1=NC=CN=C1)OCC,diethoxy-pyrazin-2-yloxy-sulfanylidene-lambda5-phosphane
+DNOC sodium,2312-76-7,CC1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])[O-].[Na+],"sodium 2-methyl-4,6-dinitrophenolate"
+Terallethrin,15589-31-8,CC1(C(C1(C)C)C(=O)OC1C(=C(C(C1)=O)CC=C)C)C,"(2-methyl-4-oxo-3-prop-2-enylcyclopent-2-en-1-yl) 2,2,3,3-tetramethylcyclopropane-1-carboxylate"
+Oleic acid,112-80-1,C(CCCCCCC\C=C/CCCCCCCC)(=O)O,(Z)-octadec-9-enoic acid
+Acephate,30560-19-1,COP(=O)(SC)NC(C)=O,N-[methoxy(methylsulfanyl)phosphoryl]acetamide
+Renofluthrin,352271-52-4,ClC(=CC1C(C1C(=O)OCC1=C(C(=C(C(=C1F)F)COC)F)F)(C)C)Cl,"[2,3,5,6-tetrafluoro-4-(methoxymethyl)phenyl]methyl 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate"
+Chlordimeform hydrochloride,19750-95-9,[Cl-].C[NH+](C)C=Nc1ccc(Cl)cc1C,"N'-(4-chloro-2-methylphenyl)-N,N-dimethylmethanimidamide;hydrochloride"
+Flubendiamide,272451-65-7,FC(C(C(F)(F)F)(F)C1=CC(=C(C=C1)NC(=O)C=1C(=C(C=CC1)I)C(=O)NC(CS(=O)(=O)C)(C)C)C)(F)F,"1-N-[4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)-2-methylphenyl]-3-iodo-2-N-(2-methyl-1-methylsulfonylpropan-2-yl)benzene-1,2-dicarboxamide"
+Pirimicarb,23103-98-2,CN(C(OC1=NC(=NC(=C1C)C)N(C)C)=O)C,"[2-(dimethylamino)-5,6-dimethylpyrimidin-4-yl] N,N-dimethylcarbamate"
+Dichlofluanid,1085-98-9,ClC(F)(Cl)SN(C1=CC=CC=C1)S(N(C)C)(=O)=O,N-[dichloro(fluoro)methyl]sulfanyl-N-(dimethylsulfamoyl)aniline
+Flufiprole,704886-18-0,ClC1=C(C(=CC(=C1)C(F)(F)F)Cl)N1N=C(C(=C1NCC(=C)C)S(=O)C(F)(F)F)C#N,"1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-5-(2-methylprop-2-enylamino)-4-(trifluoromethylsulfinyl)pyrazole-3-carbonitrile"
+Nithiazine,58842-20-9,[N+](=O)([O-])\C=C/1\SCCCN1,"(2E)-2-(nitromethylidene)-1,3-thiazinane"
+Fluazaindolizine,1254304-22-7,ClC=1C=2N(C=C(C1)C(F)(F)F)C=C(N2)C(=O)NS(=O)(=O)C2=C(C=CC(=C2)OC)Cl,"8-chloro-N-(2-chloro-5-methoxyphenyl)sulfonyl-6-(trifluoromethyl)imidazo[1,2-a]pyridine-2-carboxamide"
+Fluacrypyrim,229977-93-9,CO/C=C(/C(=O)OC)\C1=C(C=CC=C1)COC1=NC(=NC(=C1)C(F)(F)F)OC(C)C,methyl (E)-3-methoxy-2-[2-[[2-propan-2-yloxy-6-(trifluoromethyl)pyrimidin-4-yl]oxymethyl]phenyl]prop-2-enoate
+Methyl isothiocyanate,556-61-6,CN=C=S,methylimino(sulfanylidene)methane
+Pyridaben,96489-71-3,C(C)(C)(C)N1N=CC(=C(C1=O)Cl)SCC1=CC=C(C=C1)C(C)(C)C,2-tert-butyl-5-[(4-tert-butylphenyl)methylsulfanyl]-4-chloropyridazin-3-one
+Diamidaphos,1754-58-1,CNP(=O)(OC1=CC=CC=C1)NC,N-[methylamino(phenoxy)phosphoryl]methanamine
+Formetanate,22259-30-9,CNC(OC1=CC(=CC=C1)N=CN(C)C)=O,[3-(dimethylaminomethylideneamino)phenyl] N-methylcarbamate
+Etaphos,38527-91-2,ClC1=C(C=CC(=C1)Cl)OP(=O)(SCCC)OCC,"2,4-dichloro-1-[ethoxy(propylsulfanyl)phosphoryl]oxybenzene"
+Isazofos,42509-80-8,ClC1=NC(=NN1C(C)C)OP(=S)(OCC)OCC,"(5-chloro-1-propan-2-yl-1,2,4-triazol-3-yl)oxy-diethoxy-sulfanylidene-lambda5-phosphane"
+Fenfluthrin,75867-00-4,CC1(C)[C@@H](C=C(Cl)Cl)[C@@H]1C(=O)OCc2c(F)c(F)c(F)c(F)c2F,"cis-(2,3,4,5,6-pentafluorophenyl)methyl (1R,3S)-3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate"
+Busulfan,55-98-1,CS(=O)(=O)OCCCCOS(=O)(=O)C,4-methylsulfonyloxybutyl methanesulfonate
+Heptachlor,76-44-8,ClC12C3C=CC(C3C(C(=C1Cl)Cl)(C2(Cl)Cl)Cl)Cl,"1,5,7,8,9,10,10-heptachlorotricyclo[5.2.1.02,6]deca-3,8-diene"
+IPSP,5827-05-4,C(C)S(=O)CSP(=S)(OC(C)C)OC(C)C,ethylsulfinylmethylsulfanyl-di(propan-2-yloxy)-sulfanylidene-lambda5-phosphane
+Fenthion oxon,6552-12-1,P(=O)(OC)(OC)OC1=CC(=C(C=C1)SC)C,dimethyl (3-methyl-4-methylsulfanylphenyl) phosphate
+Di-n-propyl isocinchomeronate,136-45-8,N1=C(C=CC(=C1)C(=O)OCCC)C(=O)OCCC,"dipropyl pyridine-2,5-dicarboxylate"
+Bioresmethrin,28434-01-7,CC(C)=CC1C(C(=O)OCc2coc(Cc3ccccc3)c2)C1(C)C,"cis-(5-benzylfuran-3-yl)methyl (1R,3R)-2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate"
+Brofenvalerate,65295-49-0,ClC1=CC=C(C=C1)C(C(=O)OC(C#N)C1=CC(=CC=C1)OC1=CC=C(C=C1)Br)C(C)C,[[3-(4-bromophenoxy)phenyl]-cyanomethyl] 2-(4-chlorophenyl)-3-methylbutanoate
+Lead arsenate,7784-40-9,[Pb+3].[O-][As]([O-])([O-])=O,hydrogen arsorate;lead(2+)
+Phorate,298-02-2,C(C)OP(=S)(SCSCC)OCC,diethoxy-(ethylsulfanylmethylsulfanyl)-sulfanylidene-lambda5-phosphane
+Diammonium phosphate,7783-28-0,[NH4+].[NH4+].O[P]([O-])([O-])=O,diazanium;hydrogen phosphate
+Carvacrol,499-75-2,CC1=C(C=C(C=C1)C(C)C)O,2-methyl-5-propan-2-ylphenol
+Cyphenothrin,39515-40-7,CC1(C(C1C=C(C)C)C(=O)OC(C1=CC(=CC=C1)OC1=CC=CC=C1)C#N)C,"[cyano-(3-phenoxyphenyl)methyl] 2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate"
+Cyclethrin,97-11-0,CC1(C(C1C=C(C)C)C(=O)OC1C(=C(C(C1)=O)C1C=CCC1)C)C,"(3-cyclopent-2-en-1-yl-2-methyl-4-oxocyclopent-2-en-1-yl) 2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate"
+Dibutyl succinate,141-03-7,C(CCC(=O)OCCCC)(=O)OCCCC,dibutyl butanedioate
+Chlorphoxim,14816-20-7,ClC1=C(C=CC=C1)C(=NOP(=S)(OCC)OCC)C#N,2-chloro-N-diethoxyphosphinothioyloxybenzenecarboximidoyl cyanide
+Acrinathrin,101007-06-1,CC1(C)[C@@H](\C=C/C(=O)OC(C(F)(F)F)C(F)(F)F)[C@H]1C(=O)O[C@H](C#N)c2cccc(Oc3ccccc3)c2,"trans-[(S)-cyano-(3-phenoxyphenyl)methyl] (1R,3S)-3-[(Z)-3-(1,1,1,3,3,3-hexafluoropropan-2-yloxy)-3-oxoprop-1-enyl]-2,2-dimethylcyclopropane-1-carboxylate"
+Hexachlorophene,70-30-4,ClC=1C(=C(C(=CC1Cl)Cl)O)CC1=C(C(=CC(=C1O)Cl)Cl)Cl,"3,4,6-trichloro-2-[(2,3,5-trichloro-6-hydroxyphenyl)methyl]phenol"
+S-bioallethrin,28434-00-6,CC(C)=CC1C(C(=O)OC2CC(=O)C(=C2C)CC=C)C1(C)C,"cis-[(1S)-2-methyl-4-oxo-3-prop-2-enylcyclopent-2-en-1-yl] (1R,3R)-2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate"
+Methamidophos,10265-92-6,NP(=O)(SC)OC,[amino(methylsulfanyl)phosphoryl]oxymethane
+Chloropicrin,76-06-2,ClC([N+](=O)[O-])(Cl)Cl,trichloro(nitro)methane
+Tetrachlorvinphos,22248-79-9,P(=O)(O\C(=C/Cl)\C1=C(C=C(C(=C1)Cl)Cl)Cl)(OC)OC,"[(Z)-2-chloro-1-(2,4,5-trichlorophenyl)ethenyl] dimethyl phosphate"
+Magnesium phosphide,12057-74-8,[P-3].[P-3].[Mg+2].[Mg+2].[Mg+2],trimagnesium bis(phosphorus(3-))
+Anethole,104-46-1,COC1=CC=C(C=C1)\C=C\C,1-methoxy-4-[(E)-prop-1-enyl]benzene
+Acetoprole,209861-58-5,NC1=C(C(=NN1C1=C(C=C(C=C1Cl)C(F)(F)F)Cl)C(C)=O)S(=O)C,"1-[5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-methylsulfinylpyrazol-3-yl]ethanone"
+Parathion-ethyl,56-38-2,C(C)OP(=S)(OC1=CC=C(C=C1)[N+](=O)[O-])OCC,diethoxy-(4-nitrophenoxy)-sulfanylidene-lambda5-phosphane
+Tyclopyrazoflor,1477919-27-9,ClC1=NN(C=C1N(C(CCSCCC(F)(F)F)=O)CC)C=1C=NC=CC1,"N-(3-chloro-1-pyridin-3-ylpyrazol-4-yl)-N-ethyl-3-(3,3,3-trifluoropropylsulfanyl)propanamide"
+Transfluthrin,118712-89-3,CC1(C)[C@H](C=C(Cl)Cl)[C@H]1C(=O)OCc2c(F)c(F)cc(F)c2F,"cis-(2,3,5,6-tetrafluorophenyl)methyl (1R,3S)-3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate"
+Fenson,80-38-6,C1(=CC=CC=C1)S(=O)(=O)OC1=CC=C(C=C1)Cl,(4-chlorophenyl) benzenesulfonate
+Hydramethylnon,67485-29-4,FC(C1=CC=C(C=C1)C=CC(C=CC1=CC=C(C=C1)C(F)(F)F)=NNC=1NCC(CN1)(C)C)(F)F,"N-[1,5-bis[4-(trifluoromethyl)phenyl]penta-1,4-dien-3-ylideneamino]-5,5-dimethyl-4,6-dihydro-1H-pyrimidin-2-amine"
+Chlorethoxyfos,54593-83-8,C(C)OP(OC(C(Cl)(Cl)Cl)Cl)(=S)OCC,"diethoxy-sulfanylidene-(1,2,2,2-tetrachloroethoxy)-lambda5-phosphane"
+DFDT,475-26-3,FC1=CC=C(C=C1)C(C(Cl)(Cl)Cl)C1=CC=C(C=C1)F,"1-fluoro-4-[2,2,2-trichloro-1-(4-fluorophenyl)ethyl]benzene"
+"P,P-bis(aziridin-1-yl)-N-methylphosphinothioic amide",12185-10-3,CN[P](=S)(N1CC1)N2CC2,phosphane
+Dicapthon,2463-84-5,ClC1=C(OP(=S)(OC)OC)C=CC(=C1)[N+](=O)[O-],(2-chloro-4-nitrophenoxy)-dimethoxy-sulfanylidene-lambda5-phosphane
+Fenvalerate,51630-58-1,ClC1=CC=C(C=C1)C(C(=O)OC(C1=CC(=CC=C1)OC1=CC=CC=C1)C#N)C(C)C,[cyano-(3-phenoxyphenyl)methyl] 2-(4-chlorophenyl)-3-methylbutanoate
+Prothoate,2275-18-5,C(C)OP(=S)(OCC)SCC(=O)NC(C)C,2-diethoxyphosphinothioylsulfanyl-N-propan-2-ylacetamide
+Flufenerim,170015-32-4,ClC=1C(=NC=NC1C(C)F)NCCC1=CC=C(C=C1)OC(F)(F)F,5-chloro-6-(1-fluoroethyl)-N-[2-[4-(trifluoromethoxy)phenyl]ethyl]pyrimidin-4-amine
+Capric acid,334-48-5,C(CCCCCCCCC)(=O)O,decanoic acid
+Tebupirimfos,96182-53-5,C(C)(C)(C)C1=NC=C(C=N1)OP(=S)(OC(C)C)OCC,(2-tert-butylpyrimidin-5-yl)oxy-ethoxy-propan-2-yloxy-sulfanylidene-lambda5-phosphane
+Cyanophos,2636-26-2,COP(=S)(OC1=CC=C(C#N)C=C1)OC,4-dimethoxyphosphinothioyloxybenzonitrile
+Imiprothrin,72963-72-5,CC1(C(C1C=C(C)C)C(=O)OCN1C(N(CC1=O)CC#C)=O)C,"(2,5-dioxo-3-prop-2-ynylimidazolidin-1-yl)methyl 2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate"
+Carbanolate,671-04-5,CNC(OC1=C(C=C(C(=C1)C)C)Cl)=O,"(2-chloro-4,5-dimethylphenyl) N-methylcarbamate"
+Tefluthrin,79538-32-2,Cc1c(F)c(F)c(COC(=O)C2C(\C=C(/Cl)C(F)(F)F)C2(C)C)c(F)c1F,"trans-(2,3,5,6-tetrafluoro-4-methylphenyl)methyl (1S,3S)-3-[(Z)-2-chloro-3,3,3-trifluoroprop-1-enyl]-2,2-dimethylcyclopropane-1-carboxylate"
+Disulfoton,298-04-4,C(C)OP(=S)(SCCSCC)OCC,diethoxy-(2-ethylsulfanylethylsulfanyl)-sulfanylidene-lambda5-phosphane
+Dicrotophos,141-66-2,P(=O)(O\C(\C)=C\C(=O)N(C)C)(OC)OC,[(E)-4-(dimethylamino)-4-oxobut-2-en-2-yl] dimethyl phosphate
+Bromocyclen,1715-40-8,BrCC1C2(C(=C(C(C1)(C2(Cl)Cl)Cl)Cl)Cl)Cl,"5-(bromomethyl)-1,2,3,4,7,7-hexachlorobicyclo[2.2.1]hept-2-ene"

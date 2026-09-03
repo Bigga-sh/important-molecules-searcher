@@ -1,0 +1,202 @@
+Name,CAS,SMILES,IUPAC_Name
+Potassium malate,585-09-1,[K+].[K+].OC(CC([O-])=O)C([O-])=O,dipotassium;2-hydroxybutanedioate
+Octyl gallate,1034-01-1,OC=1C=C(C(=O)OCCCCCCCC)C=C(C1O)O,"octyl 3,4,5-trihydroxybenzoate"
+Ascorbic acid,50-81-7,O[C@@H](CO)[C@H]1OC(C(=C1O)O)=O,"(2R)-2-[(1S)-1,2-dihydroxyethyl]-3,4-dihydroxy-2H-furan-5-one"
+Methyl cellulose,9004-67-5,COC1OC([C@H](C(C1OC)OC)O[C@@H]1OC(C(C(C1OC)OC)OC)COC)COC,"(5R)-2,3,4-trimethoxy-6-(methoxymethyl)-5-[(2S)-3,4,5-trimethoxy-6-(methoxymethyl)oxan-2-yl]oxyoxane"
+Dodecyl gallate,1166-52-5,OC=1C=C(C(=O)OCCCCCCCCCCCC)C=C(C1O)O,"dodecyl 3,4,5-trihydroxybenzoate"
+Propyl gallate,121-79-9,OC=1C=C(C(=O)OCCC)C=C(C1O)O,"propyl 3,4,5-trihydroxybenzoate"
+L-cysteine,52-90-4,N[C@H](C(=O)O)CS,(2R)-2-amino-3-sulfanylpropanoic acid
+Sodium metabisulphite,7681-57-4,[Na+].[Na+].[O-][S](=O)[S]([O-])(=O)=O,
+Delta-tocopherol,119-13-1,C[C@@]1(OC2=C(C=C(C=C2CC1)O)C)CCC[C@@H](CCC[C@@H](CCCC(C)C)C)C,"(2R)-2,8-dimethyl-2-[(4R,8R)-4,8,12-trimethyltridecyl]-3,4-dihydrochromen-6-ol"
+Dipotassium inosinate,20262-26-4,Not found,"dipotassium;[(2R,3S,4R,5R)-3,4-dihydroxy-5-(6-oxo-1H-purin-9-yl)oxolan-2-yl]methyl phosphate"
+Lactitol,585-86-4,O[C@H]1[C@@H](O[C@@H]([C@@H]([C@@H]1O)O)CO)O[C@@H]([C@@H]([C@H](CO)O)O)[C@@H](CO)O,"(2S,3R,4R,5R)-4-[(2S,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyhexane-1,2,3,5,6-pentol"
+Brilliant Black PN,2519-30-4,[Na+].[Na+].[Na+].[Na+].CC(=O)Nc1ccc(c2C=C(/C(=N/Nc3ccc(N=Nc4ccc(cc4)[S]([O-])(=O)=O)c5ccc(cc35)[S]([O-])(=O)=O)C(=O)c12)[S]([O-])(=O)=O)[S]([O-])(=O)=O,"tetrasodium;4-acetamido-5-hydroxy-6-[[7-sulfonato-4-[(4-sulfonatophenyl)diazenyl]naphthalen-1-yl]diazenyl]naphthalene-1,7-disulfonate"
+Sulphuric acid,7664-93-9,S(O)(O)(=O)=O,sulfuric acid
+Neohesperidine DC,20702-77-6,O[C@@H]1[C@H]([C@@H](O[C@@H]([C@H]1O)CO)OC1=CC(=C(C(=C1)O)C(CCC1=CC(=C(C=C1)OC)O)=O)O)O[C@@H]1O[C@H]([C@@H]([C@H]([C@H]1O)O)O)C,"1-[4-[(2S,3R,4S,5S,6R)-4,5-dihydroxy-6-(hydroxymethyl)-3-[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-2-yl]oxy-2,6-dihydroxyphenyl]-3-(3-hydroxy-4-methoxyphenyl)propan-1-one"
+Calcium inosinate,3387-37-9,P(=O)(OC[C@H]1O[C@H]([C@@H]([C@@H]1O)O)N1C=2N=CNC(C2N=C1)=O)([O-])[O-].[Ca+2],"calcium [(2R,3S,4R,5R)-3,4-dihydroxy-5-(6-oxo-1H-purin-9-yl)oxolan-2-yl]methyl phosphate"
+Benzoic acid (1),65-85-0,C(C1=CC=CC=C1)(=O)O,benzoic acid
+Pectins,9000-69-5,O[C@H]1[C@H](O[C@H]([C@@H]([C@H]1O)O)O)C(=O)O,"(2S,3R,4S,5R,6R)-3,4,5,6-tetrahydroxyoxane-2-carboxylic acid"
+Sodium methyl p-hydroxybenzoate,5026-62-0,COC(=O)C1=CC=C(C=C1)[O-].[Na+],sodium 4-methoxycarbonylphenolate
+Magnesium chloride,7786-30-3,[Cl-].[Cl-].[Mg+2],magnesium dichloride
+Calcium ascorbate,5743-27-1,O[C@@H](CO)[C@H]1OC(C(=C1O)[O-])=O.O[C@@H](CO)[C@H]1OC(C(=C1O)[O-])=O.[Ca+2],"calcium bis((2R)-2-[(1S)-1,2-dihydroxyethyl]-3-hydroxy-5-oxo-2H-furan-4-olate)"
+Sodium erythorbate,6381-77-7,O[C@H](CO)[C@H]1OC(C(=C1[O-])O)=O.[Na+],"sodium (2R)-2-[(1R)-1,2-dihydroxyethyl]-4-hydroxy-5-oxo-2H-furan-3-olate"
+Quinoline Yellow,8003-22-3,N1=C(C=CC2=CC=CC=C12)C1C(C2=CC=CC=C2C1=O)=O,"2-quinolin-2-ylindene-1,3-dione"
+Lycopene,502-65-8,CC(C)=CCC\C(=C\C=C\C(=C\C=C\C(=C\C=C\C=C(\C=C\C=C(\C=C\C=C(\CCC=C(C)C)/C)/C)/C)\C)\C)\C,"(6E,8E,10E,12E,14E,16E,18E,20E,22E,24E,26E)-2,6,10,14,19,23,27,31-octamethyldotriaconta-2,6,8,10,12,14,16,18,20,22,24,26,30-tridecaene"
+Calcium silicate,1344-95-2,O[Si]([O-])(O)O.O[Si]([O-])(O)O.[Ca+2],calcium bis(trihydroxy(oxido)silane)
+Amaranth,915-67-3,[Na+].[Na+].[Na+].[O-][S](=O)(=O)c1ccc2c(c1)C=C(C(=O)/C2=N/Nc3ccc(c4ccccc34)[S]([O-])(=O)=O)[S]([O-])(=O)=O,"trisodium;3-hydroxy-4-[(4-sulfonatonaphthalen-1-yl)diazenyl]naphthalene-2,7-disulfonate"
+Natamycin,7681-93-8,N[C@@H]1[C@@H]([C@@H](O[C@@H]([C@H]1O)C)O[C@H]1/C=C/C=C/C=C/C=C/C[C@H](OC(/C=C/[C@H]2O[C@@H]2C[C@@H](C[C@@]2(C[C@@H]([C@H]([C@H](C1)O2)C(=O)O)O)O)O)=O)C)O,"(1R,3S,5R,7R,8E,12R,14E,16E,18E,20E,22R,24S,25R,26S)-22-[(2R,3S,4S,5S,6R)-4-amino-3,5-dihydroxy-6-methyloxan-2-yl]oxy-1,3,26-trihydroxy-12-methyl-10-oxo-6,11,28-trioxatricyclo[22.3.1.05,7]octacosa-8,14,16,18,20-pentaene-25-carboxylic acid"
+calcium carbonate,471-34-1,C([O-])([O-])=O.[Ca+2],calcium carbonate
+Nitrous oxide,10024-97-2,N#[N+][O-],nitrous oxide
+Ferrous gluconate,299-29-6,O.O.[Fe++].OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C([O-])=O.OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C([O-])=O,"iron(2+);bis((2R,3S,4R,5R)-2,3,4,5,6-pentahydroxyhexanoate)"
+Ammonium hydroxide,1336-21-6,[OH-].[NH4+],azanium hydroxide
+Gold,7440-57-5,[Au],gold
+Tartrazine,1934-21-0,[Na+].[Na+].[Na+].[O-]C(=O)C1=NN(c2ccc(cc2)[S]([O-])(=O)=O)C(=O)C1N=Nc3ccc(cc3)[S]([O-])(=O)=O,trisodium;5-oxo-1-(4-sulfonatophenyl)-4-[(4-sulfonatophenyl)diazenyl]-4H-pyrazole-3-carboxylate
+Potassium ferrocyanide,13943-58-3,[K+].[K+].[K+].[K+].[Fe++].[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N,tetrapotassium;iron(2+);hexacyanide
+Monopotassium glutamate,19473-49-5,[K+].N[C@@H](CCC(O)=O)C([O-])=O,potassium;(4S)-4-amino-5-hydroxy-5-oxopentanoate;hydrate
+Sodium ferrocyanide,13601-19-9,[Na+].[Na+].[Na+].[Na+].[Fe++].[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N,tetrasodium;iron(2+);hexacyanide
+Magnesium silicate,1343-88-0,[Mg++].[Mg++].[O-][Si]([O-])([O-])[O-],magnesium;tris(oxygen(2-));silicon(4+)
+glucono-delta-lactone,90-80-2,O[C@H]1C(O[C@@H]([C@H]([C@@H]1O)O)CO)=O,"(3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-one"
+Calcium ferrocyanide,13821-08-4,[Ca++].[Ca++].[Fe++].[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N,dicalcium;iron(2+);hexacyanide
+Talc,14807-96-6,O.O=[Mg].O=[Mg].O=[Mg].O=[Si]=O.O=[Si]=O.O=[Si]=O.O=[Si]=O,"trimagnesium;1,3,5,7-tetraoxido-2,4,6,8,9,10-hexaoxa-1,3,5,7-tetrasilatricyclo[3.3.1.13,7]decane;dihydroxide"
+Sodium benzoate,532-32-1,C(C1=CC=CC=C1)(=O)[O-].[Na+],sodium benzoate
+Potassium nitrate,7757-79-1,[N+](=O)([O-])[O-].[K+],potassium nitrate
+Acetic acid,64-19-7,C(C)(=O)O,acetic acid
+Potassium acetates (4),127-08-2,C(C)(=O)[O-].[K+],potassium acetate
+Brilliant Blue FCF,3844-45-9,[Na+].[Na+].CCN(Cc1cccc(c1)[S]([O-])(=O)=O)c2ccc(cc2)[C+](c3ccc(cc3)N(CC)Cc4cccc(c4)[S]([O-])(=O)=O)c5ccccc5[S]([O-])(=O)=O,"disodium;2-[[4-[ethyl-[(3-sulfonatophenyl)methyl]amino]phenyl]-[4-[ethyl-[(3-sulfonatophenyl)methyl]azaniumylidene]cyclohexa-2,5-dien-1-ylidene]methyl]benzenesulfonate"
+Benzoic acid,65-85-0,C(C1=CC=CC=C1)(=O)O,benzoic acid
+Allura Red AC,25956-17-6,[Na+].[Na+].COc1cc(c(C)cc1N\N=C2\C(=O)C=Cc3cc(ccc23)[S]([O-])(=O)=O)[S]([O-])(=O)=O,disodium;6-hydroxy-5-[(2-methoxy-5-methyl-4-sulfonatophenyl)diazenyl]naphthalene-2-sulfonate
+Phosphoric acid,7664-38-2,P(O)(O)(O)=O,phosphoric acid
+Argon,7440-37-1,[Ar],argon
+Sodium ascorbate,134-03-2,O[C@@H](CO)[C@H]1OC(C(=C1[O-])O)=O.[Na+],"sodium (2R)-2-[(1S)-1,2-dihydroxyethyl]-4-hydroxy-5-oxo-2H-furan-3-olate"
+Titanium dioxide,13463-67-7,O=[Ti]=O,dioxotitanium
+Butane,106-97-8,CCCC,butane
+Agar,9002-18-0,OC[C@H]1OC([C@@H]([C@H]([C@H]1O)OC)O)OC1C2OC([C@H]([C@@H]1OC2)O)C,"(2R,3S,4S,5R)-2-(hydroxymethyl)-6-[[(4R,5S)-4-hydroxy-3-methyl-2,6-dioxabicyclo[3.2.1]octan-8-yl]oxy]-4-methoxyoxane-3,5-diol"
+Ferrous lactate,5905-52-2,[Fe++].CC(O)C([O-])=O.CC(O)C([O-])=O,bis(2-hydroxypropanoate);iron(2+)
+Curcumin,458-37-7,OC1=C(C=C(C=C1)\C=C\C(CC(\C=C\C1=CC(=C(C=C1)O)OC)=O)=O)OC,"(1E,6E)-1,7-bis(4-hydroxy-3-methoxyphenyl)hepta-1,6-diene-3,5-dione"
+"Cochineal, Carminic acid, Carmines",1219145-87-5,OC=1C(=C(C=2C(C3=C(C(=C(C(=C3C(C2C1)=O)O)O)C1OC(C(C(C1O)O)O)CO)O)=O)C)C(=O)O,"3,5,6,8-tetrahydroxy-1-methyl-9,10-dioxo-7-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]anthracene-2-carboxylic acid"
+L-leucine,61-90-5,N[C@H](C(=O)O)CC(C)C,(2S)-2-amino-4-methylpentanoic acid
+Sulphur dioxide,7446-09-5,S(=O)=O,sulfur dioxide
+Potassium chloride,7447-40-7,[Cl-].[K+],potassium chloride
+Adipic acid,124-04-9,C(CCCCC(=O)O)(=O)O,hexanedioic acid
+Sunset Yellow FCF/Orange Yellow S,2783-94-0,[Na+].[Na+].[O-][S](=O)(=O)c1ccc(N\N=C2\C(=O)C=Cc3cc(ccc23)[S]([O-])(=O)=O)cc1,disodium;6-hydroxy-5-[(4-sulfonatophenyl)diazenyl]naphthalene-2-sulfonate
+Potassium hydrogen sulphite,7773-03-7,S(=O)(O)[O-].[K+],potassium hydrogen sulfite
+Diphosphates,14000-31-8,P(=O)(OP(=O)([O-])[O-])([O-])[O-],phosphonato phosphate
+4-Hexylresorcinol,136-77-6,C(CCCCC)C1=C(C=C(C=C1)O)O,"4-hexylbenzene-1,3-diol"
+Sodium nitrite,7632-00-0,N(=O)[O-].[Na+],sodium nitrite
+Erythritol,149-32-6,C([C@@H]([C@@H](CO)O)O)O,"(2S,3R)-butane-1,2,3,4-tetrol"
+Calcium sorbate,7492-55-9,C(\C=C\C=C\C)(=O)[O-].C(\C=C\C=C\C)(=O)[O-].[Ca+2],"calcium bis((2E,4E)-hexa-2,4-dienoate)"
+Hydrogen,1333-74-0,[H][H],molecular hydrogen
+Calcium gluconate,299-28-5,O[C@@H](C(=O)[O-])[C@H]([C@@H]([C@@H](CO)O)O)O.O[C@@H](C(=O)[O-])[C@H]([C@@H]([C@@H](CO)O)O)O.[Ca+2],"calcium bis((2R,3S,4R,5R)-2,3,4,5,6-pentahydroxyhexanoate)"
+Sorbitan monostearate,1338-41-6,C(CCCCCCCCCCCCCCCCC)(=O)OC[C@@H](O)[C@H]1OC[C@@H]([C@H]1O)O,"[(2R)-2-[(2R,3R,4S)-3,4-dihydroxyoxolan-2-yl]-2-hydroxyethyl] octadecanoate"
+"Indigotine, Indigo carmine",860-22-0,[Na+].[Na+].[O-][S](=O)(=O)c1ccc2NC(/C(=O)c2c1)=C\3Nc4ccc(cc4C3=O)[S]([O-])(=O)=O,disodium;2-(3-hydroxy-5-sulfonato-1H-indol-2-yl)-3-oxoindole-5-sulfonate
+Lactic acid,50-21-5,OC(C(=O)O)C,2-hydroxypropanoic acid
+Calcium tartrate,3164-34-9,O[C@@H](C(=O)[O-])[C@H](C(=O)[O-])O.[Ca+2],"calcium (2R,3R)-2,3-dihydroxybutanedioate"
+Glycerol,56-81-5,C(C(CO)O)O,"propane-1,2,3-triol"
+Aluminium,7429-90-5,[Al],aluminum
+Alpha-tocopherol,1406-18-4,C[C@@]1(OC2=C(C(=C(C(=C2CC1)C)O)C)C)CCC[C@@H](CCC[C@@H](CCCC(C)C)C)C,"(2R)-2,5,7,8-tetramethyl-2-[(4R,8R)-4,8,12-trimethyltridecyl]-3,4-dihydrochromen-6-ol"
+"Chlorophylls, Chlorophyllins",1406-65-1,C(=C)C=1C2=CC=3C(=C(C(=CC=4[N-]C=5C(=C([C@@H](C5C=5[C@H](C(=C(C=C(C1C)[N-]2)[NH+]5)C)CCC(OC\C=C(\CCC[C@@H](CCC[C@@H](CCCC(C)C)C)C)/C)=O)C(=O)OC)O)C4C)[NH+]3)CC)C.[Mg],"magnesium methyl (3R,22S)-16-ethenyl-11-ethyl-4-hydroxy-12,17,21,26-tetramethyl-22-[3-oxo-3-[(E,7R,11R)-3,7,11,15-tetramethylhexadec-2-enoxy]propyl]-23,25-diazonia-7,24-diazanidahexacyclo[18.2.1.15,8.110,13.115,18.02,6]hexacosa-1(23),2(6),4,8(26),9,11,13(25),14,16,18,20-undecaene-3-carboxylate"
+Cyclamates,100-88-9,C1(CCCCC1)NS(O)(=O)=O,cyclohexylsulfamic acid
+Erythrosine,16423-68-0,OC=1C(=CC=2C3(C4=CC(=C(C(=C4OC2C1I)I)O)I)OC(C1=C3C=CC=C1)=O)I,"3',6'-dihydroxy-2',4',5',7'-tetraiodospiro[2-benzofuran-3,9'-xanthene]-1-one"
+Sorbitan monooleate,1338-43-8,C(CCCCCCC\C=C/CCCCCCCC)(=O)OC[C@@H](O)[C@H]1OC[C@@H]([C@H]1O)O,"[(2R)-2-[(2R,3R,4S)-3,4-dihydroxyoxolan-2-yl]-2-hydroxyethyl] (Z)-octadec-9-enoate"
+"Sodium, potassium and calcium salts of fatty acids",7440-23-5,[Na],sodium
+Glyceryl diacetate (diacetin),102-62-5,C(C)(=O)OCC(CO)OC(C)=O,(2-acetyloxy-3-hydroxypropyl) acetate
+Sodium ethyl p-hydroxybenzoate,35285-68-8,[Na].CCOC(=O)c1ccc(O)cc1,
+Silicon dioxide,7631-86-9,O=[Si]=O,dioxosilane
+Nitrogen,7727-37-9,N#N,molecular nitrogen
+Glutamic acid,56-86-0,N[C@H](C(=O)O)CCC(=O)O,(2S)-2-aminopentanedioic acid
+Ammonium alginate,9005-34-9,C(=O)(O)C1OC(C(C(C1OC1C(C(C(C(O1)C(=O)O)OC)O)O)O)O)OC,"6-(2-carboxy-4,5-dihydroxy-6-methoxyoxan-3-yl)oxy-4,5-dihydroxy-3-methoxyoxane-2-carboxylic acid"
+Glucono-delta-lactone,90-80-2,O[C@H]1C(O[C@@H]([C@H]([C@@H]1O)O)CO)=O,"(3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-one"
+Calcium guanylate,15816-68-9,P(=O)(OC[C@H]1O[C@H]([C@@H]([C@@H]1O)O)N1C=2N=C(NC(C2N=C1)=O)N)([O-])[O-].[Ca+2],"calcium [(2R,3S,4R,5R)-5-(2-amino-6-oxo-1H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methyl phosphate"
+Oxygen,7782-44-7,O=O,molecular oxygen
+Methyl p-hydroxybenzoate,99-76-3,OC1=CC=C(C(=O)OC)C=C1,methyl 4-hydroxybenzoate
+Canthaxanthin (2),514-78-3,CC=1C(CCC(C1\C=C\C(=C\C=C\C(=C\C=C\C=C(\C=C\C=C(\C=C\C1=C(C(CCC1(C)C)=O)C)/C)/C)\C)\C)(C)C)=O,"2,4,4-trimethyl-3-[(1E,3E,5E,7E,9E,11E,13E,15E,17E)-3,7,12,16-tetramethyl-18-(2,6,6-trimethyl-3-oxocyclohexen-1-yl)octadeca-1,3,5,7,9,11,13,15,17-nonaenyl]cyclohex-2-en-1-one"
+Hexamethylene tetramine,100-97-0,N12CN3CN(CN(C1)C3)C2,"1,3,5,7-tetrazatricyclo[3.3.1.13,7]decane"
+Disodium inosinate,4691-65-0,[Na+].[Na+].O[C@H]1[C@@H](O)[C@@H](O[C@@H]1CO[P]([O-])([O-])=O)n2cnc3C(=O)N=CNc23,"disodium;[(2R,3S,4R,5R)-3,4-dihydroxy-5-(6-oxo-1H-purin-9-yl)oxolan-2-yl]methyl phosphate"
+Diphosphates (1),14000-31-8,P(=O)(OP(=O)([O-])[O-])([O-])[O-],phosphonato phosphate
+Potassium lactate,996-31-6,OC(C(=O)[O-])C.[K+],potassium 2-hydroxypropanoate
+Sodium stearoyl-2-lactylate,25383-99-7,C(CCCCCCCCCCCCCCCCC)(=O)OC(C(=O)OC(C(=O)[O-])C)C.[Na+],sodium 2-(2-octadecanoyloxypropanoyloxy)propanoate
+Litholrubine BK,16014-23-6,OC=1C(=CC2=CC=CC=C2C1N=NC1=C(C=C(C=C1)C)S(=O)(=O)O)C(=O)O,3-hydroxy-4-[(4-methyl-2-sulfophenyl)diazenyl]naphthalene-2-carboxylic acid
+Sodium sulphite,7757-83-7,[Na+].[Na+].[O-][S]([O-])=O,disodium;sulfite
+Potassium propionate,327-62-8,C(CC)(=O)[O-].[K+],potassium propanoate
+Metatartaric acid,39469-81-3,C(=O)(O)C(C1OC(C(OC1=O)C(C(=O)O)O)=O)O,"2-[5-[carboxy(hydroxy)methyl]-3,6-dioxo-1,4-dioxan-2-yl]-2-hydroxyacetic acid"
+Sodium hydrogen sulphite,7631-90-5,S(=O)(O)[O-].[Na+],sodium hydrogen sulfite
+Isomalt,64519-82-0,O[C@H]1[C@H](O[C@@H]([C@H]([C@@H]1O)O)CO)OC[C@H]([C@H]([C@@H](C(CO)O)O)O)O,"(3R,4R,5R)-6-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyhexane-1,2,3,4,5-pentol"
+Aspartame,22839-47-0,N[C@@H](CC(=O)O)C(=O)N[C@H](C(=O)OC)CC1=CC=CC=C1,(3S)-3-amino-4-[[(2S)-1-methoxy-1-oxo-3-phenylpropan-2-yl]amino]-4-oxobutanoic acid
+Salt of aspartame-acesulfame,106372-55-8,Not found,"(3S)-3-amino-4-[[(2S)-1-methoxy-1-oxo-3-phenylpropan-2-yl]amino]-4-oxobutanoic acid;6-methyl-2,2-dioxooxathiazin-4-one"
+Sorbitan monopalmitate,26266-57-9,C(CCCCCCCCCCCCCCC)(=O)OC[C@@H](O)[C@H]1OC[C@@H]([C@H]1O)O,"[(2R)-2-[(2R,3R,4S)-3,4-dihydroxyoxolan-2-yl]-2-hydroxyethyl] hexadecanoate"
+Monoammonium glutamate,7558-63-6,[NH4+].N[C@@H](CCC(O)=O)C([O-])=O,(2S)-2-aminopentanedioic acid;azane
+Carbon dioxide,124-38-9,C(=O)=O,carbon dioxide
+Calcium hydroxide,1305-62-0,[OH-].[OH-].[Ca+2],calcium dihydroxide
+Magnesium hydroxide,1309-42-8,[OH-].[OH-].[Mg+2],magnesium dihydroxide
+Calcium diglutamate,5996-22-5,N[C@H](C(=O)[O-])CCC(=O)O.N[C@H](C(=O)[O-])CCC(=O)O.[Ca+2],calcium bis((2S)-2-amino-5-hydroxy-5-oxopentanoate)
+Lutein,127-40-2,O[C@H]1C=C([C@@H](C(C1)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C=C/C1=C(C[C@H](CC1(C)C)O)C)\C)\C)/C)/C)C,"(1R)-4-[(1E,3E,5E,7E,9E,11E,13E,15E,17E)-18-[(1R,4R)-4-hydroxy-2,6,6-trimethylcyclohex-2-en-1-yl]-3,7,12,16-tetramethyloctadeca-1,3,5,7,9,11,13,15,17-nonaenyl]-3,5,5-trimethylcyclohex-3-en-1-ol"
+Acesulfame K,55589-62-3,CC1=CC([N-]S(O1)(=O)=O)=O.[K+],"potassium 6-methyl-2,2-dioxo-1-oxa-2lambda6-thia-3-azanidacyclohex-5-en-4-one"
+Gamma-tocopherol,54-28-4,C[C@@]1(OC2=C(C(=C(C=C2CC1)O)C)C)CCC[C@@H](CCC[C@@H](CCCC(C)C)C)C,"(2R)-2,7,8-trimethyl-2-[(4R,8R)-4,8,12-trimethyltridecyl]-3,4-dihydrochromen-6-ol"
+"Annatto, Bixin, Norbixin",626-76-6,C/C(/C=C/C(=O)O)=C\C=C\C(=C\C=C\C=C(\C=C\C=C(/C=C/C(=O)O)\C)/C)\C,"(2E,4E,6E,8E,10E,12E,14E,16Z,18E)-4,8,13,17-tetramethylicosa-2,4,6,8,10,12,14,16,18-nonaenedioic acid"
+Sodium nitrate,7631-99-4,[N+](=O)([O-])[O-].[Na+],sodium nitrate
+Calcium oxide,1305-78-8,O=[Ca],oxocalcium
+Propane,74-98-6,CCC,propane
+Neotame,165450-17-9,CC(CCN[C@@H](CC(=O)O)C(=O)N[C@H](C(=O)OC)CC1=CC=CC=C1)(C)C,"(3S)-3-(3,3-dimethylbutylamino)-4-[[(2S)-1-methoxy-1-oxo-3-phenylpropan-2-yl]amino]-4-oxobutanoic acid"
+Tragacanth,9000-65-1,Not found,ethane
+Triammonium citrate,3458-72-8,[NH4+].[NH4+].[NH4+].OC(CC([O-])=O)(CC([O-])=O)C([O-])=O,"triazanium;2-hydroxypropane-1,2,3-tricarboxylate"
+Sodium hydroxide,1310-73-2,[OH-].[Na+],sodium hydroxide
+Calcium chloride,10043-52-4,[Cl-].[Cl-].[Ca+2],calcium dichloride
+Gluconic acid,526-95-4,O[C@@H](C(=O)O)[C@H]([C@@H]([C@@H](CO)O)O)O,"(2R,3S,4R,5R)-2,3,4,5,6-pentahydroxyhexanoic acid"
+Potassium benzoate (1),582-25-2,C(C1=CC=CC=C1)(=O)[O-].[K+],potassium benzoate
+Calcium sulphite,10257-55-3,S(=O)([O-])[O-].[Ca+2],calcium sulfite
+Calcium acetate,62-54-4,C(C)(=O)[O-].C(C)(=O)[O-].[Ca+2],calcium diacetate
+Boric acid,10043-35-3,B(O)(O)O,boric acid
+Cassia gum,51434-18-5,Not found,"(2S,4R,5S)-2-[(2S,3S,6R)-4,5-dihydroxy-2-(hydroxymethyl)-6-methoxyoxan-3-yl]oxy-5-[(2S,5S,6S)-5-[(2S,4R,5S)-3,4-dihydroxy-6-(hydroxymethyl)-5-methoxyoxan-2-yl]oxy-3,4-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-ethyloxane-3,4-diol;(3R,4R,6R)-2-(hydroxymethyl)-6-methyloxane-3,4,5-triol;(2S,4S,5R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol"
+"Ponceau 4R, Cochineal Red A",2611-82-7,[Na+].[Na+].[Na+].[O-][S](=O)(=O)c1cc2C=CC(=O)\C(=N/Nc3ccc(c4ccccc34)[S]([O-])(=O)=O)c2c(c1)[S]([O-])(=O)=O,"trisodium;7-hydroxy-8-[(4-sulfonatonaphthalen-1-yl)diazenyl]naphthalene-1,3-disulfonate"
+Calcium hydrogen sulphite,13780-03-5,S(=O)(O)[O-].[Ca+2].S(=O)(O)[O-],calcium hydrogen sulfite
+Sodium potassium tartrate,304-59-6,[Na+].[K+].OC(C(O)C([O-])=O)C([O-])=O,"potassium;sodium;(2R,3R)-2,3-dihydroxybutanedioate"
+Sodium tetraborate (borax),1330-43-4,[B+3].[B+3].[B+3].[B+3].O.O.O.O.O.O.O.[O--].[O--].[O--].[O--].[O--].[O--].[O--].[Na+].[Na+],"disodium;3,7-dioxido-2,4,6,8,9-pentaoxa-1,3,5,7-tetraborabicyclo[3.3.1]nonane"
+Sucrose acetate isobutyrate,126-13-6,CC(C(=O)OC[C@H]1O[C@]([C@H]([C@@H]1OC(C(C)C)=O)OC(C(C)C)=O)(O[C@H]1O[C@@H]([C@H]([C@@H]([C@H]1OC(C(C)C)=O)OC(C(C)C)=O)OC(C(C)C)=O)COC(C)=O)COC(C)=O)C,"[(2R,3R,4S,5S)-5-(acetyloxymethyl)-5-[(2R,3R,4S,5R,6R)-6-(acetyloxymethyl)-3,4,5-tris(2-methylpropanoyloxy)oxan-2-yl]oxy-3,4-bis(2-methylpropanoyloxy)oxolan-2-yl]methyl 2-methylpropanoate"
+Malic acid,6915-15-7,OC(C(=O)O)CC(=O)O,2-hydroxybutanedioic acid
+Aluminium sulphate,10043-01-3,[Al+3].[Al+3].[O-][S]([O-])(=O)=O.[O-][S]([O-])(=O)=O.[O-][S]([O-])(=O)=O,dialuminum;trisulfate
+Helium,7440-59-7,[He],helium
+Fumaric acid,110-17-8,C(\C=C\C(=O)O)(=O)O,(E)-but-2-enedioic acid
+Isobutane,75-28-5,CC(C)C,2-methylpropane
+Dimethyl dicarbonate,4525-33-1,C(OC(=O)OC)(OC)=O,methoxycarbonyl methyl carbonate
+Anthocyanins,14051-53-7,C1(=CC=CC=C1)C1=[O+]C2=CC=CC=C2C=C1,2-phenylchromenylium
+Carbamide,57-13-6,NC(=O)N,urea
+Benzyl alcohol,100-51-6,C1(=CC=CC=C1)CO,phenylmethanol
+Calcium phosphates,7758-87-4,[O-]P([O-])(=O)OP(=O)([O-])[O-].[Ca+2].[Ca+2].[Ca+2],tricalcium diphosphate
+Calcium alginate,9005-35-0,C(=O)(O)[C@@H]1O[C@H]([C@H]([C@H]([C@@H]1O[C@H]1[C@H]([C@H]([C@@H]([C@H](O1)C(=O)[O-])O)O)O)O)O)O[C@@H]1[C@@H](O[C@H]([C@H]([C@H]1O)O)O)C(=O)[O-].[Ca+2],"calcium (2S,3S,4S,5S,6R)-6-[(2R,3S,4R,5S,6R)-2-carboxy-6-[(2R,3S,4R,5S,6R)-2-carboxylato-4,5,6-trihydroxyoxan-3-yl]oxy-4,5-dihydroxyoxan-3-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylate"
+Hydrochloric acid,7647-01-0,[H+].[Cl-],chlorane
+Propionic acid,79-09-4,C(CC)(=O)O,propanoic acid
+Triethyl citrate,77-93-0,OC(CC(=O)OCC)(CC(=O)OCC)C(=O)OCC,"triethyl 2-hydroxypropane-1,2,3-tricarboxylate"
+Sorbitan tristearate,26658-19-5,C(CCCCCCCCCCCCCCCCC)(=O)OC[C@@H](OC(CCCCCCCCCCCCCCCCC)=O)[C@H]1OC[C@@H]([C@H]1OC(CCCCCCCCCCCCCCCCC)=O)O,"[(2R)-2-[(2R,3R,4S)-4-hydroxy-3-octadecanoyloxyoxolan-2-yl]-2-octadecanoyloxyethyl] octadecanoate"
+Glyceryl triacetate (triacetin),102-76-1,C(C)(=O)OCC(COC(C)=O)OC(C)=O,"2,3-diacetyloxypropyl acetate"
+Potassium hydroxide,1310-58-3,[OH-].[K+],potassium hydroxide
+Guanylic acid,85-32-5,P(=O)(OC[C@H]1O[C@H]([C@@H]([C@@H]1O)O)N1C=2N=C(NC(C2N=C1)=O)N)(O)O,"[(2R,3S,4R,5R)-5-(2-amino-6-oxo-1H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methyl dihydrogen phosphate"
+"Azorubine, Carmoisine",3567-69-9,[Na+].[Na+].[O-][S](=O)(=O)c1ccc(N\N=C\2C=C(c3ccccc3C2=O)[S]([O-])(=O)=O)c4ccccc14,disodium;4-hydroxy-3-[(4-sulfonatonaphthalen-1-yl)diazenyl]naphthalene-1-sulfonate
+Monosodium glutamate,142-47-2,[Na+].N[C@@H](CCC(O)=O)C([O-])=O,sodium;(4S)-4-amino-5-hydroxy-5-oxopentanoate;hydrate
+Calcium carbonate,471-34-1,C([O-])([O-])=O.[Ca+2],calcium carbonate
+Sodium propionate,137-40-6,C(CC)(=O)[O-].[Na+],sodium propanoate
+Dipotassium guanylate,3254-39-5,Not found,"dipotassium;[(2R,3S,4R,5R)-5-(2-amino-6-oxo-1H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methyl phosphate"
+Advantame,714229-20-6,Not found,(3S)-3-[3-(3-hydroxy-4-methoxyphenyl)propylamino]-4-[[(2S)-1-methoxy-1-oxo-3-phenylpropan-2-yl]amino]-4-oxobutanoic acid;hydrate
+Sorbitan monolaurate,1338-39-2,C(CCCCCCCCCCC)(=O)OC[C@@H](O)[C@H]1OC[C@@H]([C@H]1O)O,"[(2R)-2-[(2R,3R,4S)-3,4-dihydroxyoxolan-2-yl]-2-hydroxyethyl] dodecanoate"
+Succinic acid,110-15-6,C(CCC(=O)O)(=O)O,butanedioic acid
+Potassium metabisulphite,16731-55-8,[K+].[K+].[O-][S](=O)[S]([O-])(=O)=O,
+Brown HT,4553-89-3,[Na+].[Na+].OCC1=CC(=N/Nc2ccc(c3ccccc23)[S]([O-])(=O)=O)\C(=O)/C(=N/Nc4ccc(c5ccccc45)[S]([O-])(=O)=O)C1=O,"disodium;4-[2-[3-(hydroxymethyl)-4,6-dioxo-5-[(4-sulfonatonaphthalen-1-yl)hydrazinylidene]cyclohex-2-en-1-ylidene]hydrazinyl]naphthalene-1-sulfonate"
+Erythorbic acid,89-65-6,O[C@H](CO)[C@H]1OC(C(=C1O)O)=O,"(2R)-2-[(1R)-1,2-dihydroxyethyl]-3,4-dihydroxy-2H-furan-5-one"
+Stannous chloride,7772-99-8,Cl[Sn]Cl,dichlorotin
+Citric acid,77-92-9,OC(CC(=O)O)(CC(=O)O)C(=O)O,"2-hydroxypropane-1,2,3-tricarboxylic acid"
+Calcium sulphate,7778-18-9,S(=O)(=O)([O-])[O-].[Ca+2],calcium sulfate
+Sodium benzoate (1),532-32-1,C(C1=CC=CC=C1)(=O)[O-].[Na+],sodium benzoate
+Silver,7440-22-4,[Ag],silver
+Calcium benzoate (1),2090-05-3,C(C1=CC=CC=C1)(=O)[O-].C(C1=CC=CC=C1)(=O)[O-].[Ca+2],calcium dibenzoate
+Sodium gluconate,527-07-1,O[C@@H](C(=O)[O-])[C@H]([C@@H]([C@@H](CO)O)O)O.[Na+],"sodium (2R,3S,4R,5R)-2,3,4,5,6-pentahydroxyhexanoate"
+Potassium benzoate,582-25-2,C(C1=CC=CC=C1)(=O)[O-].[K+],potassium benzoate
+Xylitol,488-81-3,C([C@H](C([C@H](CO)O)O)O)O,"(2R,4S)-pentane-1,2,3,4,5-pentol"
+Calcium lactate,814-80-2,OC(C(=O)[O-])C.OC(C(=O)[O-])C.[Ca+2],calcium bis(2-hydroxypropanoate)
+Allura red AC,25956-17-6,[Na+].[Na+].COc1cc(c(C)cc1N\N=C2\C(=O)C=Cc3cc(ccc23)[S]([O-])(=O)=O)[S]([O-])(=O)=O,disodium;6-hydroxy-5-[(2-methoxy-5-methyl-4-sulfonatophenyl)diazenyl]naphthalene-2-sulfonate
+Sorbic acid,110-44-1,C(\C=C\C=C\C)(=O)O,"(2E,4E)-hexa-2,4-dienoic acid"
+Disodium guanylate,5550-12-9,[Na+].[Na+].NC1=NC(=O)c2ncn([C@@H]3O[C@H](CO[P]([O-])([O-])=O)[C@@H](O)[C@H]3O)c2N1,"disodium;[(2R,3S,4R,5R)-5-(2-amino-6-oxo-1H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methyl phosphate"
+Ethyl lauroyl arginate,48076-74-0,NC(N)=NCCC[C@@H](C(=O)OCC)NC(CCCCCCCCCCC)=O,ethyl (2S)-5-(diaminomethylideneamino)-2-(dodecanoylamino)pentanoate
+Ethyl-p-hydroxybenzoate,120-47-8,OC1=CC=C(C(=O)OCC)C=C1,ethyl 4-hydroxybenzoate
+Potassium sorbate,24634-61-5,C(\C=C\C=C\C)(=O)[O-].[K+],"potassium (2E,4E)-hexa-2,4-dienoate"
+Calcium stearoyl-2-lactylate,5793-94-2,C(CCCCCCCCCCCCCCCCC)(=O)OC(C(=O)OC(C(=O)[O-])C)C.C(CCCCCCCCCCCCCCCCC)(=O)OC(C(=O)OC(C(=O)[O-])C)C.[Ca+2],calcium bis(2-(2-octadecanoyloxypropanoyloxy)propanoate)
+Acetylated starch,9045-28-7,C(C)(=O)OC1C(OC(C(C1O)OC)CO)OC1C(OC(C(C1O)O)OC1C(OC(C(C1O)O)C)CO)COC1OC(C(C(C1O)O)OC)CO,"[2-[2-[[3,4-dihydroxy-6-(hydroxymethyl)-5-methoxyoxan-2-yl]oxymethyl]-6-[4,5-dihydroxy-2-(hydroxymethyl)-6-methyloxan-3-yl]oxy-4,5-dihydroxyoxan-3-yl]oxy-4-hydroxy-6-(hydroxymethyl)-5-methoxyoxan-3-yl] acetate"
+Calcium benzoate,2090-05-3,C(C1=CC=CC=C1)(=O)[O-].C(C1=CC=CC=C1)(=O)[O-].[Ca+2],calcium dibenzoate
+Mannitol,69-65-8,C([C@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)O,"(2R,3R,4R,5R)-hexane-1,2,3,4,5,6-hexol"
+Ammonium sulphate,7783-20-2,[NH4+].[NH4+].[O-][S]([O-])(=O)=O,diazanium;sulfate
+Green S,3087-16-9,CN(C1=CC=C(C=C1)C(C1=C(C(=CC2=CC(=CC=C12)S(=O)(=O)[O-])S(=O)(=O)[O-])O)=C1C=CC(C=C1)=[N+](C)C)C.[Na+],"sodium 4-[[4-(dimethylamino)phenyl]-(4-dimethylazaniumylidenecyclohexa-2,5-dien-1-ylidene)methyl]-3-hydroxynaphthalene-2,7-disulfonate"
+Beta-cyclodextrin,7585-39-9,OC[C@H]1O[C@@H]2O[C@@H]3[C@H](O[C@H](O[C@@H]4[C@H](O[C@H](O[C@@H]5[C@H](O[C@H](O[C@@H]6[C@H](O[C@H](O[C@@H]7[C@H](O[C@H](O[C@@H]8[C@H](O[C@H](O[C@H]1[C@@H]([C@H]2O)O)[C@@H]([C@H]8O)O)CO)[C@@H]([C@H]7O)O)CO)[C@@H]([C@H]6O)O)CO)[C@@H]([C@H]5O)O)CO)[C@@H]([C@H]4O)O)CO)[C@@H]([C@H]3O)O)CO,"(1S,3R,5R,6S,8R,10R,11S,13R,15R,16S,18R,20R,21S,23R,25R,26S,28R,30R,31S,33R,35R,36R,37R,38R,39R,40R,41R,42R,43R,44R,45R,46R,47R,48R,49R)-5,10,15,20,25,30,35-heptakis(hydroxymethyl)-2,4,7,9,12,14,17,19,22,24,27,29,32,34-tetradecaoxaoctacyclo[31.2.2.23,6.28,11.213,16.218,21.223,26.228,31]nonatetracontane-36,37,38,39,40,41,42,43,44,45,46,47,48,49-tetradecol"
+Potassium nitrite,7758-09-0,N(=O)[O-].[K+],potassium nitrite
+Potassium alginate,9005-36-1,Not found,"dipotassium;(2S,3S,4S,5S,6R)-6-[(2S,3S,4R,5S,6R)-2-carboxylato-4,5,6-trihydroxyoxan-3-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylate"
+Potassium adipate,19147-16-1,[K+].[K+].[O-]C(=O)CCCCC([O-])=O,dipotassium;hexanedioate
+Magnesium oxide,1309-48-4,O=[Mg],oxomagnesium
+Sodium adipate,7486-38-6,[Na+].[Na+].[O-]C(=O)CCCCC([O-])=O,disodium;hexanedioate
+Potassium gluconate,299-27-4,O[C@@H](C(=O)[O-])[C@H]([C@@H]([C@@H](CO)O)O)O.[K+],"potassium (2R,3S,4R,5R)-2,3,4,5,6-pentahydroxyhexanoate"
+Nisin,1414-45-5,NCCCCC(C(=O)O)NC(C(=C)NC(C(C(C)C)NC(C(CC1=CN=CN1)NC(C(C(CC)C)NC(C(CO)NC(=O)C1NC(C(NC(C2CSC(C(C(NC(C(NC(C(SC1)C)C(N2)=O)=O)C)=O)NC(C(CCCCN)NC(C(CCSC)NC(C(CC(=O)N)NC(=O)C2CSC(C(C(NCC(NC(C(NC(C(NC(C(NCC(N2)=O)=O)CCSC)=O)CC(C)C)=O)C)=O)=O)NC(C(CCCCN)NC(=O)C2CSC(C(C(N1CCCC1C(NCC(N2)=O)=O)=O)NC(=O)C2CSCC(C(NC(C(NC(C(NC(C(N2)=O)CC(C)C)=O)=C)=O)C(C)CC)=O)NC(/C(=C/C)/NC(C(C(CC)C)N)=O)=O)C)=O)C)=O)=O)=O)C)=O)CC2=CN=CN2)=O)=O)=O)=O)=O)=O,"6-amino-2-[2-[[2-[[2-[[2-[[2-[[7-[[6-amino-2-[[2-[[4-amino-2-[[21-[[6-amino-2-[[3-[[15-[[(Z)-2-[(2-amino-3-methylpentanoyl)amino]but-2-enoyl]amino]-12-butan-2-yl-9-methylidene-6-(2-methylpropyl)-5,8,11,14-tetraoxo-1-thia-4,7,10,13-tetrazacyclohexadecane-3-carbonyl]amino]-4-methyl-2,9,12-trioxo-5-thia-1,8,11-triazabicyclo[11.3.0]hexadecane-7-carbonyl]amino]hexanoyl]amino]-15,22-dimethyl-12-(2-methylpropyl)-9-(2-methylsulfanylethyl)-5,8,11,14,17,20-hexaoxo-1-thia-4,7,10,13,16,19-hexazacyclodocosane-3-carbonyl]amino]-4-oxobutanoyl]amino]-4-methylsulfanylbutanoyl]amino]hexanoyl]amino]-14-(1H-imidazol-5-ylmethyl)-4,8,20-trimethyl-3,6,12,15,21-pentaoxo-9,19-dithia-2,5,13,16,22-pentazabicyclo[9.9.2]docosane-17-carbonyl]amino]-3-hydroxypropanoyl]amino]-3-methylpentanoyl]amino]-3-(1H-imidazol-5-yl)propanoyl]amino]-3-methylbutanoyl]amino]prop-2-enoylamino]hexanoic acid"
+Calcium citrates,813-94-5,OC(CC(=O)[O-])(CC(=O)[O-])C(=O)[O-].OC(CC(=O)[O-])(CC(=O)[O-])C(=O)[O-].[Ca+2].[Ca+2].[Ca+2],"tricalcium bis(2-hydroxypropane-1,2,3-tricarboxylate)"
+Lysozyme,12650-88-3,NC(CC(C(=O)NC(C(=O)O)CCCNC(=N)N)NC(C(CCCNC(=N)N)NC(C(CC1=CNC2=CC=CC=C12)NC(C(C)NC(C(C(C)C)NC(C(CC1=CNC2=CC=CC=C12)NC(C(C)NC(C(CCCNC(=N)N)NC(C(C(CC)C)NC(CNC(C(CCC(=O)N)NC(=O)C1N(CCC1)C(C(CC(=O)O)NC(C(CCCNC(=N)N)NC(C(C(C)C)NC(C(C(C)C)NC(C(CCCNC(=N)N)N)=O)=O)=O)=O)=O)=O)=O)=O)=O)=O)=O)=O)=O)=O)=O)=O,2-[[4-amino-2-[[2-[[2-[2-[[2-[[2-[2-[[2-[[2-[[2-[[5-amino-2-[[1-[2-[[2-[[2-[[2-[(2-amino-5-carbamimidamidopentanoyl)amino]-3-methylbutanoyl]amino]-3-methylbutanoyl]amino]-5-carbamimidamidopentanoyl]amino]-3-carboxypropanoyl]pyrrolidine-2-carbonyl]amino]-5-oxopentanoyl]amino]acetyl]amino]-3-methylpentanoyl]amino]-5-carbamimidamidopentanoyl]amino]propanoylamino]-3-(1H-indol-3-yl)propanoyl]amino]-3-methylbutanoyl]amino]propanoylamino]-3-(1H-indol-3-yl)propanoyl]amino]-5-carbamimidamidopentanoyl]amino]-4-oxobutanoyl]amino]-5-carbamimidamidopentanoic acid
+Zinc acetate,557-34-6,C(C)(=O)[O-].C(C)(=O)[O-].[Zn+2],zinc diacetate
+Inosinic acid,131-99-7,P(=O)(OC[C@H]1O[C@H]([C@@H]([C@@H]1O)O)N1C=2N=CNC(C2N=C1)=O)(O)O,"[(2R,3S,4R,5R)-3,4-dihydroxy-5-(6-oxo-1H-purin-9-yl)oxolan-2-yl]methyl dihydrogen phosphate"
+Calcium propionate,4075-81-4,C(CC)(=O)[O-].[Ca+2].C(CC)(=O)[O-],calcium propanoate
+Sodium lactate,72-17-3,OC(C(=O)[O-])C.[Na+],sodium 2-hydroxypropanoate
+Sodium alginate,9005-38-3,OC1C(OC(C(C1O)O)O)C(=O)[O-].[Na+],"sodium 3,4,5,6-tetrahydroxyoxane-2-carboxylate"
+Patent Blue V,3536-49-0,C(C)N(C1=CC=C(C=C1)C(C1=C(C=C(C(=C1)O)S(=O)(=O)[O-])S(=O)(=O)[O-])=C1C=CC(C=C1)=[N+](CC)CC)CC.C(C)N(C1=CC=C(C=C1)C(C1=C(C=C(C(=C1)O)S(=O)(=O)[O-])S(=O)(=O)[O-])=C1C=CC(C=C1)=[N+](CC)CC)CC.[Ca+2],"calcium bis(4-[[4-(diethylamino)phenyl]-(4-diethylazaniumylidenecyclohexa-2,5-dien-1-ylidene)methyl]-6-hydroxybenzene-1,3-disulfonate)"
+Sucralose,56038-13-2,ClC[C@]1(O[C@@H]([C@H]([C@@H]1O)O)CCl)O[C@H]1O[C@@H]([C@@H]([C@@H]([C@H]1O)O)Cl)CO,"(2R,3R,4R,5R,6R)-2-[(2R,3S,4S,5S)-2,5-bis(chloromethyl)-3,4-dihydroxyoxolan-2-yl]oxy-5-chloro-6-(hydroxymethyl)oxane-3,4-diol"

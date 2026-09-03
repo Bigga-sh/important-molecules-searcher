@@ -1,0 +1,79 @@
+Name,CAS,SMILES,IUPAC_Name
+Lime sulphur,1344-81-6,S.[Ca++],
+Thiamethoxam,153719-23-4,ClC=1SC(=CN1)CN\1COCN(/C1=N\[N+](=O)[O-])C,"(NE)-N-[3-[(2-chloro-1,3-thiazol-5-yl)methyl]-5-methyl-1,3,5-oxadiazinan-4-ylidene]nitramide"
+Tolylfluanid,731-27-1,ClC(F)(Cl)SN(C1=CC=C(C=C1)C)S(N(C)C)(=O)=O,N-[dichloro(fluoro)methyl]sulfanyl-N-(dimethylsulfamoyl)-4-methylaniline
+Fluoroimide,41205-21-4,ClC=1C(N(C(C1Cl)=O)C1=CC=C(C=C1)F)=O,"3,4-dichloro-1-(4-fluorophenyl)pyrrole-2,5-dione"
+Arsenic acid,7778-39-4,[As](O)(O)(O)=O,arsoric acid
+Disodium octaborate tetrahydrate,12280-03-4,O.O.O.O.[Na+].[Na+].OB(O)O.OB(O)O.OB(O)O.OB(O)O.OB(O)O.OB(O)O.OB(O)O.OB([O-])[O-],"disodium;(9,11-dioxido-5-oxoboranyloxy-2,4,6,8,10,12,13-heptaoxa-1,3,5,7,9,11-hexaborabicyclo[5.5.1]tridecan-3-yl)oxy-oxoborane;tetrahydrate"
+2-methoxyethylmercury acetate,151-38-2,C(C)(=O)O[Hg]CCOC,acetyloxy(2-methoxyethyl)mercury
+Bethoxazin,163269-30-5,S1C(=CC2=C1C=CC=C2)C2=NOCCS2=O,"3-(1-benzothiophen-2-yl)-5,6-dihydro-1,4,2-oxathiazine 4-oxide"
+Fluotrimazole,57381-79-0,C1(=CC=CC=C1)C(N1N=CN=C1)(C1=CC(=CC=C1)C(F)(F)F)C1=CC=CC=C1,"1-[diphenyl-[3-(trifluoromethyl)phenyl]methyl]-1,2,4-triazole"
+Hexaconazole,79983-71-4,ClC1=C(C=CC(=C1)Cl)C(CN1N=CN=C1)(CCCC)O,"2-(2,4-dichlorophenyl)-1-(1,2,4-triazol-1-yl)hexan-2-ol"
+Urea,57-13-6,NC(=O)N,urea
+Zinc oxide,1314-13-2,[O-2].[Zn+2],zinc oxygen(2-)
+Thiacloprid,111988-49-9,ClC1=CC=C(C=N1)CN1C(SCC1)=NC#N,"[3-[(6-chloro-3-pyridinyl)methyl]-1,3-thiazolidin-2-ylidene]cyanamide"
+Chloraniformethan,20856-57-9,ClC(C(NC1=CC(=C(C=C1)Cl)Cl)NC=O)(Cl)Cl,"N-[2,2,2-trichloro-1-(3,4-dichloroanilino)ethyl]formamide"
+Mancopper,53988-93-5,[Mn++].[Cu++].[S-]C(=S)NCCNC([S-])=S.[S-]C(=S)NCCNC([S-])=S,copper;manganese(2+);bis(N-[2-(sulfidocarbothioylamino)ethyl]carbamodithioate)
+Cypermethrin,52315-07-8,ClC(=CC1C(C1C(=O)OC(C1=CC(=CC=C1)OC1=CC=CC=C1)C#N)(C)C)Cl,"[cyano-(3-phenoxyphenyl)methyl] 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate"
+Chlortetracycline hydrochloride,64-72-2,[Cl-].CN(C)[C@H]1[C@@H]2C[C@H]3C(=C(O)c4c(O)ccc(Cl)c4[C@@]3(C)O)C(=O)[C@]2(O)C(=O)\C(=C(N)/O)C1=O.[H+],"(4S,4aS,5aS,6S,12aR)-7-chloro-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide;hydrochloride"
+Zinc borate,14720-55-9,B([O-])([O-])OB([O-])[O-].[Zn+2].[Zn+2].[Zn+2],trizinc diborate
+Hexaflurate,17029-22-0,F[As-](F)(F)(F)(F)F.[K+],potassium hexafluoroarsenic(1-)
+Metsulfovax,21452-18-6,CC=1SC(=C(N1)C)C(=O)NC1=CC=CC=C1,"2,4-dimethyl-N-phenyl-1,3-thiazole-5-carboxamide"
+Epichlorohydrin,106-89-8,ClCC1OC1,2-(chloromethyl)oxirane
+Aluminium phosphide,20859-73-8,[P-3].[Al+3],aluminum phosphorus(3-)
+Fipronil,120068-37-3,NC1=C(C(=NN1C1=C(C=C(C=C1Cl)C(F)(F)F)Cl)C#N)S(=O)C(F)(F)F,"5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-(trifluoromethylsulfinyl)pyrazole-3-carbonitrile"
+Decafentin,15652-38-7,Not found,benzene;decyl(triphenyl)phosphanium;tin(4+);bromide;chloride
+Fenpiclonil,74738-17-3,ClC1=C(C=CC=C1Cl)C=1C(=CNC1)C#N,"4-(2,3-dichlorophenyl)-1H-pyrrole-3-carbonitrile"
+Clothianidin,210880-92-5,ClC=1SC(=CN1)CNC(=N[N+](=O)[O-])NC,"1-[(2-chloro-1,3-thiazol-5-yl)methyl]-3-methyl-2-nitroguanidine"
+Mucochloric anhydride,4412-09-3,ClC=1C(OC(C1Cl)=O)OC1OC(C(=C1Cl)Cl)=O,"3,4-dichloro-2-[(3,4-dichloro-5-oxo-2H-furan-2-yl)oxy]-2H-furan-5-one"
+Tributyltin oxide,56-35-9,C(CCC)[Sn](O[Sn](CCCC)(CCCC)CCCC)(CCCC)CCCC,tributyl(tributylstannyloxy)stannane
+Probenazole,27605-76-1,C(C=C)OC1=NS(C2=C1C=CC=C2)(=O)=O,"3-prop-2-enoxy-1,2-benzothiazole 1,1-dioxide"
+Dichlofluanid,1085-98-9,ClC(F)(Cl)SN(C1=CC=CC=C1)S(N(C)C)(=O)=O,N-[dichloro(fluoro)methyl]sulfanyl-N-(dimethylsulfamoyl)aniline
+Etofenprox,80844-07-1,C(C)OC1=CC=C(C=C1)C(COCC1=CC(=CC=C1)OC1=CC=CC=C1)(C)C,1-ethoxy-4-[2-methyl-1-[(3-phenoxyphenyl)methoxy]propan-2-yl]benzene
+Thioquinox,93-75-4,S1C(SC=2C1=NC1=CC=CC=C1N2)=S,"[1,3]dithiolo[4,5-b]quinoxaline-2-thione"
+Diclobutrazol,75736-33-3,ClC1=C(C=CC(=C1)Cl)CC(C(C(C)(C)C)O)N1N=CN=C1,"1-(2,4-dichlorophenyl)-4,4-dimethyl-2-(1,2,4-triazol-1-yl)pentan-3-ol"
+Chlortetracycline,57-62-5,ClC1=C2[C@@]([C@H]3C[C@H]4[C@@H](C(C(=C([C@]4(C(C3=C(C2=C(C=C1)O)O)=O)O)O)C(=O)N)=O)N(C)C)(C)O,"(4S,4aS,5aS,6S,12aR)-7-chloro-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4,4a,5,5a-tetrahydrotetracene-2-carboxamide"
+Fenapanil,61019-78-1,N1(C=NC=C1)CC(C#N)(CCCC)C1=CC=CC=C1,2-(imidazol-1-ylmethyl)-2-phenylhexanenitrile
+N-nitrosodimethylamine,62-75-9,CN(N=O)C,"N,N-dimethylnitrous amide"
+Propiconazole,60207-90-1,ClC1=C(C=CC(=C1)Cl)C1(OCC(O1)CCC)CN1N=CN=C1,"1-[[2-(2,4-dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl]methyl]-1,2,4-triazole"
+Tebuconazole,107534-96-3,ClC1=CC=C(C=C1)CCC(C(C)(C)C)(O)CN1N=CN=C1,"1-(4-chlorophenyl)-4,4-dimethyl-3-(1,2,4-triazol-1-ylmethyl)pentan-3-ol"
+Thiabendazole,148-79-8,N1C(=NC2=C1C=CC=C2)C=2N=CSC2,"4-(1H-benzimidazol-2-yl)-1,3-thiazole"
+Parinol,17781-31-6,ClC1=CC=C(C=C1)C(O)(C=1C=NC=CC1)C1=CC=C(C=C1)Cl,bis(4-chlorophenyl)-pyridin-3-ylmethanol
+Fenpropimorph,67564-91-4,C(C)(C)(C)C1=CC=C(C=C1)CC(CN1C[C@@H](O[C@@H](C1)C)C)C,"(2S,6R)-4-[3-(4-tert-butylphenyl)-2-methylpropyl]-2,6-dimethylmorpholine"
+Kasugamycin phosphate,101651-86-9,C[C@H]1O[C@H](OC2[C@@H](O)[C@@H](O)C(O)[C@H](O)[C@H]2O)[C@@H](N)C[C@@H]1N=C(N)C(O)=O.O[P](O)(O)=O,"2-amino-2-[(2R,3S,5S,6R)-5-amino-2-methyl-6-[(2R,3S,5S,6S)-2,3,4,5,6-pentahydroxycyclohexyl]oxyoxan-3-yl]iminoacetic acid;phosphoric acid"
+Pentachlorophenol,87-86-5,ClC1=C(C(=C(C(=C1Cl)Cl)Cl)Cl)O,"2,3,4,5,6-pentachlorophenol"
+Oxine-copper,10380-28-6,N1=CC=CC2=CC=CC(=C12)[O-].N1=CC=CC2=CC=CC(=C12)[O-].[Cu+2],copper bis(quinolin-8-olate)
+Bifenthrin,82657-04-3,Cc1c(COC(=O)C2C(\C=C(/Cl)C(F)(F)F)C2(C)C)cccc1c3ccccc3,"trans-(2-methyl-3-phenylphenyl)methyl (1R,3R)-3-[(Z)-2-chloro-3,3,3-trifluoroprop-1-enyl]-2,2-dimethylcyclopropane-1-carboxylate"
+Kasugamycin hydrochloride hydrate,200132-83-8,Not found,"2-amino-2-[(2R,3S,5S,6R)-5-amino-2-methyl-6-[(2S,3S,5S,6R)-2,3,4,5,6-pentahydroxycyclohexyl]oxyoxan-3-yl]iminoacetic acid;hydrate;hydrochloride"
+Benthiazole,21564-17-0,S1C(=NC2=C1C=CC=C2)SCSC#N,"1,3-benzothiazol-2-ylsulfanylmethyl thiocyanate"
+Boric acid,10043-35-3,B(O)(O)O,boric acid
+Dimetachlone,24096-53-5,ClC=1C=C(C=C(C1)Cl)N1C(CCC1=O)=O,"1-(3,5-dichlorophenyl)pyrrolidine-2,5-dione"
+Chlobenthiazone,63755-05-5,ClC1=CC=CC2=C1N(C(S2)=O)C,"4-chloro-3-methyl-1,3-benzothiazol-2-one"
+Fenitrothion,122-14-5,COP(=S)(OC1=CC(=C(C=C1)[N+](=O)[O-])C)OC,dimethoxy-(3-methyl-4-nitrophenoxy)-sulfanylidene-lambda5-phosphane
+Deltamethrin,52918-63-5,CC1(C)[C@@H](C=C(Br)Br)[C@H]1C(=O)O[C@H](C#N)c2cccc(Oc3ccccc3)c2,"trans-[(S)-cyano-(3-phenoxyphenyl)methyl] (1R,3R)-3-(2,2-dibromoethenyl)-2,2-dimethylcyclopropane-1-carboxylate"
+Flufenoxuron,101463-69-8,ClC1=C(OC2=CC(=C(C=C2)NC(=O)NC(C2=C(C=CC=C2F)F)=O)F)C=CC(=C1)C(F)(F)F,"N-[[4-[2-chloro-4-(trifluoromethyl)phenoxy]-2-fluorophenyl]carbamoyl]-2,6-difluorobenzamide"
+Cyproconazole,94361-06-5,ClC1=CC=C(C=C1)C(CN1N=CN=C1)(C(C)C1CC1)O,"2-(4-chlorophenyl)-3-cyclopropyl-1-(1,2,4-triazol-1-yl)butan-2-ol"
+Mepanipyrim,110235-47-7,CC1=NC(=NC(=C1)C#CC)NC1=CC=CC=C1,4-methyl-N-phenyl-6-prop-1-ynylpyrimidin-2-amine
+Pyridinitril,1086-02-8,ClC1=NC(=C(C(=C1C#N)C1=CC=CC=C1)C#N)Cl,"2,6-dichloro-4-phenylpyridine-3,5-dicarbonitrile"
+Dinocton,104078-12-8,C(OC)(OC1=C(C=C(C=C1[N+](=O)[O-])[N+](=O)[O-])CCCCCC(C)C)=O,"methyl [2-(6-methylheptyl)-4,6-dinitrophenyl] carbonate"
+Esfenvalerate,66230-04-4,ClC1=CC=C(C=C1)[C@@H](C(=O)O[C@@H](C1=CC(=CC=C1)OC1=CC=CC=C1)C#N)C(C)C,[(S)-cyano-(3-phenoxyphenyl)methyl] (2S)-2-(4-chlorophenyl)-3-methylbutanoate
+Hexachlorobenzene,118-74-1,ClC1=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl,"1,2,3,4,5,6-hexachlorobenzene"
+Copper acetoarsenite,12002-03-8,[Cu++].[Cu++].[Cu++].[Cu++].CC([O-])=O.CC([O-])=O.[O-][As]=O.[O-][As]=O.[O-][As]=O.[O-][As]=O.[O-][As]=O.[O-][As]=O,tetracopper;oxoarsinite;diacetate
+Bithionol,97-18-7,ClC1=C(C(=CC(=C1)Cl)SC1=C(C(=CC(=C1)Cl)Cl)O)O,"2,4-dichloro-6-(3,5-dichloro-2-hydroxyphenyl)sulfanylphenol"
+Ammonium carbonate,506-87-6,[NH4+].[NH4+].[O-]C([O-])=O,diazanium;carbonate
+1-decanol,112-30-1,C(CCCCCCCCC)O,decan-1-ol
+Furmecyclox,60568-05-0,C1(CCCCC1)N(C(=O)C1=C(OC(=C1)C)C)OC,"N-cyclohexyl-N-methoxy-2,5-dimethylfuran-3-carboxamide"
+Alpha-cypermethrin,67375-30-8,CC1(C)[C@@H](C=C(Cl)Cl)[C@H]1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2,"trans-[(S)-cyano-(3-phenoxyphenyl)methyl] (1R,3R)-3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate"
+Cupric ammonium carbonate,53231-49-5,Not found,copper;azane;carbonate
+Imazalil,35554-44-0,ClC1=C(C=CC(=C1)Cl)C(CN1C=NC=C1)OCC=C,"1-[2-(2,4-dichlorophenyl)-2-prop-2-enoxyethyl]imidazole"
+Permethrin,52645-53-1,ClC(=CC1C(C1C(=O)OCC1=CC(=CC=C1)OC1=CC=CC=C1)(C)C)Cl,"(3-phenoxyphenyl)methyl 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate"
+Fenoxycarb,72490-01-8,O(C1=CC=CC=C1)C1=CC=C(OCCNC(OCC)=O)C=C1,ethyl N-[2-(4-phenoxyphenoxy)ethyl]carbamate
+Azithiram,5834-94-6,CN(NC(=S)SSC(NN(C)C)=S)C,dimethylaminocarbamothioylsulfanyl N-(dimethylamino)carbamodithioate
+Penflufen,494793-67-8,FC1=C(C(=NN1C)C)C(=O)NC1=C(C=CC=C1)C(C)CC(C)C,"5-fluoro-1,3-dimethyl-N-[2-(4-methylpentan-2-yl)phenyl]pyrazole-4-carboxamide"
+Sulfuryl fluoride,2699-79-8,S(=O)(=O)(F)F,sulfuryl difluoride
+Kasugamycin,6980-18-3,NC(C(=O)O)=N[C@@H]1[C@H](O[C@@H]([C@H](C1)N)OC1[C@@H]([C@H](C([C@@H]([C@@H]1O)O)O)O)O)C,"2-amino-2-[(2R,3S,5S,6R)-5-amino-2-methyl-6-[(2R,3S,5S,6S)-2,3,4,5,6-pentahydroxycyclohexyl]oxyoxan-3-yl]iminoacetic acid"
+Bentaluron,28956-64-1,S1C(=NC2=C1C=CC=C2)NC(=O)NC(C)C,"1-(1,3-benzothiazol-2-yl)-3-propan-2-ylurea"
+Gliotoxin,67-99-2,O[C@H]1C=CC=C2C[C@@]34N([C@H]12)C([C@@](SS3)(N(C4=O)C)CO)=O,"(1R,7S,8S,11R)-7-hydroxy-11-(hydroxymethyl)-15-methyl-12,13-dithia-9,15-diazatetracyclo[9.2.2.01,9.03,8]pentadeca-3,5-diene-10,14-dione"
+P-chlorocresol,59-50-7,ClC1=C(C=C(C=C1)O)C,4-chloro-3-methylphenol
+Mercuric chloride,7487-94-7,Cl[Hg]Cl,dichloromercury
+Ferimzone,89269-64-7,CC1=NC(=NC(=C1)C)N\N=C(\C)/C1=C(C=CC=C1)C,"4,6-dimethyl-N-[(Z)-1-(2-methylphenyl)ethylideneamino]pyrimidin-2-amine"

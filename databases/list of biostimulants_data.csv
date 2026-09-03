@@ -1,0 +1,15 @@
+Name,CAS,SMILES,IUPAC_Name
+24-epibrassinolide,78821-43-9,O[C@H]([C@@H](C)[C@H]1CC[C@H]2[C@@H]3COC([C@H]4C[C@@H]([C@@H](C[C@@]4([C@H]3CC[C@]12C)C)O)O)=O)[C@@H]([C@@H](C(C)C)C)O,"(1S,2R,4R,5S,7S,11S,12S,15R,16S)-15-[(2S,3R,4R,5R)-3,4-dihydroxy-5,6-dimethylheptan-2-yl]-4,5-dihydroxy-2,16-dimethyl-9-oxatetracyclo[9.7.0.02,7.012,16]octadecan-8-one"
+Kinetin hydrochloride,177966-68-6,Not found,N-(furan-2-ylmethyl)-7H-purin-6-amine;hydrochloride
+Gibberellins,83313-40-0,OC12CCC3C45C(C(C3(CC1=C)C2)C(=O)O)C(C(C=C4)O)(C(O5)=O)C,"5,12-dihydroxy-11-methyl-6-methylidene-16-oxo-15-oxapentacyclo[9.3.2.15,8.01,10.02,8]heptadec-13-ene-9-carboxylic acid"
+Gibberellic acid,77-06-5,O[C@]12CC[C@H]3[C@@]45[C@H]([C@@H]([C@@]3(CC1=C)C2)C(=O)O)[C@@]([C@H](C=C4)O)(C(O5)=O)C,"(1R,2R,5S,8S,9S,10R,11S,12S)-5,12-dihydroxy-11-methyl-6-methylidene-16-oxo-15-oxapentacyclo[9.3.2.15,8.01,10.02,8]heptadec-13-ene-9-carboxylic acid"
+Chitosan hydrochloride,70694-72-3,Not found,"(2R,3S,4R,5R,6S)-5-amino-6-[(2R,3S,4R,5R,6S)-5-amino-6-[(2R,3S,4R,5R,6R)-5-amino-4,6-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4-hydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-2-(hydroxymethyl)oxane-3,4-diol;azane;hydrochloride"
+Laminarin,9008-22-4,O[C@H]1C(O[C@@H]([C@H]([C@@H]1OC1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)O)CO)O[C@@H]1[C@H](C(O[C@@H]([C@H]1O)CO)O)O,"(3R,4S,5R,6R)-4-[(3R,4S,5R,6R)-3,5-dihydroxy-6-(hydroxymethyl)-4-[(3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-2-yl]oxy-6-(hydroxymethyl)oxane-2,3,5-triol"
+Heptamaloxyloglucan,870721-81-6,OC1C(C(OC(C1O)CO)OC1C(OCC(C1O)O)OCC1C(C(C(C(O1)OC(C(C(CO)O)O)C(CO)O)O)O)OC1OC(C(C(C1O)O)O)COC1OCC(C(C1O)O)O)OC1OC(C(C(C1O)O)O)C,"4-[6-[[3-[4,5-dihydroxy-6-(hydroxymethyl)-3-(3,4,5-trihydroxy-6-methyloxan-2-yl)oxyoxan-2-yl]oxy-4,5-dihydroxyoxan-2-yl]oxymethyl]-3,4-dihydroxy-5-[3,4,5-trihydroxy-6-[(3,4,5-trihydroxyoxan-2-yl)oxymethyl]oxan-2-yl]oxyoxan-2-yl]oxyhexane-1,2,3,5,6-pentol"
+Kinetin,525-79-1,O1C(=CC=C1)CNC1=C2NC=NC2=NC=N1,N-(furan-2-ylmethyl)-7H-purin-6-amine
+Potassium gibberellate,125-67-7,O[C@]12CC[C@H]3[C@@]45[C@H]([C@@H]([C@@]3(CC1=C)C2)C(=O)[O-])[C@@]([C@H](C=C4)O)(C(O5)=O)C.[K+],"potassium (1R,2R,5S,8S,9S,10R,11S,12S)-5,12-dihydroxy-11-methyl-6-methylidene-16-oxo-15-oxapentacyclo[9.3.2.15,8.01,10.02,8]heptadec-13-ene-9-carboxylate"
+Triacontanol,593-50-0,C(CCCCCCCCCCCCCCCCCCCCCCCCCCCCC)O,triacontan-1-ol
+Zeatin,1637-39-4,C/C(/CO)=C\CNC1=C2NC=NC2=NC=N1,(E)-2-methyl-4-(7H-purin-6-ylamino)but-2-en-1-ol
+Calcium peroxide,1305-79-9,[Ca++].[O-][O-],calcium peroxide
+Thiourea,62-56-6,NC(=S)N,thiourea
+Thiamethoxam,153719-23-4,ClC=1SC(=CN1)CN\1COCN(/C1=N\[N+](=O)[O-])C,"(NE)-N-[3-[(2-chloro-1,3-thiazol-5-yl)methyl]-5-methyl-1,3,5-oxadiazinan-4-ylidene]nitramide"
