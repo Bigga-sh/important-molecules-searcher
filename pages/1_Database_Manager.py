@@ -212,20 +212,23 @@ st.markdown(
 if st.button("🌐  Try ChEMBL download (requires server to be up)"):
     import requests as _req
     import csv as _csv2
+    import time as _time2
 
     CHEMBL_HOST = "https://www.ebi.ac.uk"
     CHEMBL_BASE = f"{CHEMBL_HOST}/chembl/api/data"
     HEADERS     = {"User-Agent": "MoleculeDBSearcher/1.0", "Accept": "application/json"}
     PAGE_SIZE   = 200
 
+    session = _req.Session()
+    session.headers.update(HEADERS)
+
     # Status check first
     status_text = st.empty()
     status_text.markdown("Checking ChEMBL availability…")
     try:
-        probe = _req.get(
+        probe = session.get(
             f"{CHEMBL_BASE}/molecule",
             params={"max_phase": 4, "format": "json", "limit": 1},
-            headers=HEADERS,
             timeout=20,
         )
         if probe.status_code != 200 or not probe.text.strip():
@@ -242,10 +245,24 @@ if st.button("🌐  Try ChEMBL download (requires server to be up)"):
     status_text.markdown(f"ChEMBL online — downloading **{total:,}** approved drugs…")
     progress_bar = st.progress(0.0)
     all_rows: list[dict] = []
-    total_pages = (total + PAGE_SIZE - 1) // PAGE_SIZE
-    data = probe.json()
 
-    while True:
+    # Start from page 1 with the full page size (the probe used limit=1,
+    # so following its 'next' URL would download one molecule at a time)
+    next_url = f"{CHEMBL_BASE}/molecule"
+    next_params = {"max_phase": 4, "format": "json", "limit": PAGE_SIZE, "offset": 0}
+
+    while next_url:
+        try:
+            r = session.get(next_url, params=next_params, timeout=60)
+            next_params = None  # only send params on the first request; use next URL after
+            if r.status_code != 200:
+                st.warning(f"ChEMBL returned {r.status_code} mid-download; saving partial results.")
+                break
+            data = r.json()
+        except Exception as exc:
+            st.warning(f"Request failed mid-download: {exc}. Saving partial results.")
+            break
+
         for mol in data.get("molecules", []):
             structs = mol.get("molecule_structures") or {}
             smi = structs.get("canonical_smiles", "")
@@ -262,24 +279,14 @@ if st.button("🌐  Try ChEMBL download (requires server to be up)"):
                 "MW":         str(props.get("full_mwt", "")),
             })
 
-        next_url = data.get("page_meta", {}).get("next")
-        if not next_url or not data.get("molecules"):
+        raw_next = data.get("page_meta", {}).get("next")
+        if not raw_next or not data.get("molecules"):
             break
-        if next_url.startswith("/"):
-            next_url = CHEMBL_HOST + next_url
+        next_url = CHEMBL_HOST + raw_next if raw_next.startswith("/") else raw_next
 
         progress_bar.progress(min(len(all_rows) / total, 1.0))
         status_text.markdown(f"Downloaded **{len(all_rows):,}** / {total:,}…")
-
-        try:
-            r = _req.get(next_url, headers=HEADERS, timeout=60)
-            if r.status_code != 200:
-                st.warning(f"ChEMBL returned {r.status_code} mid-download; saving partial results.")
-                break
-            data = r.json()
-        except Exception as exc:
-            st.warning(f"Request failed mid-download: {exc}. Saving partial results.")
-            break
+        _time2.sleep(0.1)
 
     if all_rows:
         with open(api_out_path, "w", newline="", encoding="utf-8") as fh:
