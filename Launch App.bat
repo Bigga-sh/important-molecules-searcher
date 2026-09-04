@@ -1,4 +1,4 @@
 @echo off
 cd /d "%~dp0"
-python -m streamlit run app.py
+"C:\Users\acasagrande\AppData\Local\Programs\Python\Python314\python.exe" -m streamlit run app.py
 pause
