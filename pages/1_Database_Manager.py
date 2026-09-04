@@ -286,7 +286,7 @@ if st.button("🌐  Try ChEMBL download (requires server to be up)"):
 
         progress_bar.progress(min(len(all_rows) / total, 1.0))
         status_text.markdown(f"Downloaded **{len(all_rows):,}** / {total:,}…")
-        _time2.sleep(0.1)
+        _time2.sleep(1.0)
 
     if all_rows:
         with open(api_out_path, "w", newline="", encoding="utf-8") as fh:
